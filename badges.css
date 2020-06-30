@@ -65,4 +65,15 @@
       animation: fadeIn .2s linear 1;
       letter-spacing: 1px;
     }
-   
+
+/* Also DANIEL */
+    .avatar-1BDn8e[src*="145105696105562113"] + h2 > .username-1A8OIy::after {content: "";
+      background-image: url('https://i.imgur.com/M2rulQo.png');}
+    .avatar-1BDn8e[src*="145105696105562113"] + h2 > .username-1A8OIy:hover::after {
+      content: "I AM A BIG GAY FISH";
+      background-color: #990000;
+      color: #fff;
+      animation: fadeIn .2s linear 1;
+      letter-spacing: 1px;
+    }
+  
