@@ -55,10 +55,10 @@
       animation: fadeIn .2s linear 1;
       letter-spacing: 1px;
     }
-    /* Also Spectra */
-    .avatar-1BDn8e[src*="210902690555756544"] + h2 > .username-1A8OIy::after {content: "";
+    /* Also LyGhT */
+    .avatar-1BDn8e[src*="225605638376390656"] + h2 > .username-1A8OIy::after {content: "";
       background-image: url('https://i.imgur.com/M2rulQo.png');}
-    .avatar-1BDn8e[src*="210902690555756544"] + h2 > .username-1A8OIy:hover::after {
+    .avatar-1BDn8e[src*="225605638376390656"] + h2 > .username-1A8OIy:hover::after {
       content: "The real someone is in my basement";
       background-color: #990000;
       color: #fff;
