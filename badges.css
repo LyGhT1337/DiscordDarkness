@@ -41,32 +41,11 @@
     }
 
 
-  /*==| MODS |==*/
-    /*cruxie*/
-    .avatar-1BDn8e[src*="332394843743584256"] + h2 > .username-1A8OIy::after {content: "";
-      background-image: url('https://codedotspectra.github.io/themes/badges/sword.svg');}
-    .avatar-1BDn8e[src*="332394843743584256"] + h2 > .username-1A8OIy:hover::after {
-      content: "Best Boi Mod";
-      animation: fadeIn .5s linear 1;
-      color: #ff8080;
-      width: 75px;
-      text-align: center;
-      background-color: transparent;
-      background-image: url('https://i.imgur.com/bzmEwnm.png') !important;
-    }
-    /*discordchan*/
-    .avatar-1BDn8e[src*="706169896228225080"] + h2 > .username-1A8OIy::after {content: "";
-      background-image: url('https://codedotspectra.github.io/themes/badges/sword.svg');}
-    .avatar-1BDn8e[src*="706169896228225080"] + h2 > .username-1A8OIy:hover::after {
-      content: "Will probably ban you";
-      color: #4ce949;
-    }
-
   /*==|CUSTOM BADGES|==*/
-    /* Spectra */
-    .avatar-1BDn8e[src*="286208664623120384"] + h2 > .username-1A8OIy::after {content: "";
+    /* LyGhT */
+    .avatar-1BDn8e[src*="225605638376390656"] + h2 > .username-1A8OIy::after {content: "";
       background-image: url('https://i.imgur.com/gLCkHB5.png');}
-    .avatar-1BDn8e[src*="286208664623120384"] + h2 > .username-1A8OIy:hover::after {
+    .avatar-1BDn8e[src*="225605638376390656"] + h2 > .username-1A8OIy:hover::after {
       content: "Theme Developer";
       background-image: linear-gradient(30deg, #5433FF, #20BDFF) !important;
       background-position: center;
