@@ -6,3 +6,8 @@ Compact, squared and dark for nightowls!
 
 
 Credits belong to Cruxie and Spectra. This is a personal Version.
+
+
+## Installation
+
+If you wish to use this Theme, download the Discord Electro 2.0.css file and import it to your Discord Themes Folder.
