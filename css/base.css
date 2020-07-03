@@ -2169,3 +2169,8 @@ svg[name=Discord] {
 .side-8zPYf6 .item-PXvHYJ[style*="color: rgb(114, 137, 218);"]{color:white !important;}
 
 .theme-dark .overflowRolesPopout-140n9i, .theme-dark .overflowRolesPopoutArrow-2O66oH{background-color: var(--dark); box-shadow: none;}
+
+.wrapper-3WhCwL {
+    background: #6b00b9 !important; /*Color of the mentions*/
+    color: #ffffff !important; /*Color of text in the mention*/
+}
