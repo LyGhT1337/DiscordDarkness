@@ -21,7 +21,7 @@
 	padding: 2px 10px
 }
 
-
+.emptyChannelIcon-3IXV5M{background-color: var(--medium);}
 .members-1998pB, .members-1998pB>div {background: transparent;}
 .theme-dark .sadImage-2ph8SI{display:none;}
 .diversitySelector-tmmMv0 .item-16cXuq:hover {background-color: var(--light) !important;}
@@ -107,7 +107,7 @@
 .avatar-1BDn8e{border-radius: 0px;}
 .listItem-2P_4kh, .wrapper-2B2Wx1{padding-right: 0px!important;}
 .channel-2QD9_O{margin-left: -0px;}
-.container-PNkimc,.members-1998pB {
+.container-PNkimc {
 	background-color: var(--medium)!important
 }
 .container-1UB9sr,.container-2Thooq {
@@ -690,8 +690,8 @@ padding-right: 0px;
 	position: absolute
 }
 
-.body-3iLsc4,.footer-1fjuF6 {
-	background-color: #17171c!important
+.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
+	background-color: var(--medium);
 }
 
 .headerNormal-T_seeN {
