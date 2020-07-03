@@ -5,8 +5,6 @@
   --dark:#0c0d10;
   --medium:#121316;
   --light:#1a1b1d;
-  --accentcolor: 163,47,194;
-  --linkcolor: 190,60,220; 
   --HomeButtonImg:url('https://imgur.com/kVZVlTP.png');
 }
 
@@ -20,7 +18,9 @@
 	color: #72767d;
 	padding: 2px 10px
 }
-.members-1998pB, .members-1998pB>div {background: var(--dark);}
+
+
+.members-1998pB, .members-1998pB>div {background: transparent;}
 .theme-dark .sadImage-2ph8SI{display:none;}
 .diversitySelector-tmmMv0 .item-16cXuq:hover {background-color: var(--light) !important;}
 .diversitySelector-tmmMv0 .popout-2nUePc{background-color: var(--medium); border: 0px;}
@@ -2169,13 +2169,3 @@ svg[name=Discord] {
 .side-8zPYf6 .item-PXvHYJ[style*="color: rgb(114, 137, 218);"]{color:white !important;}
 
 .theme-dark .overflowRolesPopout-140n9i, .theme-dark .overflowRolesPopoutArrow-2O66oH{background-color: var(--dark); box-shadow: none;}
-
-.wrapper-3WhCwL {
-    background: #6b00b9 !important; /*Color of the mentions*/
-    color: #ffffff !important; /*Color of text in the mention*/
-}
-
-/*  MEMBERS LIST */
-.members-1998pB, .members-1998pB>div {
-    background: transparent;
-}
