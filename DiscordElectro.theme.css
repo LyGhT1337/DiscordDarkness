@@ -10,7 +10,7 @@
 + NewElectro Theme for Dicord +
 + Made By LyGhT, originally by spectra and cruxie. This is a private personalized version made by LyGhT and only useable by LyGhT.
 + ========================= +
-This theme was last updated on 30th June 2020. 
+This theme was last updated on 3rd July 2020.
 The author LyGhT retains full rights of this code.
 You are not allowed to redistribute this theme or any part of it as your own. That means do not post an edited version of this theme anywhere.
 You are only allowed to edit the theme for personal use only.
@@ -18,20 +18,15 @@ If you enjoy using the theme, help spread the word!
 */
 
 /*###################################################################################################*/
-@import url('https://lyght1337.github.io/Discord-Electro/base.css');
-@import url('https://lyght1337.github.io/Discord-Electro/CodeBlocks.css');
-@import url('https://lyght1337.github.io/Discord-Electro/Statusright.css');
-@import url('https://lyght1337.github.io/Discord-Electro/credits.css');
-@import url('https://lyght1337.github.io/Discord-Electro/badges.css');
-@import url('https://lyght1337.github.io/Discord-Electro/BlurpleRecolor.css');
+@import url('https://lyght1337.github.io/Discord-Electro/css/base.css');
+@import url('https://lyght1337.github.io/Discord-Electro/css/CodeBlocks.css');
+@import url('https://lyght1337.github.io/Discord-Electro/css/Statusright.css');
+@import url('https://lyght1337.github.io/Discord-Electro/css/credits.css');
+@import url('https://lyght1337.github.io/Discord-Electro/css/badges.css');
+@import url('https://lyght1337.github.io/Discord-Electro/css/BlurpleRecolor.css');
 /*###################################################################################################*/
 
-.wrapper-3WhCwL {
-    background: #6b00b9 !important; /*Color of the mentions*/
-    color: #ffffff !important; /*Color of text in the mention*/
+:root {
+	--accentcolor: 163,47,194;		/*	blurple	-	default:	114,137,218		*/
+	--linkcolor: 190,60,220;		/*	link	-	default:	0,176,244		*/
 }
-
-/*  MEMBERS LIST */
-.members-1998pB, .members-1998pB>div {
-    background: transparent;
-} 
