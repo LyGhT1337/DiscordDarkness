@@ -1,4 +1,4 @@
-# DiscordElectro - Working 30.06.2020
+# DiscordElectro - Working 03.07.2020
 
 Compact, squared and dark for nightowls!
 
