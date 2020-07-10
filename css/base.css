@@ -2177,7 +2177,7 @@ svg[name=Discord] {
 
 /*Search Bar*/
 
-.searchResultMessage-1fxgXh.hit-1fVM9e{background-color: #1a1b1d; border: 1px; box-shadow: none;}
+.searchResultMessage-1fxgXh.hit-1fVM9e{background-color: #1a1b1d; border: none; box-shadow: none;}
 .searchResult-9tQ1uo:after, .searchResult-9tQ1uo:before{display: none;}
 .searchResult-9tQ1uo.expanded-w_LCGl, .expanded-w_LCGl .searchResultMessage-1fxgXh.hit-1fVM9e{background-color: var(--backgroundColor); border: 1px;}
 .channelName-1JRO3C{background-color: transparent;}
