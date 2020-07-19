@@ -21,7 +21,6 @@ This theme won't get any support unless I myself decide to update or fix it. Iss
 The plugins are purely preference. You can download them and put them into the plugins folder of BetterDiscord in order to use them.
 They include stuff like:
 
- - Channel Popouts; Which allow for multiple Discord chat windows.
  - ColorSighted; Which changes the Status colors to the actual non color-blind colors.
  - CopyRawMessage; Name explains it.
  - GameActivityToggle; Adds a toggle for this options to your Mute / Settings Bar.
