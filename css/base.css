@@ -30,6 +30,33 @@
 .collapsed-4WdoJ7 .icon-WnO6o2{color: black;}
 .collapsed-4WdoJ7:hover .icon-WnO6o2:hover{color: black;}
 
+/* Large Profile Picture in Popout */
+.userPopout-3XzG_A::before{
+	top: 250px; }
+  .userPopout-3XzG_A .wrapper-3t9DeA foreignObject {
+	-webkit-mask: none;
+	mask: none; }
+  .userPopout-3XzG_A .avatarWrapperNormal-3wFMbf .wrapper-3t9DeA{
+	width: 250px !important;
+	height: 250px !important; }
+  .userPopout-3XzG_A .headerTop-3C2Zn0{
+	padding: 0;
+	padding-bottom: 8px; }
+  .userPopout-3XzG_A .avatarWrapperNormal-3wFMbf .avatarHint-1qgaV3 {
+	width: 250px !important;
+	height: 250px !important; }
+  .userPopout-3XzG_A .avatarWrapperNormal-3wFMbf .avatarHint-1qgaV3 foreignObject {
+	-webkit-mask: none;
+	mask: none; }
+  .userPopout-3XzG_A .avatarWrapperNormal-3wFMbf:hover .avatarHint-1qgaV3 {
+	width: 250px !important;
+	height: 250px !important; }
+  .userPopout-3XzG_A .avatarWrapperNormal-3wFMbf:hover .avatarHint-1qgaV3 foreignObject {
+	-webkit-mask: none;
+	mask: none;}
+  .userPopout-3XzG_A .avatarWrapperNormal-3wFMbf .wrapper-3t9DeA {
+	box-shadow: none !important;    
+}
   
 .theme-dark .root-1gCeng{background-color: var(--medium);}
 .theme-dark .ctaBar-2UsjF2, .theme-dark .tierBody-16Chc9, .theme-dark .perk-2WeBWW{background-color: var(--light);}
