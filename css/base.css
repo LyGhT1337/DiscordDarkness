@@ -2204,9 +2204,3 @@ svg[name=Discord] {
     fill: var(--yellow);
 }
 
-/* Text Channel Bar*/
-.modeSelected-1zApJ_ .content-3at_AU {
-    border-left-width: 2px;
-    border-style: solid;
-    border-image: linear-gradient(to bottom right, red, yellow) 1 100%;
-}
