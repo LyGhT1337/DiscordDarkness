@@ -2191,19 +2191,19 @@ svg[name=Discord] {
 
 /* Unread Messages */
 .isUnread-3Ef-o9 {
-    border-color: var(--primary);
+    border-color: #e9cb00;
 }
 
 .unreadPill-2HyYtt {
-    background-color: var(--primary);
+    background-color: #e9cb00;
 }
 .unreadPillCapStroke-7rkHbg {
-    color: var(--primary);
-    fill: var(--primary);	
+    color: #e9cb00;
+    fill: #e9cb00;	
 }
 .PillCapStroke-7rkHbg {
-    color: var(--primary);
-    fill: var(--primary);
+    color: #e9cb00;
+    fill: #e9cb00;
 }
 
 /* Text Channel Bar*/
