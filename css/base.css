@@ -2191,24 +2191,24 @@ svg[name=Discord] {
 
 /* Unread Messages */
 .isUnread-3Ef-o9 {
-    border-color: yellow;
+    border-color: var(--primary);
 }
 
 .unreadPill-2HyYtt {
-    background-color: yellow;
+    background-color: var(--primary);
 }
+
 .unreadPillCapStroke-7rkHbg {
-    color: yellow;
-    fill: yellow;	
+    color: var(--primary);
+    fill: var(--primary);
 }
-.PillCapStroke-7rkHbg {
-    color: yellow;
-    fill: yellow;
-}
+
+
+
 
 /* Text Channel Bar*/
 .modeSelected-1zApJ_ .content-3at_AU {
     border-left-width: 2px;
     border-style: solid;
-    border-image: linear-gradient(to bottom right,red, yellow,) 1 100%;
+    border-image: linear-gradient(to bottom right, red, yellow) 1 100%;
 }
