@@ -2197,7 +2197,10 @@ svg[name=Discord] {
 .unreadPill-2HyYtt {
     background-color: var(--primary);
 }
-
+.unreadPillCapStroke-7rkHbg {
+    color: var(--primary);
+    fill: var(--primary);	
+}
 .PillCapStroke-7rkHbg {
     color: var(--primary);
     fill: var(--primary);
