@@ -2210,5 +2210,5 @@ svg[name=Discord] {
 .modeSelected-1zApJ_ .content-3at_AU {
     border-left-width: 2px;
     border-style: solid;
-    border-image: linear-gradient(to bottom right, orange, yellow) 1 100%;
+    border-image: linear-gradient(to bottom right,red, orange, yellow, orange, red) 1 100%;
 }
