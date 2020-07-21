@@ -43,32 +43,26 @@
 
   /*==|CUSTOM BADGES|==*/
     /* LyGhT */
-    .avatar-1BDn8e[src*="225605638376390656"] + h2 > .username-1A8OIy::after {content: "";
-      background-image: url('https://i.imgur.com/gLCkHB5.png');}
+    
     .avatar-1BDn8e[src*="225605638376390656"] + h2 > .username-1A8OIy:hover::after {
-      content: "Theme Developer";
-      background-image: linear-gradient(30deg, #5433FF, #20BDFF) !important;
-      background-position: center;
-      background-size: cover;
-      background-repeat: no-repeat;
+      content: "DefinitelyLyGhT";
+      background-color: #cf6802;
       color: #fff;
       animation: fadeIn .2s linear 1;
       letter-spacing: 1px;
     }
-    /* Also LyGhT */
-    .avatar-1BDn8e[src*="225605638376390656"] + h2 > .username-1A8OIy::after {content: "";
-      background-image: url('https://i.imgur.com/M2rulQo.png');}
-    .avatar-1BDn8e[src*="225605638376390656"] + h2 > .username-1A8OIy:hover::after {
-      content: "DefinetlyLyGhT";
+
+ /* Shady */
+    
+    .avatar-1BDn8e[src*="278620454636355584"] + h2 > .username-1A8OIy:hover::after {
+      content: "Shady";
       background-color: #990000;
       color: #fff;
       animation: fadeIn .2s linear 1;
       letter-spacing: 1px;
     }
 
-/* Also DANIEL */
-    .avatar-1BDn8e[src*="145105696105562113"] + h2 > .username-1A8OIy::after {content: "";
-      background-image: url('https://i.imgur.com/M2rulQo.png');}
+/* Light */
     .avatar-1BDn8e[src*="145105696105562113"] + h2 > .username-1A8OIy:hover::after {
       content: "I AM A BIG GAY FISH";
       background-color: #990000;
