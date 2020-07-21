@@ -5,6 +5,7 @@
   --dark:#0c0d10;
   --medium:#121316;
   --light:#1a1b1d;
+  --yellow:#c4b223;	
   --HomeButtonImg:url('https://imgur.com/kVZVlTP.png');
 }
 
@@ -2191,20 +2192,17 @@ svg[name=Discord] {
 
 /* Unread Messages */
 .isUnread-3Ef-o9 {
-    border-color: var(--primary);
+    border-color: var(--yellow);
 }
 
 .unreadPill-2HyYtt {
-    background-color: var(--primary);
+    background-color: var(--yellow);
 }
 
 .unreadPillCapStroke-7rkHbg {
-    color: var(--primary);
-    fill: var(--primary);
+    color: var(--yellow);
+    fill: var(--yellow);
 }
-
-
-
 
 /* Text Channel Bar*/
 .modeSelected-1zApJ_ .content-3at_AU {
