@@ -2191,14 +2191,14 @@ svg[name=Discord] {
 
 /* Unread Messages */
 .isUnread-3Ef-o9 {
-    border-color: yellow;
+    border-color: var(--primary);
 }
 
 .unreadPill-2HyYtt {
-    background-color: yellow;
+    background-color: var(--primary);
 }
 
-.unreadPillCapStroke-7rkHbg {
-    color: yellow;
-    fill: yellow;
+.PillCapStroke-7rkHbg {
+    color: var(--primary);
+    fill: var(--primary);
 }
