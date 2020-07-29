@@ -2206,5 +2206,155 @@ svg[name=Discord] {
     fill: var(--yellow);
 }
 
+/* BD Settings Icons */
 
+#bd-settings-sidebar  .ui-tab-bar-item {
+    padding-left: 50px !important;
+  }
+  
+  [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"] {
+    padding-left: 50px !important;
+  }
+  .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP [class*="item"] {
+    padding-left: 20 !important;
+  }
+  .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP [class*="item"]::after {
+    content: "";
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 15px;
+    margin-top: -2px;
+    opacity: .3;
+    -webkit-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+  }
+  
+  .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP [class*="item"]:hover::after {
+    opacity: .7;
+  }
+  
+  .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP [class*="item"][class*="selected-"]::after {
+    opacity: 1;
+  }
+  
+  [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(2)::after {
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/person.svg) !important;
+  }
+  
+  [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(3)::after {
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/security.svg) !important;
+  }
+  
+  [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(4)::after {
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/apps.svg) !important;
+  }
+  
+  [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(5)::after {
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/link.svg) !important;
+  }
+  
+  [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(6)::after {
+    background: url(https://cdn.rawgit.com/OmgDani/ClearVisionFixes/master/Icons/Credit_card.svg) !important;
+  }
+  
+  [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(8)::after {
+    background: url(https://discordapp.com/assets/df0e29b16d71bdad333880b2488075be.svg) !important;
+  }
+  
+    [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(9)::after {
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/master/Themes/ClearVisionV5/icons/gift.png) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+    [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(10)::after {
+    background-image: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/master/Themes/ClearVisionV5/icons/boost.png)!important;
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+  
+ .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(11)::after {
+    background-image: url(https://discordapp.com/assets/6c73f47daf179ffade99f501bfc5101b.svg)!important;
+    background-repeat: no-repeat;background-position: center;background-size:cover;} 
+  
+  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(13)::after {
+    background: url(https://cdn.rawgit.com/OmgDani/ClearVisionFixes/master/Icons/open_in_new.svg) !important;
+  }
+  
+ .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(23)::after {
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/desktop_windows.svg) !important;
+  }
+  
+  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(28)::after {
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/exit.svg) !important;
+  }
+  
+  [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(12)::after {
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/mic.svg) !important;
+  }
+  
+    [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(15)::after {
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/master/Themes/ClearVisionV5/icons/overlay.png) !important;
+  }
+  
+    [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(16)::after {
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/notifications.svg) !important;
+  }
+  
+  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(17)::after{
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/master/Themes/ClearVisionV5/icons/keybinds.png) !important;
+  }
+  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(14)::after{
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/mic.svg) !important;
+  }
+  
+  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(18)::after{
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/games.svg) !important;
+  }
+  
+  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(19)::after{
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/chat.svg) !important;
+  }
+  
+  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(20)::after{
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/camera.svg) !important;
+  }
+  
+  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(21)::after{
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/videocam.svg) !important;
+  }
+  
+  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(22)::after{
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/language.svg) !important;
+  }
+  
+  .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(25)::after{
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/history.svg) !important;
+  }
+  
+
+  #bd-settings-sidebar .ui-tab-bar-item:nth-child(3)::after {
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/betterdiscord.svg) !important;
+  }
+  
+  #bd-settings-sidebar .ui-tab-bar-item:nth-child(4)::after {
+    background: url(https://cdn.rawgit.com/OmgDani/ClearVisionFixes/6c6aaf1a/Icons/bandage.svg) !important;
+  }
+  
+  #bd-settings-sidebar .ui-tab-bar-item:nth-child(5)::after {
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/emote.svg) !important;
+  }
+  
+  #bd-settings-sidebar .ui-tab-bar-item:nth-child(6)::after {
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/code.svg) !important;
+  }
+  
+  #bd-settings-sidebar .ui-tab-bar-item:nth-child(7)::after {
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/puzzle.svg) !important;
+  }
+  
+  #bd-settings-sidebar .ui-tab-bar-item:nth-child(8)::after {
+    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/palette.svg) !important;
+  }
 
