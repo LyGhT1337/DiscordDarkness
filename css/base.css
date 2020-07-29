@@ -2358,3 +2358,18 @@ svg[name=Discord] {
     background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/palette.svg) !important;
   }
 
+/* Roles */
+.role-2irmRk{position:relative;display:flex;flex-direction:row-reverse;border-radius:3px;transition:all .1s ease-in-out;cursor:default}
+.role-2irmRk[style]:not(:hover){border-color:transparent !important}
+.role-2irmRk:not([style]){background:rgba(255,255,255,0.1);border-color:transparent}
+.role-2irmRk>.roleCircle-3xAZ1j{width:0;height:0}
+.role-2irmRk>.roleCircle-3xAZ1j:not(:empty){margin-left:6px}
+.role-2irmRk>.roleCircle-3xAZ1j:after{content:"";position:absolute;top:-1px;right:-1px;bottom:-1px;left:-1px;border-radius:3px;background:inherit;opacity:.15;transition:all .1s ease-in-out;pointer-events:none}
+.role-2irmRk>.roleCircle-3xAZ1j>.roleRemoveIcon-2-TeGW{position:absolute;display:block;opacity:0;transition:all .1s ease-in-out}
+.role-2irmRk>.roleCircle-3xAZ1j>.roleRemoveIcon-2-TeGW .fill{fill:#fff}
+.role-2irmRk>.roleName-32vpEy{margin-right:0;margin-left:4px;color:rgba(255,255,255,0.7);transition:all .1s ease-in-out}
+.role-2irmRk:hover>.roleCircle-3xAZ1j:after{opacity:.3}
+.role-2irmRk:hover>.roleCircle-3xAZ1j>.roleRemoveIcon-2-TeGW{opacity:1}
+.role-2irmRk>.roleName-32vpEy{color:#f0eceb}
+.addButton-pcyyf6{background:rgba(255,255,255,0.1);transition:all .1s ease-in-out;cursor:pointer}
+.addButton-pcyyf6>svg{width:7px;height:7px;color:rgba(255,255,255,0.5);transition:inherit}
