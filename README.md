@@ -1,4 +1,4 @@
-# DiscordElectro - Working 19.07.2020
+# DiscordElectro - Working 29.07.2020
 
 Compact, squared and dark for nightowls!
 
@@ -15,7 +15,7 @@ This theme won't get any support unless I myself decide to update or fix it. Iss
 
 1 - Download ![BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases) and Install it.
 
-2 - After installing it, download the ![DiscordElectro.theme.css](https://github.com/LyGhT1337/Discord-Electro/releases/download/2.0.1/DiscordElectro.theme.css) file and put it in your Themes Folder.
+2 - After installing it, download the ![DiscordElectro.theme.css](https://github.com/LyGhT1337/Discord-Electro/releases/download/2.2.0/DiscordElectro.theme.css) file and put it in your Themes Folder.
 
 
 The plugins are purely preference. You can download them and put them into the plugins folder of BetterDiscord in order to use them.
