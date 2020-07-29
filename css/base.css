@@ -623,7 +623,7 @@ padding-right: 0px;
 }
 
 .headerStreaming-2FjmGz .activity-11LB_k .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
-	border: 2px solid #38225e;
+	border: 2px solid var(--medium);
 	background-color: var(--medium)
 }
 
