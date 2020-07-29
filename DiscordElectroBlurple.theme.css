@@ -23,4 +23,10 @@ If you enjoy using the theme, help spread the word!
 @import url('https://lyght1337.github.io/Discord-Electro/css/Statusright.css');
 @import url('https://lyght1337.github.io/Discord-Electro/css/credits.css');
 @import url('https://lyght1337.github.io/Discord-Electro/css/badges.css');
+@import url('https://lyght1337.github.io/Discord-Electro/css/BlurpleRecolor.css');
 /*###################################################################################################*/
+
+:root {
+	--accentcolor: 25,67,194;		/*	blurple	-	default:	114,137,218		*/
+	--linkcolor: 190,60,220;		/*	link	-	default:	0,176,244		*/
+}
