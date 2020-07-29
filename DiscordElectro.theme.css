@@ -24,3 +24,16 @@ If you enjoy using the theme, help spread the word!
 @import url('https://lyght1337.github.io/Discord-Electro/css/credits.css');
 @import url('https://lyght1337.github.io/Discord-Electro/css/badges.css');
 /*###################################################################################################*/
+
+:root {
+  --primary:#e9cb00;
+  --primaryT:#807301;
+  --primary2:#e4dc9d;
+  --dark:#0c0d10;
+  --medium:#121316;
+  --light:#1a1b1d;
+  --HomeButtonImg:url('https://imgur.com/kVZVlTP.png');
+  --pingbackground:#807301;
+  --pingcolor:#e9cb00;
+  --pingbackgroundhover:#e9ca0073;
+}
