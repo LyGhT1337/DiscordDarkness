@@ -616,15 +616,11 @@ padding-right: 0px;
 
 .headerStreaming-2FjmGz .activity-11LB_k {
 	background-color: #432970;
-	background-image: url(https://arudarin.github.io/themes/neutron/import/twitch-background.jpg);
-	background-repeat: no-repeat;
-	background-position: right top;
-	background-size: 100% 105%
 }
 
 .headerStreaming-2FjmGz .activity-11LB_k .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
-	border: 2px solid var(--medium);
-	background-color: var(--medium)
+	border: 2px solid #432970;
+	background-color: #432970
 }
 
 .headerStreaming-2FjmGz .activity-11LB_k .lookOutlined-3sRXeN.colorWhite-rEQuAQ:hover {
