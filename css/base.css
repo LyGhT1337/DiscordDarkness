@@ -624,12 +624,12 @@ padding-right: 0px;
 
 .headerStreaming-2FjmGz .activity-11LB_k .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
 	border: 2px solid #38225e;
-	background-color: #8c69c9
+	background-color: var(--medium)
 }
 
 .headerStreaming-2FjmGz .activity-11LB_k .lookOutlined-3sRXeN.colorWhite-rEQuAQ:hover {
 	border: 2px solid #8c69c9;
-	background-color: #38225e
+	background-color: var(--medium)
 }
 
 .headerSpotify-zpWxgT {
@@ -695,11 +695,7 @@ padding-right: 0px;
 }
 
 .headerNormal-T_seeN {
-	background-image: url(https://discordapp.com/assets/8eba753f8b6d02be1013c5e659b0fc2f.png);
-	background-position: center;
-	background-size: 200% 200%;
-	background-repeat: no-repeat;
-	background-color: #0c0c0e!important
+	background-color: var(--medium)!important
 }
 
 .headerText-1HLrL7 {
