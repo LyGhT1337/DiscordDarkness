@@ -375,12 +375,12 @@ padding-right: 0px;
 }
 
 .wrapper-3WhCwL {
-	background-color: var(--primaryT)!important;
-	color: var(--primary)!important
+	background-color: var(--pingbackground)!important;
+	color: var(--pingcolor)!important
 }
 
 .wrapper-3WhCwL:hover {
-	background-color: #e9ca0073!important
+	background-color: var(--pingbackgroundhover)!important
 }
 
 #bd-pub-button {
@@ -2172,11 +2172,6 @@ svg[name=Discord] {
 
 .theme-dark .overflowRolesPopout-140n9i, .theme-dark .overflowRolesPopoutArrow-2O66oH{background-color: var(--dark); box-shadow: none;}
 
-.wrapper-3WhCwL {
-    background: #6b00b9 !important; /*Color of the mentions*/
-    color: #ffffff !important; /*Color of text in the mention*/
-}
-
 /* Search Bar fixes */
 .searchResultMessage-1fxgXh.hit-1fVM9e{background-color: var(--backgroundColor); border: none; box-shadow: none;}
 .searchResult-9tQ1uo:after, .searchResult-9tQ1uo:before{display: none;}
@@ -2358,7 +2353,7 @@ svg[name=Discord] {
     background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/palette.svg) !important;
   }
 
-/* Roles */
+/* Roles in User Card */
 .role-2irmRk{position:relative;display:flex;flex-direction:row-reverse;border-radius:3px;transition:all .1s ease-in-out;cursor:default}
 .role-2irmRk[style]:not(:hover){border-color:transparent !important}
 .role-2irmRk:not([style]){background:rgba(255,255,255,0.1);border-color:transparent}
@@ -2373,3 +2368,7 @@ svg[name=Discord] {
 .role-2irmRk>.roleName-32vpEy{color:#f0eceb}
 .addButton-pcyyf6{background:rgba(255,255,255,0.1);transition:all .1s ease-in-out;cursor:pointer}
 .addButton-pcyyf6>svg{width:7px;height:7px;color:rgba(255,255,255,0.5);transition:inherit}
+
+[aria-label="Explore Public Servers"] {
+    display: none;
+}
