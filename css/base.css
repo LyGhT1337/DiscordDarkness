@@ -2175,9 +2175,6 @@ svg[name=Discord] {
 /* Hide blocked Users */
 .da-messagesWrapper .da-groupStart:not(.da-message){display:none}
 
-/* HIDE MODAL PROTIP */
-.footer-1fjuF6 { display: none; } 
-
 
 /* Unread Messages */
 .isUnread-3Ef-o9 {
@@ -2361,6 +2358,3 @@ svg[name=Discord] {
 .addButton-pcyyf6{background:rgba(255,255,255,0.1);transition:all .1s ease-in-out;cursor:pointer}
 .addButton-pcyyf6>svg{width:7px;height:7px;color:rgba(255,255,255,0.5);transition:inherit}
 
-[aria-label="Explore Public Servers"] {
-    display: none;
-}
