@@ -2175,6 +2175,8 @@ svg[name=Discord] {
 /* Hide blocked Users */
 .da-messagesWrapper .da-groupStart:not(.da-message){display:none}
 
+/* HIDE MODAL PROTIP */
+.protip-YaFfgO{display:none;}
 
 /* Unread Messages */
 .isUnread-3Ef-o9 {
