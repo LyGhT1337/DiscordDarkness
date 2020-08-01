@@ -1,8 +1,8 @@
-# DiscordElectro - Working 29.07.2020
+# DiscordElectro - Working 01.08.2020
 
 Compact, squared and dark for nightowls!
 
-![Discord Electro](https://i.imgur.com/Yyy7nIn.png)
+![Discord Electro](https://i.imgur.com/yX6CBGv.png)
 
 
 Credits belong to Cruxie and Spectra. This is a personal Version.
