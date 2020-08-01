@@ -6,7 +6,7 @@ Compact, squared and dark for nightowls!
 ![Discord Electro](https://i.imgur.com/VLXYCVu.png)
 
 
-Credits belong to Cruxie and Spectra. This is a personal Version.
+Original credits belong to Cruxie and Spectra. This is a personal Version with credits belonging to LyGhT.
 
 
 ## Installation
