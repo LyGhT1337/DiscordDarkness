@@ -1,12 +1,11 @@
-# DiscordElectro - Working 01.08.2020
+# DiscordDarkness - Working 06.08.2020
 
 Compact, squared and dark for nightowls!
 
-![Discord Electro](https://i.imgur.com/yX6CBGv.png)
-![Discord Electro](https://i.imgur.com/VLXYCVu.png)
+![Discord Darkness](https://i.imgur.com/dewVOYn.png)
+![Discord Darkness](https://i.imgur.com/U1cRAA8.png)
 
-
-Original credits belong to Cruxie and Spectra. This is a personal Version with credits belonging to LyGhT.
+Credits belong to LyGhT, with the usage of code snippits from: cruxie, spectra and ClearVision.
 
 
 ## Installation
@@ -16,7 +15,7 @@ This theme won't get any support unless I myself decide to update or fix it. Iss
 
 1 - Download ![BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases) and Install it.
 
-2 - After installing it, download the ![DiscordElectro.theme.css](https://github.com/LyGhT1337/Discord-Electro/releases/download/2.2.0/DiscordElectro.theme.css) file and put it in your Themes Folder.
+2 - After installing it, download the ![DiscordDarkness.theme.css](https://github.com/LyGhT1337/Discord-Electro/releases/download/2.2.0/DiscordElectro.theme.css) file and put it in your Themes Folder.
 
 
 The plugins are purely preference. You can download them and put them into the plugins folder of BetterDiscord in order to use them.
