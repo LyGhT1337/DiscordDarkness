@@ -1,16 +1,16 @@
-# DiscordDarkness - Working 06.08.2020
+# DiscordDarkness - Working 12.08.2020
 
 Compact, squared and dark for nightowls!
 
 ![Discord Darkness](https://i.imgur.com/dewVOYn.png)
 ![Discord Darkness](https://i.imgur.com/U1cRAA8.png)
 
-Credits belong to LyGhT, with the usage of code snippits from: cruxie, spectra and ClearVision.
+Credits belong to LyGhT, with the usage of code snippets from: cruxie, spectra and ClearVision.
 
 
 ## Installation
 
-If you wish to use this Theme, download the DiscordElectro.theme.css file and import it to your Discord Themes Folder.
+If you wish to use this Theme, download the DiscordDarkness.theme.css file and import it to your Discord Themes Folder.
 This theme won't get any support unless I myself decide to update or fix it. Issues will be fixed aslong as I use it.
 
 1 - Download ![BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases) and Install it.
