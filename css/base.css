@@ -2384,3 +2384,55 @@ svg[name=Discord] {
 .form-2fGMdU:before{
   display:none;
 }
+
+
+
+
+/* Instant-no delay - Reactions */
+
+.reaction-1hd86g {
+    opacity: 1!important;
+    transform: none!important;
+}
+
+
+/* TitleBar Header and Border */
+
+.titleBar-AC4pGV {
+	height: 25px;
+	box-shadow: 0 0 10px var(--primary);
+	margin-top: -4px;
+}
+
+/* Titlebar Buttons */
+
+.winButton-iRh8-Z {
+height: 25px;
+width: 40px;
+}
+
+.winButton-1HsbF {
+
+}
+.winButtonClose-1HsbF-:hover {
+	background: var(--primary);
+}
+
+.winButtonClose-1HsbF-:active {
+    background:red;
+}
+
+.winButtonMinMax-PBQ2gm:active {
+    background:rgba(255,255,255,0.15);
+}
+
+/* Channel Category dropdown icon */
+
+.icon-WnO6o2 {
+    color: black;
+}
+
+.icon-WnO6o-:hover {
+    color: white;
+}
+
