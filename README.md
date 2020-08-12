@@ -1,4 +1,4 @@
-# DiscordDarkness - Working 12.08.2020
+# DiscordDarkness - A WiP Theme based on DiscordElectro - Working 12.08.2020
 
 Compact, squared and dark for nightowls!
 
