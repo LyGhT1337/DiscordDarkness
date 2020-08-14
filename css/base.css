@@ -2427,6 +2427,22 @@ width: 40px;
 }
 
 /*Category Dividers*/
-
 .name-IbjUBS {color:var(--primary)!important};}.containerDefault-3GGEv_,.containerDragBefore-3Dzc5x,.containerDragAfter-3TEhpe,.containerUserOver-1Tcb7l{padding-top:20px}.wrapper-CU3qI5{padding-left:10px;padding-right:0;transition:all .3s ease-in-out}.icon-WnO6o2{display:none}.name-IbjUBS{display:flex;align-items:center;justify-content:center;color:var(--main-color);font-weight:700;text-align:center;transition:all .3s ease-in-out;opacity:.7}.name-IbjUBS:before{content:"";height:2px;flex-grow:1;transition:all .3s ease-in-out;background:linear-gradient(to left, var(--primary) 50%, transparent);margin-right:5px}.name-IbjUBS:after{content:"";color:var(--primary);height:2px;flex-grow:1;transition:all .3s ease-in-out;background:linear-gradient(to right, var(--primary) 50%, transparent);margin-left:5px;
 
+
+/*Mentioned Chat colors*/
+.mentioned-xhSam7:before{
+	background-color: var(--primary);
+}
+.mentioned-xhSam7 {
+    background-color: var(--mentioned);
+}
+
+.mentioned-xhSam7:hover {
+    background-color: var(--mentionedH);
+}
+	
+/*Wordmark*/
+.wordmark-2iDDfm{background-color:transparent;opacity:.9;pointer-events:all}.wordmark-2iDDfm svg{background-color:transparent;background-image:url(https://i.imgur.com/bfTUEnP.png);background-size:contain;width:100px;height:16px;padding-left:15px;padding-right:15px;margin-left:0;display:block;background-repeat: no-repeat;!important}
+.wordmark-2iDDfm{color: transparent;}
+	
