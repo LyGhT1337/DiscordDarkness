@@ -2430,14 +2430,14 @@ width: 40px;
 
 /*Mentioned Chat colors*/
 .mentioned-xhSam7:before{
-	background-color: var(--primary);
+	background-color: var(--primary)!important;
 }
 .mentioned-xhSam7 {
-    background-color: var(--mentioned);
+    background-color: var(--mentioned)!important;
 }
 
 .mentioned-xhSam7:hover {
-    background-color: var(--mentionedH);
+    background-color: var(--mentionedH)!important;
 }
 	
 /*Wordmark*/
