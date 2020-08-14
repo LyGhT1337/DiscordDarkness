@@ -21,6 +21,8 @@ If you enjoy using the theme, help spread the word!
   --primary:#e94600;
   --primaryT:#691f00;
   --primary2:#d49b83;
+  --mentioned:rgba(250, 109, 26, 0.05);	
+  --mentionedH:rgba(250, 109, 26, 0.14);
   --dark:#090a0d;
   --medium:#111214;
   --light:#1e1f21;
