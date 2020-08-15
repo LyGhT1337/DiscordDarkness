@@ -2444,3 +2444,8 @@ width: 40px;
 .mentioned-xhSam7:hover {
     background-color: var(--mentionedH)!important;
 }
+	
+/*Chat background color*/	
+.messagesWrapper-1sRNjr {
+    background-color: var(--medium);
+}
