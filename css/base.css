@@ -2379,7 +2379,7 @@ svg[name=Discord] {
 	filter: drop-shadow(0 0 10px white);
 	color: white;
 }
-/*Message box */ 
+/*box */ 
 .scrollableContainer-2NUZem {
   background-color: var(--medium)!important;
   border: 1px solid var(--primary)!important;
