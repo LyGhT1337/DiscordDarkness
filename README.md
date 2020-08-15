@@ -1,9 +1,9 @@
-# DiscordDarkness - A WiP Theme based on DiscordElectro - Working 12.08.2020
+# DiscordDarkness - A WiP Theme based on DiscordElectro - Working 15.08.2020
 
 Compact, squared and dark for nightowls!
 
-![Discord Darkness](https://i.imgur.com/dewVOYn.png)
-![Discord Darkness](https://i.imgur.com/U1cRAA8.png)
+![Discord Darkness](blob:https://imgur.com/5131e4db-1d53-4592-8115-b31d551a82e9)
+
 
 Credits belong to LyGhT, with the usage of code snippets from: cruxie, spectra and ClearVision.
 
