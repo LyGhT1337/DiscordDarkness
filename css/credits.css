@@ -1,9 +1,3 @@
-/* These fixes were made with love (and lots of swearing on Leafy's end). Special thanks at the end. */
-
-/* These might break a few other themes. Disabled for the time being.  */
-/* .typeWindows-1za-n7>.wordmark-2iDDfm:before { content: "ClearVision with Fixes";}
-.typeMacOS-3EmCyP:before { content: "CV v6 w/Fix";}
-.container-3baos1:before { content: "CV w/ Fixes";} */
 
 /* 
 ********
@@ -62,6 +56,12 @@
 .contents-2mQqc9 > img[src*="332394843743584256"] ~ .header-23xsNx > span.username-1A8OIy:after
 {
     content: ' v6 Import Fix Dev ';
+}
+
+/* LyGhT. */
+.contents-2mQqc9 > img[src*="225605638376390656"] ~ .header-23xsNx > span.username-1A8OIy:after
+{
+    content: ' DDDev ';
 }
 
 /*
