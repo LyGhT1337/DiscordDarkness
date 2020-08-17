@@ -2463,7 +2463,7 @@ width: 40px;
 
 /*Discord Invite BG color*/
 .contentWrapper-3WC1ID{
-    background-color:var(--medium);
+    background-color:var(--medium)!important;
 }
 
 /* Loading Cache Channel fix */
