@@ -45,29 +45,24 @@
     /* LyGhT */
     
     .avatar-1BDn8e[src*="225605638376390656"] + h2 > .username-1A8OIy:hover::after {
-      content: "DefinitelyLyGhT";
+      content: "Discord Darkness Dev";
       background-color: #cf6802;
       color: #fff;
       animation: fadeIn .2s linear 1;
       letter-spacing: 1px;
     }
 
- /* Shady */
-    
-    .avatar-1BDn8e[src*="278620454636355584"] + h2 > .username-1A8OIy:hover::after {
-      content: "Shady";
-      background-color: #990000;
-      color: #fff;
-      animation: fadeIn .2s linear 1;
-      letter-spacing: 1px;
-    }
 
-/* Light */
-    .avatar-1BDn8e[src*="145105696105562113"] + h2 > .username-1A8OIy:hover::after {
-      content: "I AM A BIG GAY FISH";
-      background-color: #990000;
-      color: #fff;
-      animation: fadeIn .2s linear 1;
-      letter-spacing: 1px;
+/*cruxie*/
+    .avatar-1BDn8e[src*="332394843743584256"] + h2 > .username-1A8OIy::after {content: "";
+      background-image: url('https://codedotspectra.github.io/themes/badges/sword.svg');}
+    .avatar-1BDn8e[src*="332394843743584256"] + h2 > .username-1A8OIy:hover::after {
+      content: "New Electro Dev";
+      animation: fadeIn .5s linear 1;
+      color: #ff8080;
+      width: 75px;
+      text-align: center;
+      background-color: transparent;
+      background-image: url('https://i.imgur.com/bzmEwnm.png') !important;
     }
   
