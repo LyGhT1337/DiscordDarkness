@@ -2455,3 +2455,13 @@ width: 40px;
 .newMessagesBar-265mhP {
     background-color:var(--primary);
 }
+
+/*Voice Activity Color*/
+.avatarSpeaking-3MqCHL {
+    box-shadow: inset 0 0 0 2px var(--primary),inset 0 0 0 3px var(--background-secondary);
+}
+
+/*Discord Invite BG color*/
+.contentWrapper-3WC1ID{
+    background-color:var(--medium);
+}
