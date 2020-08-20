@@ -28,6 +28,7 @@ If you enjoy using the theme, help spread the word!
   --pingbackground:rgba(34,14,69,1);
   --pingcolor:rgba(115,0,230,1);
   --pingbackgroundhover:rgba(110,0,232,0.45);
+  --HomeButtonImg:url('https://imgur.com/kVZVlTP.png');
 }
 
 .wordmark-2iDDfm{background-color:transparent;opacity:.9;pointer-events:all}.wordmark-2iDDfm svg{background-color:transparent;background-image:url(https://imgur.com/kQEcvf6.png);background-size:contain;width:100px;height:16px;padding-left:15px;padding-right:15px;margin-left:0;display:block;background-repeat: no-repeat;}
