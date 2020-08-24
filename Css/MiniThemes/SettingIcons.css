@@ -1,0 +1,156 @@
+#bd-settings-sidebar  .ui-tab-bar-item {
+    padding-left: 50px !important;
+}
+  
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"] {
+    padding-left: 50px !important;
+}
+.standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP [class*="item"] {
+    padding-left: 20 !important;
+}
+.standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP [class*="item"]::after {
+    content: "";
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 15px;
+    margin-top: -2px;
+    opacity: .3;
+    -webkit-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+}
+  
+.standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP [class*="item"]:hover::after {
+    opacity: .7;
+}
+  
+.standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP [class*="item"][class*="selected-"]::after {
+    opacity: 1;
+}
+
+/* User Settings */
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(2)::after {
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/person.svg') !important;
+}
+  
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(3)::after {
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/security.svg') !important;
+}
+  
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(4)::after {
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/apps.svg') !important;
+}
+  
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(5)::after {
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/link.svg') !important;
+}
+  
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(6)::after {
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/Credit_card.svg') !important;
+}
+
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(8)::after {
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/nitro.svg') !important;
+}
+  
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(9)::after {
+    background-image: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/gift.svg') !important;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+  
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(10)::after {
+    background-image: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/boost.svg')!important;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+  
+.standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(11)::after {
+    background-image: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/hypesquad.svg')!important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+} 
+
+/* App Settings */
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(12)::after {
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/mic.svg') !important;
+}
+
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(13)::after {
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/open_in_new.svg') !important;
+}
+
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(14)::after{
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/.svg') !important;
+}
+  
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(15)::after {
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/overlay.svg') !important;
+}
+  
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(16)::after {
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/notifications.svg') !important;
+}
+  
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(17)::after{
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/keybinds.svg') !important;
+}
+  
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(18)::after{
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/games.svg') !important;
+}
+  
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(19)::after{
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/chat.svg') !important;
+}
+  
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(20)::after{
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/camera.svg') !important;
+}
+  
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(21)::after{
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/videocam.svg') !important;
+}
+  
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(22)::after{
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/language.svg') !important;
+}
+
+.platform-win .platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(23)::after {
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/desktop_windows.svg') !important;
+}  
+
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(25)::after{
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/history.svg') !important;
+}
+
+/* BD */
+#bd-settings-sidebar .ui-tab-bar-item:nth-child(3)::after {
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/betterdiscord.svg') !important;
+}
+  
+#bd-settings-sidebar .ui-tab-bar-item:nth-child(4)::after {
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/bandage.svg') !important;
+}
+  
+#bd-settings-sidebar .ui-tab-bar-item:nth-child(5)::after {
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/emote.svg') !important;
+}
+  
+#bd-settings-sidebar .ui-tab-bar-item:nth-child(6)::after {
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/code.svg') !important;
+}
+  
+#bd-settings-sidebar .ui-tab-bar-item:nth-child(7)::after {
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/puzzle.svg') !important;
+}
+  
+#bd-settings-sidebar .ui-tab-bar-item:nth-child(8)::after {
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/palette.svg') !important;
+}
+
+/* Log Out */
+.platform-win [layer-id="user-settings"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e>*>[class*="item"]:nth-child(28)::after {
+    background: url('https://github.com/LyGhT1337/DiscordDarkness/Css/MiniThemes/Icons/exit.svg') !important;
+}
