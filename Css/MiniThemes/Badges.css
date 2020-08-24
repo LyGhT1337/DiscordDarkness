@@ -44,7 +44,9 @@
   /*==|CUSTOM BADGES|==*/
     /* LyGhT */
     
-    .avatar-1BDn8e[src*="225605638376390656"] + h2 > .username-1A8OIy:hover::after {
+    .avatar-1BDn8e[src*="225605638376390656"] + h2 > ..username-1A8OIy::after {content: "";
+      background-image: url('https://codedotspectra.github.io/themes/badges/sword.svg');}
+    .avatar-1BDn8e[src*="225605638376390656"] + h2 > ..username-1A8OIy::after {content: "";
       content: "DiscordDarkness Dev";
       background-color: #cf6802;
       color: #fff;
