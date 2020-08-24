@@ -2307,3 +2307,13 @@ width: 40px;
 	background-repeat: no-repeat;
 	background-color: transparent!important
 }
+
+/* Home Search Bar color */
+.scroller-zPkAnE {
+	background-color: var(--medium);
+}
+
+/* add note BG color */ 
+.note-3HfJZ5 textarea {
+	background-color: var{--medium};
+}
