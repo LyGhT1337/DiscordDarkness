@@ -964,10 +964,6 @@ padding-right: 0px;
 	border: 1px solid rgba(0,0,0,.5)
 }
 
-.input-cIJ7To[name=username] {
-	border: none!important;
-	background: 0 0!important
-}
 
 .input-3ITkQf,.inputDefault-3JxKJ2 {
 	border-radius: 0!important
@@ -1206,9 +1202,6 @@ padding-right: 0px;
 	border-radius: 0
 }
 
-.input-cIJ7To.disabled-2BKQFm {
-	border: none!important
-}
 
 #friends .friends-table .friends-row .friends-column-actions .friends-action-video-call:hover,#friends .friends-table .friends-row .friends-column-actions .friends-action-voice-call:hover {
 	background-color: #28a745!important
