@@ -2190,7 +2190,7 @@ svg[name=Discord] {
 
 /* Unread Channel color */
 .modeUnread-1zpFdA .name-3_Dsmg { 
-    color: var(--color)
+    color: var(--unreadcolor)
 }
 
 
