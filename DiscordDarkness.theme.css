@@ -1,20 +1,21 @@
-//META{"name":"Discord Darkness","description":"Compact, squared and dark for nightowls!","author":"LyGhT","version": "1.1.0","website": "https://github.com/LyGhT1337/Discord-Electro/", "source":"https://github.com/LyGhT1337/Discord-Electro/base.css"}*//{}
+//META{"name":"Discord Darkness","description":"Compact, squared and dark for nightowls!","author":"LyGhT","version": "1.1.0","website": "https://github.com/LyGhT1337/DiscordDarkness/index.html", "source":"https://github.com/LyGhT1337/DiscordDarkness/Css/Base.css"}*//{}
 /*
 + ========================= +
 + Discord Darkness Theme for Dicord +
-+ Made By LyGhT, with code pieces from: cruxie, spectra and clearvision.
++ Made By LyGhT +
 + ========================= +
-This theme was last updated on 6th August 2020.
 The author LyGhT retains full rights of this code.
 If you enjoy using the theme, help spread the word!
 */
 
 /*###################################################################################################*/
-@import url('https://lyght1337.github.io/DiscordDarkness/css/base.css');
-@import url('https://lyght1337.github.io/DiscordDarkness/css/CodeBlocks.css');
-@import url('https://lyght1337.github.io/DiscordDarkness/css/Statusright.css');
-@import url('https://lyght1337.github.io/DiscordDarkness/css/credits.css');
-@import url('https://lyght1337.github.io/DiscordDarkness/css/badges.css');
+/* Main */
+@import url('https://lyght1337.github.io/DiscordDarkness/Css/Base.css');
+/* Addons */
+@import url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/CodeBlocks.css');
+@import url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Statusright.css');
+@import url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/SettingIcons.css');
+@import url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Badges.css');
 /*###################################################################################################*/
 
 :root{
@@ -26,9 +27,9 @@ If you enjoy using the theme, help spread the word!
   --dark:#090a0d;
   --medium:#111214;
   --light:#1e1f21;
-  --ccolor:#d49b83;
+  --color:#d49b83;
   --pingbackground:rgba(34,14,69,1);
   --pingcolor:rgba(115,0,230,1);
   --pingbackgroundhover:rgba(110,0,232,0.45);
-  --HomeButtonImg:url('https://imgur.com/kVZVlTP.png');
+  --HomeButtonImg:url('https://lyght1337.github.io/DiscordDarkness/DiscordDarkness/Css/Website/homeimage.png');
 }
