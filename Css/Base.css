@@ -2315,5 +2315,5 @@ width: 40px;
 
 /* add note BG color */ 
 .note-3HfJZ5 textarea {
-	background-color: var{--medium};
+	background-color: var(--medium);
 }
