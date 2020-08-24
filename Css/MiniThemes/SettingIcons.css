@@ -47,7 +47,8 @@
 }
 
 [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(11):before {
-	background-image: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Icons/hypesquad.svg)
+	background-image: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Icons/hypesquad.svg);
+    background-size: cover;
 }
 
 /* App Settings */
@@ -158,7 +159,12 @@
 	background-image: url(https://clearvision.gitlab.io/icons/code.svg)
 }
 
+
 /* Log Out */
-[aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-last-child(3):before {
+.platform-win [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(28):before,
+.platform-osx [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(27):before,
+.platform-linux [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(27):before,
+.platform-web [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(27):before {
 	background-image: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Icons/exit.svg)
 }
+
