@@ -2266,14 +2266,9 @@ width: 40px;
     background:rgba(255,255,255,0.15);
 }
 
-/* Channel Category dropdown icon */
-
-.icon-WnO6o2 {
-    color: black;
-}
-
-.icon-WnO6o-:hover {
-    color: white;
+/* BD Settings  */
+.theme-dark #bd-settings-sidebar .ui-tab-bar-header {
+    color: var(--primary);
 }
 
 /*Role Dividers*/
