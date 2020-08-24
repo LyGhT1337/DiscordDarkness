@@ -9,9 +9,12 @@ If you enjoy using the theme, help spread the word!
 */
 
 /*###################################################################################################*/
+/* Main */
 @import url('https://lyght1337.github.io/DiscordDarkness/Css/Base.css');
+/* Addons */
 @import url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/CodeBlocks.css');
 @import url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Statusright.css');
+@import url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/SettingIcons.css.css');
 @import url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Badges.css');
 /*###################################################################################################*/
 
