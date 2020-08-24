@@ -1,4 +1,4 @@
-# DiscordDarkness - A WiP Theme based on DiscordElectro - Working 15.08.2020
+# DiscordDarkness - A WiP Theme based on DiscordElectro
 
 Compact, squared and dark for nightowls!
 
@@ -16,6 +16,8 @@ This theme won't get any support unless I myself decide to update or fix it. Iss
 1 - Download ![BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases) and Install it.
 
 2 - After installing it, download the ![DiscordDarkness.theme.css](https://github.com/LyGhT1337/DiscordDarkness/releases/) file and put it in your Themes Folder.
+
+*You can locate the Themes Folder by going to your Discord Settings -> Themes -> Open Themes Folder.*
 
 
 The plugins are purely preference. You can download them and put them into the plugins folder of BetterDiscord in order to use them.
