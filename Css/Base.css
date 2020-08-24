@@ -2299,31 +2299,6 @@ svg[name=Discord] {
     background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/history.svg) !important;
   }
   
-
-  #bd-settings-sidebar .ui-tab-bar-item:nth-child(3)::after {
-    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/betterdiscord.svg) !important;
-  }
-  
-  #bd-settings-sidebar .ui-tab-bar-item:nth-child(4)::after {
-    background: url(https://cdn.rawgit.com/OmgDani/ClearVisionFixes/6c6aaf1a/Icons/bandage.svg) !important;
-  }
-  
-  #bd-settings-sidebar .ui-tab-bar-item:nth-child(5)::after {
-    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/emote.svg) !important;
-  }
-  
-  #bd-settings-sidebar .ui-tab-bar-item:nth-child(6)::after {
-    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/code.svg) !important;
-  }
-  
-  #bd-settings-sidebar .ui-tab-bar-item:nth-child(7)::after {
-    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/puzzle.svg) !important;
-  }
-  
-  #bd-settings-sidebar .ui-tab-bar-item:nth-child(8)::after {
-    background: url(https://raw.githubusercontent.com/xcruxiex/BBDThemes/a1fa19423c40acee6208a42ce95ea44311d23203/Themes/ClearVisionV5/icons/palette.svg) !important;
-  }
-
 /* Roles in User Card */
 .role-2irmRk{position:relative;display:flex;flex-direction:row-reverse;border-radius:3px;transition:all .1s ease-in-out;cursor:default}
 .role-2irmRk[style]:not(:hover){border-color:transparent !important}
