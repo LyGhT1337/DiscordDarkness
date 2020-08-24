@@ -960,7 +960,7 @@ padding-right: 0px;
 }
 
 .input-cIJ7To {
-	background-color: rgba(0,0,0,.5)!important;
+	background-color: var(--medium)!important;
 	border: 1px solid rgba(0,0,0,.5)
 }
 
@@ -973,9 +973,6 @@ padding-right: 0px;
 	border-radius: 0!important
 }
 
-.input-cIJ7To[name=username]:focus {
-	border: none!important
-}
 
 .input-cIJ7To.focused-1mmYsC,.input-cIJ7To:focus {
 	border-color: var(--primary)!important
@@ -2315,5 +2312,5 @@ width: 40px;
 
 /* add note BG color */ 
 .note-3HfJZ5 textarea {
-	background-color: var(--medium);
+	background-color: var(--medium)!important;
 }
