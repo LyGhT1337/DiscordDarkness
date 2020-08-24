@@ -1,16 +1,3 @@
-:root{
-  --primary:#e94600;
-  --primaryT:#691f00;
-  --primary2:#d49b83;
-  --mentioned:rgba(250, 109, 26, 0.05);	
-  --mentionedH:rgba(250, 109, 26, 0.1);	
-  --dark:#090a0d;
-  --medium:#111214;
-  --ccolor:#d94804;	
-  --light:#1e1f21;
-  --HomeButtonImg:url('https://imgur.com/kVZVlTP.png');
-  	
-}
 
 /* CORE CSS */
 #bd-settings-sidebar::after {
@@ -2356,7 +2343,7 @@ svg[name=Discord] {
 
 /* Unread Channel color */
 .modeUnread-1zpFdA .name-3_Dsmg { 
-    color: var(--ccolor)
+    color: var(--color)
 }
 
 
