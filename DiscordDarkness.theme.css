@@ -22,14 +22,17 @@ If you enjoy using the theme, help spread the word!
   --primary:#e94600;
   --primaryT:#691f00;
   --primary2:#d49b83;
-  --mentioned:rgba(250, 109, 26, 0.05);	
-  --mentionedH:rgba(250, 109, 26, 0.14);
+  --unreadcolor:#d49b83;
+/* Background */
   --dark:#090a0d;
   --medium:#111214;
   --light:#1e1f21;
-  --color:#d49b83;
+/* Pings */
+  --mentioned:rgba(250, 109, 26, 0.05);	
+  --mentionedH:rgba(250, 109, 26, 0.14);
   --pingbackground:rgba(34,14,69,1);
   --pingcolor:rgba(115,0,230,1);
   --pingbackgroundhover:rgba(110,0,232,0.45);
+/* Images */
   --HomeButtonImg:url('https://lyght1337.github.io/DiscordDarkness/Css/Website/homeimage.png');
 }
