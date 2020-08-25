@@ -2,7 +2,7 @@
 
 Compact, squared and dark for nightowls!
 
-![Discord Darkness](https://i.imgur.com/1JcljVg.png)
+![Discord Darkness](https://i.imgur.com/LT504sm.png)
 
 
 Credits belong to LyGhT, with the help of cruxie.
