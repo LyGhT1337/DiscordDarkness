@@ -2335,11 +2335,11 @@ width: 40px;
 }
 
 .messageContainer-gbhlwo {
-    background-color: var(--dark);
+    background-color: var(--dark)!important;
 }
 
 .channelHeader-3Gd2xq {
-    background-color: var(--medium);
+    background-color: var(--medium)!important;
 }
 
 .tab-ck0077.active-1MbGPa {
@@ -2355,8 +2355,7 @@ width: 40px;
 }
 
 .header-ykumBX {
-    background-color: var(--medium)!important;;
-    border-bottom-color: var(--primary)!important;
+    background-color: var(--dark)!important;;
 }
 
 .container-enaOkj {
