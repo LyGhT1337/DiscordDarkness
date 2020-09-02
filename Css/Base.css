@@ -2307,3 +2307,78 @@ width: 40px;
 .note-3HfJZ5 textarea {
 	background-color: var(--medium)!important;
 }
+
+/*Inbox Mentions*/	
+.messagesPopoutWrap-1MQ1bW  {
+    background-color: var(--dark)!important;
+    color: var(--medium)!important;
+    border: background-color: var(--primary)!important;
+    border: 1px solid #7289da!important;
+    border-top-color: var(--primary)!important;
+    border-top-style: solid !important;
+    border-top-width: 1px !important;
+    border-right-color: var(--primary)!important;
+    border-right-style: solid !important;
+    border-right-width: 1px !important;
+    border-bottom-color: var(--primary)!important;
+    border-bottom-style: solid !important;
+    border-bottom-width: 1px !important;
+    border-left-color: var(--primary)!important;
+    border-left-style: solid !important;
+    border-left-width: 1px !important;
+    border-image-source: initial !important;
+    border-image-slice: initial !important;
+    border-image-width: initial !important;
+    border-image-outset: initial !important;
+    border-image-repeat: initial !important;
+    
+}
+
+.messageContainer-gbhlwo {
+    background-color: var(--dark);
+}
+
+.channelHeader-3Gd2xq {
+    background-color: var(--medium);
+}
+
+.tab-ck0077.active-1MbGPa {
+    background-color: var(--medium)!important;
+}
+
+.secondary-dIudih {
+    background-color: var(--medium)!important;
+}
+/*Inbox Unread*/	
+.messages-3G3erD {
+    background-color: var(--dark)!important;;
+}
+
+.header-ykumBX {
+    background-color: var(--medium)!important;;
+    border-bottom-color: var(--primary)!important;
+}
+
+.container-enaOkj {
+     background-color: var(--dark)!important;
+    color: var(--medium)!important;
+    border: background-color: var(--primary)!important;
+    border: 1px solid #7289da!important;
+    border-top-color: var(--primary)!important;
+    border-top-style: solid !important;
+    border-top-width: 1px !important;
+    border-right-color: var(--primary)!important;
+    border-right-style: solid !important;
+    border-right-width: 1px !important;
+    border-bottom-color: var(--primary)!important;
+    border-bottom-style: solid !important;
+    border-bottom-width: 1px !important;
+    border-left-color: var(--primary)!important;
+    border-left-style: solid !important;
+    border-left-width: 1px !important;
+    border-image-source: initial !important;
+    border-image-slice: initial !important;
+    border-image-width: initial !important;
+    border-image-outset: initial !important;
+    border-image-repeat: initial !important;
+}
