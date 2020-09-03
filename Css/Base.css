@@ -622,6 +622,15 @@ padding-right: 0px;
 	background-color: var(--medium)
 }
 
+.userPopout-3XzG_A .headerTop-3C2Zn0 {
+    background: var(--medium);
+}
+
+.buttonInvertedPurple-WtBglX {
+    background-color: var(--primary);
+    color: white;
+}
+
 /*Spotify Header*/
 .headerSpotify-zpWxgT {
 	background-color: var(--medium)
