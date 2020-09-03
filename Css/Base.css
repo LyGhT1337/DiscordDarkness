@@ -8,7 +8,6 @@
 }
 
 
-	
 .emptyChannelIcon-3IXV5M{background-color: var(--medium);}
 .members-1998pB, .members-1998pB>div {background: var(--dark);}
 .theme-dark .sadImage-2ph8SI{display:none;}
@@ -670,6 +669,42 @@ padding-right: 0px;
 	background-color: var(--primary)!important
 }
 
+.activity-11LB_k:after,.activity-11LB_k:before,.headerPlaying-j0WQBV .activity-11LB_k:after,.headerPlaying-j0WQBV .activity-11LB_k:before {
+	background: hsla(0,0%,100%,.2);
+	transform: rotate(45deg);
+	animation-duration: 5.5s;
+	animation-iteration-count: infinite;
+	animation-timing-function: ease-in-out;
+	content: ""
+}
+
+.headerPlaying-j0WQBV .activity-11LB_k:after,.headerPlaying-j0WQBV .activity-11LB_k:before {
+	position: absolute;
+	height: 500%;
+	top: -100px;
+	left: -100%;
+	animation-name: shine2
+}
+
+.headerPlaying-j0WQBV .activity-11LB_k:after {
+	margin-left: 7.5%;
+	width: 5%
+}
+
+.headerPlaying-j0WQBV .activity-11LB_k:before {
+	width: 20%
+}
+
+@keyframes shine2 {
+	81.82% {
+		left: -100%
+	}
+
+	100% {
+		left: 150%
+	}
+}
+
 .body-3ND3kc {
 	background-color: var(--medium)!important
 }
@@ -745,15 +780,6 @@ padding-right: 0px;
 	border: 2px solid var(--primary)
 }
 
-.activity-11LB_k:after,.activity-11LB_k:before,.headerPlaying-j0WQBV .activity-11LB_k:after,.headerPlaying-j0WQBV .activity-11LB_k:before {
-	background: hsla(0,0%,100%,.2);
-	transform: rotate(45deg);
-	animation-duration: 5.5s;
-	animation-iteration-count: infinite;
-	animation-timing-function: ease-in-out;
-	content: ""
-}
-
 .statusProfile-3ynqtt.dnd-1_xrcq {
 	border-color: #dc3545!important
 }
@@ -803,32 +829,7 @@ padding-right: 0px;
 	box-shadow: 0 5px 5px rgba(0,0,0,.3),0 -5px 5px rgba(0,0,0,.3)
 }
 
-.headerPlaying-j0WQBV .activity-11LB_k:after,.headerPlaying-j0WQBV .activity-11LB_k:before {
-	position: absolute;
-	height: 500%;
-	top: -100px;
-	left: -100%;
-	animation-name: shine2
-}
 
-.headerPlaying-j0WQBV .activity-11LB_k:after {
-	margin-left: 7.5%;
-	width: 5%
-}
-
-.headerPlaying-j0WQBV .activity-11LB_k:before {
-	width: 20%
-}
-
-@keyframes shine2 {
-	81.82% {
-		left: -100%
-	}
-
-	100% {
-		left: 150%
-	}
-}
 
 .typing-2GQL18 {
 	top: -22px!important;
