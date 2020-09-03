@@ -607,6 +607,7 @@ padding-right: 0px;
 	border: 1px solid rgba(0,0,0,.75)
 }
 
+/*Streaming Header*/
 .headerStreaming-2FjmGz .activity-11LB_k {
 	background-color: #432970;
 }
@@ -621,6 +622,7 @@ padding-right: 0px;
 	background-color: var(--medium)
 }
 
+/*Spotify Header*/
 .headerSpotify-zpWxgT {
 	background-color: var(--medium)
 }
@@ -633,6 +635,15 @@ padding-right: 0px;
 	background-size: 100% 105%
 }
 
+.header-QKLPzZ {
+    background-color: var(--medium)!important;
+}
+.lookInverted-2D7oAl.colorGreen-29iAKY {
+    color: white;
+    background-color: var(--primary)!important;
+}
+
+/*Playing Header*/
 .headerPlaying-j0WQBV,.topSectionPlaying-1J5E4n {
 	background: #0d0d0d
 }
