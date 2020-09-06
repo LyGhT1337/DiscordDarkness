@@ -2423,7 +2423,7 @@ width: 40px;
 	display: none;
   }
   #status-picker .focused-3afm-j {
-	background: linear-gradient(45deg, var(--primary), var(--primaryT));
+	background: linear-gradient(45deg, var(--primaryT), var(--primary));
   }
   #status-picker .focused-3afm-j#status-picker-online {
 	background: linear-gradient(45deg, #21583f, #43b581);
@@ -2444,7 +2444,7 @@ width: 40px;
 	display: none;
   }
   #guild-header-popout .focused-3afm-j {
-	background: linear-gradient(45deg, var(--primary), var(--primaryT));
+	background: linear-gradient(45deg, var(--primaryT), var(--primary));
   }
   #guild-header-popout .focused-3afm-j#guild-header-popout-premium-subscribe {
 	background: linear-gradient(45deg, #f300ea, #ff73fa);
@@ -2458,19 +2458,19 @@ width: 40px;
 	  display: none;
 	}
 	#user-context .focused-3afm-j {
-	  background: linear-gradient(45deg, var(--primary), var(--primaryT));
+	  background: linear-gradient(45deg, var(--primaryT), var(--primary));
 	}
 	#user-context .focused-3afm-j#user-context-mention {
 	  background: linear-gradient(45deg, #faa61a, #fbc05e);
 	}
 	#user-context .focused-3afm-j#user-context-invite-to-listen {
-	  background: linear-gradient(45deg, var(--primary), var(--primaryT));
+	  background: linear-gradient(45deg, var(--primaryT), var(--primary));
 	}
 	#user-context .focused-3afm-j#user-context-mute {
-	  background: linear-gradient(45deg, var(--primary), var(--primaryT)); 
+	  background: linear-gradient(45deg, var(--primaryT), var(--primary)); 
 	}
 	#user-context .focused-3afm-j#user-context-remove-friend { 
-	  background: linear-gradient(45deg, var(--primary), var(--primaryT));
+	  background: linear-gradient(45deg, var(--primaryT), var(--primary));
 	}
 	#user-context .focused-3afm-j#user-context-call {
 	  background: linear-gradient(45deg, #33DC51, #70e685);
@@ -2479,8 +2479,8 @@ width: 40px;
 	  background: linear-gradient(45deg, #aa0e0e, #f04747);
 	}
 	#user-context .focused-3afm-j#user-context-kick {
-	  background: linear-gradient(45deg, var(--primary), var(--primaryT));
+	  background: linear-gradient(45deg, var(--primaryT), var(--primary));
 	}
 	#user-context .focused-3afm-j#user-context-ban {
-	  background: linear-gradient(45deg, var(--primary), var(--primaryT));
+	  background: linear-gradient(45deg, var(--primaryT), var(--primary));
 	}
