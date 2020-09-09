@@ -2596,5 +2596,5 @@ width: 40px;
 }
 /* New Unread Messages Noti */
 .unread-1xRYoj {
-	background-color: var(--dark);
+	background-color: var(--dark)!important;
 }
