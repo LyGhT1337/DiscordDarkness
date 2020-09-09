@@ -5,13 +5,6 @@ Compact, squared and dark for nightowls!
 ![Discord Darkness](https://i.imgur.com/LT504sm.png)
 
 
-## Credits:
-
-Dev - LyGhT and cruxie
-
-Code snippets - tropix126, ClearVision and Spectra.
-
-
 ## Installation
 
 If you wish to use this Theme, please follow the steps below:
@@ -21,3 +14,9 @@ If you wish to use this Theme, please follow the steps below:
 2 - After installing it, download the ![DiscordDarkness.theme.css](https://github.com/LyGhT1337/DiscordDarkness/releases/) file and put it in your Themes Folder.
 
 *You can locate the Themes folder by going to your Discord Settings -> Themes -> Open Themes Folder.*
+
+## Credits:
+
+Devs - LyGhT and Cruxie
+
+Code snippets - tropix126, ClearVision and Spectra.
