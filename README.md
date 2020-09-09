@@ -5,7 +5,11 @@ Compact, squared and dark for nightowls!
 ![Discord Darkness](https://i.imgur.com/LT504sm.png)
 
 
-Credits belong to LyGhT, with the help of cruxie.
+## Credits:
+
+Dev - LyGhT and cruxie
+
+Code snippets - tropix126, ClearVision and Spectra.
 
 
 ## Installation
