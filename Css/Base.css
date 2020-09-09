@@ -2594,3 +2594,7 @@ width: 40px;
 .container-1giJp5 .flex-1O1GKY {
 	width: initial;
 }
+/* New Unread Messages Noti */
+.unread-1xRYoj {
+	background-color: var(--dark);
+}
