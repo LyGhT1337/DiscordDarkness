@@ -2601,7 +2601,7 @@ width: 40px;
 
 /* Jump to present  */
 .jumpToPresentBar-G1R9s6 {
-background-color: var(--dark);
+	background-color: var(--dark);
 }
 /* Audio Attachment  */
 .wrapperAudio-1jDe0Q {
@@ -2611,14 +2611,14 @@ background-color: var(--dark);
 /* Emoji info,Emoji Server Divider,Emoji on-click popup and Emoji picker background (right click on message)  */
 .inspector-S2gM3e {
 	background-color: var(--medium);
-	}
+}
 
 .theme-dark .wrapper-1-Fsb8 {
 	background-color: var(--dark);
-	}
+}
 
 .container-ZRw2kD {display:none;}	
 
 .button-F9qN4n {
-background-color: var(--medium);
+	background-color: var(--medium);
 }
