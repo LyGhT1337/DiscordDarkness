@@ -129,26 +129,27 @@ img:hover {
 .Preview:hover{
     transform: scale(1.05);
 }
-DiscordDarknessUpdates.html **********/
+
+/********** DiscordDarknessUpdates.html **********/
 /* Main Area */
-.Main-Updates {
+.Main-UD {
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 6%;
     width:1000px;
 }
-.Main-Header {
+.Main-Updates {
     text-align: center;
     color: #a83200;
 }
 /* Image */
-.Preview {
+.Profile-Picture {
     transition: 250ms ease all, 250ms ease background-color;
     width: 1000px;
     box-shadow: 0px 0 15px #e9460063;
 }
 
-.Preview:hover{
+.Profile-Picture:hover{
     transform: scale(1.05);
 }
