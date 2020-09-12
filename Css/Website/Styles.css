@@ -141,13 +141,13 @@ img:hover {
 }
 .Main-Updates {
     text-align: center;
-    color: #a83200;
+    color: #fff;
 }
 /* Image */
 .Profile-Picture {
-    transition: 250ms ease all, 250ms ease background-color;
-    width: 1000px;
-    box-shadow: 0px 0 15px #e9460063;
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
 }
 
 .Profile-Picture:hover{
