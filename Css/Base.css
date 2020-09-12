@@ -2608,7 +2608,7 @@ background-color: var(--dark);
     background-color: var(--medium)!important;
 }
 
-/* Emoji info and Server Divider  */
+/* Emoji info,Emoji Server Divider and Emoji on-click popup  */
 .inspector-S2gM3e {
 	background-color: var(--medium);
 	}
@@ -2616,3 +2616,5 @@ background-color: var(--dark);
 .theme-dark .wrapper-1-Fsb8 {
 	background-color: var(--dark);
 	}
+	
+.container-ZRw2kD {display:none;}	
