@@ -141,6 +141,10 @@ img:hover {
 }
 .Main-Updates {
     text-align: center;
+    color: #a83200;
+}
+.Main-UDText {
+    text-align: center;
     color: #fff;
 }
 /* Image */
