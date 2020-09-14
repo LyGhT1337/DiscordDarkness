@@ -2163,8 +2163,6 @@ svg[name=Discord] {
 .searchResult-9tQ1uo:focus-within .jumpButton-JkYoYK, .searchResult-9tQ1uo:hover .jumpButton-JkYoYK{background-color: var(--themeColor2);}
 .auto-Ge5KZx::-webkit-scrollbar-track{background-color: transparent;}
 
-/* Hide blocked Users */
-.da-messagesWrapper .da-groupStart:not(.da-message){display:none}
 
 /* HIDE MODAL PROTIP */
 .protip-YaFfgO{display:none;}
