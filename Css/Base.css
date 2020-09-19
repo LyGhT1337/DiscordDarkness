@@ -2620,3 +2620,11 @@ width: 40px;
 .button-F9qN4n {
 	background-color: var(--medium);
 }
+ /* no cursor change on emoji hover */
+.emoji { 
+	cursor: default; 
+}
+/* Removes the tooltip from hovering on Emotes*/
+.da-clickCTA { 
+	display: none; 
+} 
