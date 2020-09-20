@@ -66,7 +66,7 @@
 .theme-dark .root-1gCeng{background-color: var(--medium);}
 .theme-dark .ctaBar-2UsjF2, .theme-dark .tierBody-16Chc9, .theme-dark .perk-2WeBWW{background-color: var(--light);}
 .theme-dark .tierMarkerBackground-3q29am{background-color: transparent;}
-.autocompleteInner-zh20B_{background-color: var(--light);}
+.autocompleteInner-zh20B_{background-color: var(--dark);}
 .total-3tKGEB:after {border-right-color: var(--dark);}
 .users-i_3-kL{background-color: var(--light);}
 .total-3tKGEB{background-color: var(--dark);}
@@ -1689,8 +1689,9 @@ padding-right: 0px;
 	background-color: var(--medium)!important
 }
 
+/*Search, Filter Bar colors */
 .search-2oPWTC .searchBar-3dMhjb {
-	background-color: var(--light)!important
+	background-color: var(--medium)!important
 }
 
 .container-3ayLPN {
@@ -2631,4 +2632,18 @@ width: 40px;
 /* Announcement Channel Notification Info*/
 .wrapper-39oAo3 {
     background-color: var(--dark);
+}
+
+/*Server Streaming Badge */
+.iconBadge-2NuvG9 {
+    background: var(--medium);
+}
+/*User and Channel Search Bar */
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+    background-color: var(--medium);
+}
+
+/*Hover in Search */
+.resultFocused-3aIoYe {
+    background: var(--dark);
 }
