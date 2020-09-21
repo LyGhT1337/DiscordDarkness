@@ -2652,3 +2652,12 @@ width: 40px;
 .avatar-3uk_u9 {
 	background: var(--medium);
 }
+
+/*Attach Button*/
+.attachButtonPlus-jWVFah {
+	fill: var(--dark)!important;
+}
+
+.attachButtonPlus-jWVFah:hover {
+	fill: var(--light)!important;
+}
