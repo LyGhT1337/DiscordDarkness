@@ -2661,3 +2661,20 @@ width: 40px;
 .attachButtonPlus-jWVFah:hover {
 	fill: var(--light)!important;
 }
+
+/*Empty Channel Icon*/
+.emptyChannelIcon-cc932w {
+	background-color: var(--light);
+}
+/*Follow Channel Header*/
+.header-1pGpFt {
+	background-color: var(--light);
+}
+/*Follow Channel Header Button*/
+.channel-2PJTLY {
+	background-color: var(--medium);
+}
+/*Follow Channel Menu*/
+.css-n57xjs-menu {
+    background-color: var(--medium);
+}
