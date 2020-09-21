@@ -1340,7 +1340,7 @@ padding-right: 0px;
 }
 
 .ace_scroller {
-	background: var(--light)
+	background: #0c0d0e;
 }
 
 .ace-monokai .ace_gutter-active-line,.ace-monokai .ace_marker-layer .ace_active-line {
@@ -2111,7 +2111,7 @@ svg[name=Discord] {
 
 .theme-dark .friendSelected-1sa4bG{background-color: var(--dark);}
 
-#bd-customcss-attach-controls .help-text .inline{background-color: var(--light);}
+#bd-customcss-attach-controls .help-text .inline{background-color: var(--medium);}
 .side-8zPYf6 .header-2RyJ0Y:first-child{padding-top: 6px;}
 .theme-dark #bd-settings-sidebar .ui-tab-bar-header{ color: var(--dark); padding-top: 6px;}
 
@@ -2677,4 +2677,34 @@ width: 40px;
 /*Follow Channel Menu*/
 .css-n57xjs-menu {
     background-color: var(--medium);
+}
+/*Redeem Code note*/
+.theme-dark .codeRedemptionRedirect-1wVR4b {
+	background-color: var(--dark);
+	color: var(--primary);
+}
+/*Discord Switch*/
+.theme-dark .defaultIndicator-G3c16x {
+	background-color: var(--light);
+}
+/*Settings Note*/
+.attendeeCTA-3ZZQWt {
+	color: var(--primary);
+}
+
+.themeDefault-24hCdX{
+	background-color: var(--dark);
+}
+/*Language Selector*/
+.item-3eFBNF.selected-2DeaDa {
+	background-color: var(--dark);
+}
+
+/*BD Switch*/
+.bd-switch {
+	background-color: var(--dark);
+}
+
+.bd-switch-checked{
+	background-color: var(--primary);
 }
