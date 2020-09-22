@@ -2705,6 +2705,10 @@ width: 40px;
 	background-color: var(--dark);
 }
 
-.bd-switch-checked{
+.bd-switch-checked {
 	background-color: var(--primary);
+}
+
+.tabBarContainer-1s1u-z {
+	background: var(--dark);
 }
