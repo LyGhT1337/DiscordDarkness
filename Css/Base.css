@@ -2708,7 +2708,24 @@ width: 40px;
 .bd-switch-checked {
 	background-color: var(--primary);
 }
-
+/*Profile Bar*/
 .tabBarContainer-1s1u-z {
 	background: var(--dark);
+}
+
+/*Profile Seperators*/
+.top-28JiJ- .selected-3s45Ha.themed-OHr7kt.item-PXvHYJ, .top-28JiJ- .themed-OHr7kt.item-PXvHYJ:active {
+	border-bottom-color: var(--primary);
+}
+
+.top-28JiJ- .selected-3s45Ha.themed-OHr7kt.item-PXvHYJ, .top-28JiJ- .themed-OHr7kt.item-PXvHYJ:hover {
+	border-bottom-color: var(--primary);
+}
+
+.userInfoSection-2acyCx+.userInfoSection-2acyCx {
+    border-top: 1px solid var(--primary);
+}
+
+.topSectionNormal-2-vo2m .tabBarContainer-1s1u-z {
+    border-top-color: var(--primary);
 }
