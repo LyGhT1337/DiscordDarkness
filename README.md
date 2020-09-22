@@ -2,7 +2,7 @@
 
 Compact, squared and dark for nightowls!
 
-![Discord Darkness](https://i.imgur.com/mhbSmgk.png)
+![Discord Darkness](https://b.catgirlsare.sexy/9nGthLza.png)
 
 
 ## Installation
