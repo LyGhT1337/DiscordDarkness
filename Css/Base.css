@@ -2729,3 +2729,8 @@ width: 40px;
 .topSectionNormal-2-vo2m .tabBarContainer-1s1u-z {
     border-top-color: var(--primary);
 }
+
+/*Gated Content aka NSFW etc.*/
+.gatedContent-3-B7qB {
+	background: var(--light);
+}
