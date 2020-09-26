@@ -10,6 +10,7 @@ Compact, squared and dark for nightowls!
 If you wish to use this Theme for BetterDiscord, please follow the steps below:
 
 1 - Download ![BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases) and Install it.
+
 *Incase you are using ![Powercord](https://powercord.dev/) don't worry, we also support you guys!*
 
 2 - After installing it, download the ![DiscordDarkness.theme.css](https://github.com/LyGhT1337/DiscordDarkness/releases/) file and put it in your Themes Folder.
