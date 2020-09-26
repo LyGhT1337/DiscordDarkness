@@ -2757,3 +2757,8 @@ width: 40px;
 .closeButton-1tv5uR, .lookFilled-1Gx00P.colorPrimary-3b3xI6, .lookLink-9FtZy-.colorPrimary-3b3xI6, .lookOutlined-3sRXeN.colorTransparent-1ewNp9, .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
 	background: var(--primary);
 }
+
+/*In-Chat Menu Hover*/
+.theme-dark .selected-1Tbx07 {
+	background-color: var(--medium);
+}
