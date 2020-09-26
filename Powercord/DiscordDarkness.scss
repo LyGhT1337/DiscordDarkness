@@ -1,4 +1,3 @@
-//META{"name":"DiscordDarkness","description":"Compact, squared and dark for nightowls!","author":"LyGhT","version": "1.2.0","website": "https://github.com/LyGhT1337/DiscordDarkness/index.html", "source":"https://github.com/LyGhT1337/DiscordDarkness/Css/Base.css"}*//{}
 /*
 + ========================= +
 + Discord Darkness Theme for Dicord +
@@ -12,10 +11,10 @@ If you enjoy using the theme, help spread the word!
 /* Main */
 @import url('https://lyght1337.github.io/DiscordDarkness/Css/Base.css');
 /* Addons */
-@import url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/CodeBlocks.css');
-@import url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Statusright.css');
-@import url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/SettingIcons.css');
-@import url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Badges.css');
+@import 'Css/MiniThemes/CodeBlocks.css';
+@import 'Css/MiniThemes/Statusright.css';
+@import 'Css/MiniThemes/SettingsIcons.css';
+@import 'Css/MiniThemes/Badges.css';
 /*###################################################################################################*/
 
 :root{
