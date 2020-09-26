@@ -1,6 +1,6 @@
 /* CORE CSS */
 #bd-settings-sidebar::after {
-	content: "Theme Version: 1.2.0";
+	content: "Theme Version: 1.2.1";
 	font-size: 12px;
 	font-weight: 600;
 	color: #72767d;
