@@ -9,19 +9,12 @@ If you enjoy using the theme, help spread the word!
 
 /*###################################################################################################*/
 /* Main */
-@import 'Css/Base.css';
+@use 'Css/Base.css';
 /* Addons */
-<<<<<<< Updated upstream
-@import 'Css/MiniThemes/CodeBlocks.css';
-@import 'Css/MiniThemes/Statusright.css';
-@import 'Css/MiniThemes/SettingIcons.css';
-@import 'Css/MiniThemes/Badges.css';
-=======
 @use 'Css/MiniThemes/CodeBlocks.css';
 @use 'Css/MiniThemes/Statusright.css';
 @use 'Css/MiniThemes/SettingIcons.css';
 @use 'Css/MiniThemes/Badges.css';
->>>>>>> Stashed changes
 /*###################################################################################################*/
 
 :root{
