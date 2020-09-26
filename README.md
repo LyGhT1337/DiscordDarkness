@@ -18,9 +18,7 @@ If you wish to use this Theme for BetterDiscord, please follow the steps below:
 ## Installation Powercord
 If you wish to use this Theme for Powercord, please follow the steps below:
 
-1 - Install Powercord and download the Discord Carnary for your OS. All can be found on Powercords Installation page.
-
-2 - After installing it, download the ![DiscordDarkness RAR](https://github.com/LyGhT1337/DiscordDarkness/releases/) and extract the Folder into the Themes Folder.
+1 -  Git clone the repo into your Powercords Theme folder.
 
 *You can locate the Themes folder by going to your Discord Settings -> Themes -> Open Themes Folder.*
 
