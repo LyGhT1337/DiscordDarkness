@@ -2626,9 +2626,9 @@ width: 40px;
 	cursor: default; 
 }
 /* Removes the tooltip from hovering on Emotes*/
-.da-clickCTA { 
+.clickCTA-kIMiUd { 
 	display: none; 
-} 
+  } 
 /* Announcement Channel Notification Info*/
 .wrapper-39oAo3 {
     background-color: var(--dark);
