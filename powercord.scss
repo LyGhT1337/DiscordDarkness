@@ -9,7 +9,7 @@ If you enjoy using the theme, help spread the word!
 
 /*###################################################################################################*/
 /* Main */
-@import url('https://lyght1337.github.io/DiscordDarkness/Css/Base.css');
+@import 'Css/base.css');
 /* Addons */
 @import 'Css/MiniThemes/CodeBlocks.css';
 @import 'Css/MiniThemes/Statusright.css';
@@ -33,5 +33,5 @@ If you enjoy using the theme, help spread the word!
   --pingcolor:rgba(115,0,230,1);
   --pingbackgroundhover:rgba(110,0,232,0.45);
 /* Images */
-  --HomeButtonImg:url('https://lyght1337.github.io/DiscordDarkness/Css/Website/homeimage.png');
+  --HomeButtonImg: 'Css/Website/homeimage.png';
 }
