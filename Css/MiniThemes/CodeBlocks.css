@@ -1,4 +1,4 @@
-//META{"name":"CodeBlocks","description":"Codeblocks!! (duh..)","author":"cruxie","version": "1.0 AutoUpdate","website": "https://github.com/xcruxiex/BDDThemes", "source":"https://xcruxiex.github.io/BDDThemes/MiniThemes/CodeBlocks.css"}*//{}
+
 /*
 
 /* CodeBlocks */
@@ -98,7 +98,7 @@
 .hljs[class~=elm i]::before {content: "Elm";--codeblockcolor: #50d4ee;}
 .hljs[class~=cpp i]::before {content: "C++";--codeblockcolor: #99182E;}
 .hljs[class~=hbs i]::before {content: "Handlebars";--codeblockcolor: #f0772b;}
-.hljs[class~=1c i]::before {content: "1c";--codeblockcolor: #703B30;}
+.hljs[class~=\1c i]::before {content: "1c";--codeblockcolor: #703B30;}
 .hljs[class~=abnf i]::before {content: "ABNF";--codeblockcolor: #227A70;}
 .hljs[class~=clojure i]::before {content: "Clojure";--codeblockcolor: #5cc70c;}
 .hljs[class~=objc i]::before {content: "Objective-C";--codeblockcolor: #0092db;}
