@@ -3,7 +3,6 @@
     "description": "Compact, squared and dark for nightowls!",
     "version": "1.2.1",
     "author": "LyGhT",
-    "theme": "powercord.css",
-    "license": "unknown",
-    "DarknessTheme": "powercord.scss"
+    "theme": "powercord.scss",
+    "license": "unknown"
 }
