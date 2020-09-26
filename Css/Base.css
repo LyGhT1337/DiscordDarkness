@@ -2735,3 +2735,25 @@ width: 40px;
 	background: var(--light);
 }
 
+/*"View your Server as any role tip"*/
+.subscribeTooltipWrapper-32-Ce8 {
+	background-color: var(--light);
+}
+/*View your ... Header BG*/
+.notice-1tZwqv {
+	background-color: var(--light);
+}
+/*View your ... Role Menu*/
+.container-3LUQwT {
+	background-color: var(--medium);
+	border: 1px solid var(--primary);
+
+}
+/*View your ... Role Menu Input*/
+.input-3Xdcic {
+	background-color: var(--light);
+}
+/*View your ... Header Buttons*/
+.closeButton-1tv5uR, .lookFilled-1Gx00P.colorPrimary-3b3xI6, .lookLink-9FtZy-.colorPrimary-3b3xI6, .lookOutlined-3sRXeN.colorTransparent-1ewNp9, .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
+	background: var(--primary);
+}
