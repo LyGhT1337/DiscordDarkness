@@ -2797,3 +2797,17 @@ width: 40px;
 .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
 	background: #229c14;
 }
+
+/*Subscriptions Panels*/
+.theme-dark .feature-2w65J5 {
+	background-color: var(--light);
+}
+
+/*Boost Panels*/
+.guildHeader-3nh5RK {
+	background-color: var(--light);
+}
+
+.guildSubscriptionSlots-JPXXvN {
+	background-color: var(--background-tertiary);
+}
