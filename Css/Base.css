@@ -2354,6 +2354,10 @@ width: 40px;
     
 }
 
+.messagesPopout-24nkyi {
+	background-color: var(--medium);
+}
+
 .messageContainer-gbhlwo {
     background-color: var(--dark)!important;
 }
@@ -2379,7 +2383,7 @@ width: 40px;
 }
 
 .container-enaOkj {
-     background-color: var(--dark)!important;
+    background-color: var(--medium)!important;
     color: var(--medium)!important;
     background-color: var(--primary)!important;
     border: 1px solid #7289da!important;
@@ -2784,3 +2788,4 @@ width: 40px;
 .powercord-quickcss-footer {
 	background: var(--light);
 }
+
