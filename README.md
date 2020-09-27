@@ -2,7 +2,7 @@
 
 Compact, squared and dark for nightowls!
 
-![Discord Darkness](https://b.catgirlsare.sexy/bOJKiO-q.png)
+![DiscordDarkness](https://b.catgirlsare.sexy/bOJKiO-q.png)
 
 
 ## Installation BetterDiscord
