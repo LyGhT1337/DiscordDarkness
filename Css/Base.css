@@ -613,7 +613,7 @@ padding-right: 0px;
 
 .headerStreaming-2FjmGz .activity-11LB_k .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
 	border: 2px solid #432970;
-	background-color: #432970
+	background-color: #432970!important;
 }
 
 .headerStreaming-2FjmGz .activity-11LB_k .lookOutlined-3sRXeN.colorWhite-rEQuAQ:hover {
@@ -633,6 +633,9 @@ padding-right: 0px;
 /*Spotify Header*/
 .headerSpotify-zpWxgT {
 	background-color: var(--medium)
+}
+.topSectionSpotify-1lI0-P {
+	background: #0c9602;
 }
 
 .headerSpotify-zpWxgT .activity-11LB_k {
@@ -1943,6 +1946,10 @@ svg[name=Discord] {
 	background-color: #593695!important
 }
 
+.headerStreaming-2FjmGz .activity-11LB_k .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
+	background-color: #593695!important
+}
+
 .theme-dark .wrapper-3UweLa {
 	transition: all .2s ease;
 	background-color: var(--dark)!important
@@ -2759,7 +2766,7 @@ width: 40px;
 }
 /*View your ... Header Buttons*/
 .closeButton-1tv5uR, .lookFilled-1Gx00P.colorPrimary-3b3xI6, .lookLink-9FtZy-.colorPrimary-3b3xI6, .lookOutlined-3sRXeN.colorTransparent-1ewNp9, .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
-	background: var(--primary)!important;
+	background: var(--primary);
 }
 
 /*In-Chat Menu Hover*/
@@ -2836,7 +2843,7 @@ width: 40px;
 .previewImage-RxVzkZ {
 		background-color: var(--light)!important;
 	}
-		
+
 .body-Ogsp8i {
 		background-color: var(--light)!important;
 	}	
