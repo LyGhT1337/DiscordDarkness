@@ -159,12 +159,16 @@
 	background-image: url(https://clearvision.gitlab.io/icons/code.svg)
 }
 
+/* PC */
+.sidebar-CFHs9e #bd-settings-sidebar .ui-tab-bar-item:nth-child(25):before {
+	background-image: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Icons/history.svg)
+}
 
 /* Log Out */
 .platform-win [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(28):before,
 .platform-osx [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(27):before,
 .platform-linux [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(27):before,
-.platform-web [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(27):before {
+.platform-web [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(35):before {
 	background-image: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Icons/exit.svg)
 }
 
