@@ -2759,7 +2759,7 @@ width: 40px;
 }
 /*View your ... Header Buttons*/
 .closeButton-1tv5uR, .lookFilled-1Gx00P.colorPrimary-3b3xI6, .lookLink-9FtZy-.colorPrimary-3b3xI6, .lookOutlined-3sRXeN.colorTransparent-1ewNp9, .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
-	background: var(--primary);
+	background: var(--primary)!important;
 }
 
 /*In-Chat Menu Hover*/
@@ -2831,4 +2831,5 @@ width: 40px;
 .theme-dark .bd-addon-list .bd-addon-card {
 		background-color: var(--light);
 	}
+
 	
