@@ -2821,3 +2821,14 @@ width: 40px;
 .inner-2O5YO7 {
 	background-color: var(--light);
 	}
+
+/*Audio Source dropdown*/
+.css-3vaxre-menu {
+		background-color: var(--light);
+	
+	}
+/*BD theme and plugin selection BG*/	
+.theme-dark .bd-addon-list .bd-addon-card {
+		background-color: var(--light);
+	}
+	
