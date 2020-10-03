@@ -124,19 +124,6 @@
 	background-image: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Icons/history.svg)
 }
 
-.platform-win [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(26):before,
-.platform-osx [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(25):before,
-.platform-linux [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(25):before,
-.platform-web [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(24):before {
-	background-image: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Icons/flask.svg)
-}
-
-.platform-win [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(27):before,
-.platform-osx [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(26):before,
-.platform-linux [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(26):before,
-.platform-web [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(25):before {
-	background-image: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Icons/bug.svg)
-}
 
 /* BD */
 .sidebar-CFHs9e #bd-settings-sidebar .ui-tab-bar-item:nth-child(3):before {
@@ -160,15 +147,45 @@
 }
 
 /* PC */
-.sidebar-CFHs9e #bd-settings-sidebar .ui-tab-bar-item:nth-child(25):before {
-	background-image: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Icons/history.svg)
+
+.sidebar-CFHs9e .item-PXvHYJ[data-item-id="pc-general"]:before {
+	background-image: url(https://clearvision.gitlab.io/icons/flask.svg);
 }
 
-/* Log Out */
-.platform-win [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(28):before,
-.platform-osx [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(27):before,
-.platform-linux [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(27):before,
-.platform-web [aria-label="USER_SETTINGS"] .sidebar-CFHs9e .item-PXvHYJ:nth-child(35):before {
-	background-image: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Icons/exit.svg)
+.sidebar-CFHs9e .item-PXvHYJ[data-item-id="pc-moduleManager-plugins"]:before {
+	background-image: url(https://clearvision.gitlab.io/icons/puzzle.svg);
 }
+
+.sidebar-CFHs9e .item-PXvHYJ[data-item-id="pc-moduleManager-themes"]:before {
+	background-image: url(https://clearvision.gitlab.io/icons/palette.svg);
+}
+
+.sidebar-CFHs9e .item-PXvHYJ[data-item-id="pc-updater"]:before {
+	background-image: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Icons/history.svg);
+}
+
+.sidebar-CFHs9e .item-PXvHYJ[data-item-id="bdCompat"]:before {
+	background-image: url(https://clearvision.gitlab.io/icons/betterdiscord.svg)
+}
+
+.sidebar-CFHs9e .item-PXvHYJ[data-item-id="pc-clickableEdits"]:before {
+	background-image: url();
+}
+
+.sidebar-CFHs9e .item-PXvHYJ[data-item-id="pc-spotify"]:before {
+	background-image: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Icons/spotify.svg);
+}
+
+.sidebar-CFHs9e .item-PXvHYJ[data-item-id="pc-emojiUtility"]:before {
+	background-image: url(https://clearvision.gitlab.io/icons/emote.svg);
+}
+
+.sidebar-CFHs9e .item-PXvHYJ[data-item-id="changelog"]:before {
+	background-image: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Icons/history.svg);
+}
+
+.sidebar-CFHs9e .item-PXvHYJ[data-item-id="logout"]:before {
+	background-image: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Icons/exit.svg);
+}
+
 
