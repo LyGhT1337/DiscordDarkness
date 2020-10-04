@@ -157,7 +157,7 @@
 }
 
 .sidebar-CFHs9e .item-PXvHYJ[data-item-id="pc-moduleManager-themes"]:before {
-	background-image: url(https://clearvision.gitlab.io/icons/palette.svg);
+	background-image: url(https://clearvision.gitlab.io/icons/palette.svg)!important;
 }
 
 .sidebar-CFHs9e .item-PXvHYJ[data-item-id="pc-updater"]:before {
