@@ -2848,3 +2848,9 @@ width: 40px;
 .body-Ogsp8i {
 		background-color: var(--light)!important;
 	}	
+
+/*Rounded Messages*/
+.message-2qnXI6, .mentioned-xhSam7 {
+		border-radius: 0 24px 24px 0px;
+		margin-right: 20px
+	}	
