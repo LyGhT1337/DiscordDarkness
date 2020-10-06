@@ -2629,6 +2629,8 @@ width: 40px;
 
 .container-ZRw2kD {display:none;}	
 
+.popoutContainer-1MXdqN {display:none;}
+
 .button-F9qN4n {
 	background-color: var(--medium);
 }
@@ -2637,9 +2639,8 @@ width: 40px;
 	cursor: default; 
 }
 /* Removes the tooltip from hovering on Emotes*/
-.clickCTA-kIMiUd { 
-	display: none; 
-  } 
+.clickCTA-2B6Kbs {display:none;}
+
 /* Announcement Channel Notification Info*/
 .wrapper-39oAo3 {
     background-color: var(--dark);
