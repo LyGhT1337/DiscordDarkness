@@ -624,6 +624,12 @@ padding-right: 0px;
 .headerSpotify-zpWxgT {
 	background-color: var(--medium)
 }
+
+.headerSpotify-zpWxgT .activity-11LB_k .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
+	border: 2px solid #229c14;
+	background-color: #229c14!important;
+	background: #229c14!important;
+}
 .topSectionSpotify-1lI0-P {
 	background: #0c9602;
 }
@@ -2237,9 +2243,6 @@ svg[name=Discord] {
 .form-2fGMdU:before{
   display:none;
 }
-
-
-
 
 /* Instant-no delay - Reactions */
 
