@@ -2402,11 +2402,6 @@ width: 40px;
     border-image-repeat: initial !important;
 }
 
-/*Server Boost Page*/	
-.perksModal-fSYqOq {
-	background-color: var(--dark)!important;
-}
-
 /*Server Icon Background*/ 
 .childWrapper-anI2G9 {
     background-color: var(--dark)!important;
@@ -2907,14 +2902,6 @@ width: 40px;
     font-size: 15px;
 }
 
-/* Server Boost Page Server Boost Panels */
-.card-3AyPWq {
-	background-color: var(--light)!important;
-}
-.card-3AyPWq:hover {
-	background-color: var(--dark)!important;
-}
-
 /*  Overlay Panels  */
 
 .bottomRight-1T56wW {
@@ -2952,3 +2939,53 @@ width: 40px;
 }
 
 .scroller-305q3I{background-color: var(--medium);}
+
+/*  Server Boost Page  */
+.ctaBar-2UsjF2 {
+	background-color: var(--light);
+}
+
+.theme-dark .tierBody-16Chc9 {
+	background-color: var(--light);
+}
+
+.theme-dark .perk-2WeBWW {
+	background-color: var(--light)!important;
+}
+
+.card-3AyPWq {
+	background-color: var(--light)!important;
+}
+.card-3AyPWq:hover {
+	background-color: var(--dark)!important;
+}
+
+.upsellFooter-6EgwMe {
+	background-color: var(--light)!important;
+}
+
+.theme-dark .iconWrapper-3LVgIo {
+	background-color: var(--light)!important;
+}
+
+.table-39R0Oe {
+	background-color: var(--light)!important;
+}
+
+.optionActive-KkAdqq, .optionFocused-8MflSE {
+	background-color: var(--dark)!important;
+}
+
+.perksModal-fSYqOq {
+	background-color: var(--dark)!important;
+}
+
+/*  Additional Information Icon */
+.emoji-2cWBLE, .icon-15YQ1T {
+	background-color: var(--primary2)!important;
+}
+/*  Game Activity Game Info Panel  */
+.section-2gLsgF {
+	background: var(--light)!important;
+}
+
