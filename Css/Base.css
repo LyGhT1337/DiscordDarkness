@@ -603,6 +603,11 @@ padding-right: 0px;
 	background: #432970!important;
 }
 
+.button-1Pkqso {
+	background: #432970!important;
+}
+
+
 .headerStreaming-2FjmGz .activity-11LB_k .lookOutlined-3sRXeN.colorWhite-rEQuAQ:hover {
 	border: 2px solid #8c69c9;
 	background-color: var(--medium)
@@ -614,7 +619,8 @@ padding-right: 0px;
 
 .buttonInvertedPurple-WtBglX {
     background-color: var(--primary);
-    color: white;
+	color: white;
+	border: 1px solid black;
 }
 
 /*Spotify Header*/
