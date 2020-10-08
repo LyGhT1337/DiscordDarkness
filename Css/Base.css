@@ -3052,3 +3052,8 @@ width: 40px;
 .total-3tKGEB:after {
 	background-color: var(--medium);
 }
+
+/* BD Toasts */ 
+.bd-toast {
+	background-color: var(--light);
+}
