@@ -2989,7 +2989,7 @@ width: 40px;
 
 /*  Additional Information Icon */
 .emoji-2cWBLE, .icon-15YQ1T {
-	background-color: var(--primary2)!important;
+	color: var(--primary2)!important;
 }
 /*  Game Activity Game Info Panel  */
 .section-2gLsgF {
