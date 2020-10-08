@@ -753,6 +753,9 @@ padding-right: 0px;
 	top: 147px
 }
 
+
+
+
 .role-2irmRk,.roleCircle-3xAZ1j {
 	border-radius: 0
 }
@@ -2753,7 +2756,13 @@ width: 40px;
 /*View your ... Header Buttons*/
 .closeButton-1tv5uR, .lookFilled-1Gx00P.colorPrimary-3b3xI6, .lookLink-9FtZy-.colorPrimary-3b3xI6, .lookOutlined-3sRXeN.colorTransparent-1ewNp9, .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
 	background: var(--primary);
+	padding: 3px;
 }
+
+.closeButton-1tv5uR:hover, .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover, .lookLink-9FtZy-.colorPrimary-3b3xI6:hover, .lookOutlined-3sRXeN.colorTransparent-1ewNp9:hover, .lookOutlined-3sRXeN.colorWhite-rEQuAQ:hover {
+	background: var(--primary2);
+}
+
 
 /*In-Chat Menu Hover*/
 .theme-dark .selected-1Tbx07 {
@@ -2784,10 +2793,6 @@ width: 40px;
 
 /*Spotify on User click buttons*/
 .listeningActionsUserPopout-Ga2V_N .buttonSize-2Pmk-w:not(:first-child) {
-	background: #229c14;
-}
-
-.lookOutlined-3sRXeN.colorWhite-rEQuAQ {
 	background: #229c14;
 }
 
@@ -2989,4 +2994,17 @@ width: 40px;
 /*  Game Activity Game Info Panel  */
 .section-2gLsgF {
 	background: var(--light)!important;
+}
+
+/*  Joining Public Server Settings  */
+.optionContainer-15srkc {
+	background-color: var(--light);
+}
+
+.optionContainer-15srkc:hover {
+	background-color: var(--dark);
+}
+
+.notice-2X5hT5 {
+	background-color: var(--light);
 }
