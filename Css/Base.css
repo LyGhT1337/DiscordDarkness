@@ -597,6 +597,14 @@ padding-right: 0px;
 	background-color: #432970;
 }
 
+.protip-3-1FNm {
+	display:none;
+}
+
+.theme-dark .watchButton-2SbJEo {
+	background-color: var(--light);
+}
+
 .headerStreaming-2FjmGz .activity-11LB_k .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
 	border: 2px solid #432970;
 	background-color: #432970!important;
@@ -660,6 +668,10 @@ padding-right: 0px;
 /*Playing Header*/
 .headerPlaying-j0WQBV,.topSectionPlaying-1J5E4n {
 	background: #0d0d0d
+}
+
+.container-3JTnYm {
+	background-color: var(--light);
 }
 
 .headerPlaying-j0WQBV .headerTop-3C2Zn0 {
@@ -3026,4 +3038,17 @@ width: 40px;
 /*  Selected Msg toolbar  */
 .toolbar-2bjZV7 {
 	background-color: var(--light);
+}
+
+/* VC User Limit */ 
+.users-i_3-kL {
+	background-color: var(--light);
+}
+
+.total-3tKGEB {
+	background-color: var(--dark);
+}
+
+.total-3tKGEB:after {
+	background-color: var(--medium);
 }
