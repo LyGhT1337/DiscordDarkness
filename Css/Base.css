@@ -3057,3 +3057,21 @@ width: 40px;
 .bd-toast {
 	background-color: var(--light);
 }
+
+/* Screen Share Options */ 
+.card-2Mz_4z {
+	border: 1px solid var(--light);
+    background-color: var(--medium);
+}
+
+.theme-dark .item-3T2z1R {
+	border-color: var(--light);
+}
+
+.selectorButton-EEUWed {
+	background: var(--medium);
+}
+
+.selectorButtonSelected-t5V9On {
+	background: var(--primary);
+}
