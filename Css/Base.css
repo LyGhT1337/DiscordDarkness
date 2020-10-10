@@ -3075,3 +3075,7 @@ width: 40px;
 .selectorButtonSelected-t5V9On {
 	background: var(--primary);
 }
+
+.selectorButton-EEUWed:not(.selectorButtonPremiumRequired-mKMbIu):hover {
+	background: var(--primary2);
+}
