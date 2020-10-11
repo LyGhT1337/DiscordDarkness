@@ -3080,6 +3080,7 @@ width: 40px;
 	background: var(--primary2);
 }
 
+/* Voice Channel Hover BG */ 
 .listDefault-2y5Z9D .clickable-23RaYz:hover .content-3xS9Lh {
 	background-color: rgba(0,0,0,.35)!important
 }
@@ -3088,6 +3089,8 @@ width: 40px;
 	background-color: var(--dark);
 }
 
+
+/* Assign roles pop */ 
 .autocompleteScroller-iInVqR {
 	background: var(--medium);
 	border: 1px solid var(--light);
