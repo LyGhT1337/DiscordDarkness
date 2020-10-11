@@ -3119,5 +3119,5 @@ width: 40px;
 
 /* You have unsaved changes Popup */ 
 .theme-dark .elevationHigh-1PneE4 {
-	background: var(--medium);
+	background: var(--light)!important;
 }
