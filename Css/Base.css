@@ -3087,3 +3087,20 @@ width: 40px;
 .listDefault-2y5Z9D .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh {
 	background-color: var(--dark);
 }
+
+.autocompleteScroller-iInVqR {
+	background: var(--medium);
+	border: 1px solid var(--light);
+}
+
+.theme-dark .autocompleteArrow-Zxoy9H, .theme-dark .header-2bNvm4 {
+	background: var(--medium);
+}
+
+.row-rrHHJU.selected-1pIgLL .rowInner-1vvRiF {
+	background: var(--light);
+}
+
+.container-VSDcQc {
+	background: var(--medium);
+}
