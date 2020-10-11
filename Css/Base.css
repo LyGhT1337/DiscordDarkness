@@ -3079,3 +3079,11 @@ width: 40px;
 .selectorButton-EEUWed:not(.selectorButtonPremiumRequired-mKMbIu):hover {
 	background: var(--primary2);
 }
+
+.listDefault-2y5Z9D .clickable-23RaYz:hover .content-3xS9Lh {
+	background-color: rgba(0,0,0,.35)!important
+}
+
+.listDefault-2y5Z9D .clickable-23RaYz.selected-3TGCSZ .content-3xS9Lh {
+	background-color: var(--dark);
+}
