@@ -3121,3 +3121,8 @@ width: 40px;
 .theme-dark .elevationHigh-1PneE4 {
 	background: var(--light)!important;
 }
+
+/* Call BG */ 
+.root-217Brm {
+	background: var(--dark)!important;
+}
