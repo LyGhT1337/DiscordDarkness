@@ -2258,13 +2258,16 @@ svg[name=Discord] {
 }
 /*Message box */ 
 .scrollableContainer-2NUZem {
-  background-color: var(--light)!important;
-  border: 2px solid var(--dark)!important;
-  border-radius: 2px!important;}
+  	background-color: var(--light)!important;
+  	border: 1px solid var(--dark);
+  	border-radius: 2px!important;}
 .channelTextArea-rNsIhG {
-  background-color:transparent;}
+  	background-color:transparent;}
 .form-2fGMdU:before{
-  display:none;
+  	display:none;
+}
+.scrollableContainer-2NUZem:focus-within {
+	border: 1px solid var(--primary);
 }
 
 /* Instant-no delay - Reactions */
