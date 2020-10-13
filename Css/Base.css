@@ -2268,6 +2268,7 @@ svg[name=Discord] {
 }
 .scrollableContainer-2NUZem:focus-within {
 	border: 1px solid var(--primary);
+	transition: border 0.25s ease-in-out;
 }
 
 /* Instant-no delay - Reactions */
