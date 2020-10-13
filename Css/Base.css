@@ -2258,9 +2258,9 @@ svg[name=Discord] {
 }
 /*Message box */ 
 .scrollableContainer-2NUZem {
-  background-color: var(--medium)!important;
-  border: 1px solid var(--primary)!important;
-  border-radius: 1px!important;}
+  background-color: var(--light)!important;
+  border: 2px solid var(--dark)!important;
+  border-radius: 2px!important;}
 .channelTextArea-rNsIhG {
   background-color:transparent;}
 .form-2fGMdU:before{
@@ -2681,11 +2681,11 @@ width: 40px;
 
 /*Attach Button*/
 .attachButtonPlus-jWVFah {
-	fill: var(--light)!important;
+	fill: var(--dark)!important;
 }
 
 .attachButtonPlus-jWVFah:hover {
-	fill: var(--light)!important;
+	fill: var(--medium)!important;
 }
 
 /*Empty Channel Icon*/
@@ -2781,12 +2781,12 @@ width: 40px;
 }
 /*View your ... Header Buttons*/
 .closeButton-1tv5uR, .lookFilled-1Gx00P.colorPrimary-3b3xI6, .lookLink-9FtZy-.colorPrimary-3b3xI6, .lookOutlined-3sRXeN.colorTransparent-1ewNp9, .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
-	background: var(--primary);
+	background: var(--medium);
 	padding: 3px;
 }
 
 .closeButton-1tv5uR:hover, .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover, .lookLink-9FtZy-.colorPrimary-3b3xI6:hover, .lookOutlined-3sRXeN.colorTransparent-1ewNp9:hover, .lookOutlined-3sRXeN.colorWhite-rEQuAQ:hover {
-	background: var(--primary2);
+	background: var(--light);
 }
 
 
