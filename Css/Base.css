@@ -3152,6 +3152,11 @@ width: 40px;
 	background: var(--medium);
 }
 
+/* Game Invite */ 
 .theme-dark .invite-18yqGF {
+	background: var(--light);
+}
+
+.attachPopout-36hjtN {
 	background: var(--light);
 }
