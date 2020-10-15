@@ -3130,3 +3130,24 @@ width: 40px;
 .root-217Brm {
 	background: var(--dark)!important;
 }
+
+/* User Settings */ 
+.fieldList-21DyL8 {
+	background: var(--medium);
+}
+
+.background-1QDuV2 {
+	background: var(--light);
+}
+
+.phoneVerificationModal-OzcDc3 .field-wKpjTl {
+	background: var(--light);
+}
+
+.phoneField-38N1bJ .inputField-aNPXsv {
+	background: var(--light);
+}
+
+.theme-dark .popoutList-T9CKZQ {
+	background: var(--medium);
+}
