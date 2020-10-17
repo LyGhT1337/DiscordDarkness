@@ -3191,3 +3191,8 @@ width: 40px;
 .integration-3kMeY4 {
 	background: var(--medium);
 }
+
+/* Profile Hover */ 
+.listRow-hutiT_:hover {
+	background: var(--hoverlight);
+}
