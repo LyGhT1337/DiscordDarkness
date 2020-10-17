@@ -3160,3 +3160,29 @@ width: 40px;
 .attachPopout-36hjtN {
 	background: var(--light);
 }
+
+/* Connections */ 
+.accountList-33MS45 {
+	background: var(--light);
+}
+
+.connection-1fbD7X {
+	background: var(--light);
+	border: 1px solid var(--dark);
+}
+
+.connectionHeader-2MDqhu {
+	background: var(--light);
+}
+
+.connectionOptionsWrapper-3KIj1Z{
+	border-top: 1px solid var(--dark);
+}
+
+.divider-3573oO{
+	border-top: 1px thin solid var(--medium);
+}
+
+.integration-3kMeY4 {
+	background: var(--medium);
+}
