@@ -7,6 +7,11 @@
 	padding: 2px 10px
 }
 
+:root{
+	--hoverlight:#15151b;
+}
+
+
 /* Empty Channel Icon */
 .emptyChannelIcon-3IXV5M { background-color: var(--medium);}
 /* Scroll Bar Member List */
