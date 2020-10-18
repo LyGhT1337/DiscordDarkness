@@ -8,7 +8,7 @@
 }
 
 :root{
-	--hoverlight:#15151b;
+	--hoverlight:#33333e;
 }
 
 
@@ -37,6 +37,16 @@
 .messagesWrapper-1sRNjr {
     background-color: var(--medium)!important;
 }
+/* Server Boost Status  */	
+.theme-dark .auditLog-3jNbM6, .theme-dark .tierBody-x9kBBp, .theme-dark .subscribersPopout-2CP6Ln, .theme-dark .tierHeaderLocked-1a2opw, .theme-dark .tierHeaderUnlocked-2RhWqn {
+	background-color: var(--light);
+	border: 1px solid var(--dark);
+}
+
+.tierLock-1oFMOZ {
+    color: var(--hoverlight)!important;
+}
+
 
 /* Large Profile Picture in Popout */
 .userPopout-3XzG_A::before{
@@ -2185,7 +2195,6 @@ svg[name=Discord] {
 .lookFilled-1Gx00P.colorGrey-2DXtkV{background-color: var(--medium);}
 .lookFilled-1Gx00P.colorGrey-2DXtkV:hover{background-color: var(--light);}
 
-.theme-dark .auditLog-3jNbM6, .theme-dark .tierBody-x9kBBp, .theme-dark .subscribersPopout-2CP6Ln, .theme-dark .tierHeaderLocked-1a2opw, .theme-dark .tierHeaderUnlocked-2RhWqn {background-color: var(--medium); border: 0px solid #fff;}
 .side-8zPYf6 .item-PXvHYJ[style*="color: rgb(114, 137, 218);"]{color:var(--interactive-normal) !important;}
 
 .theme-dark .overflowRolesPopout-140n9i, .theme-dark .overflowRolesPopoutArrow-2O66oH{background-color: var(--dark); box-shadow: none;}
@@ -3195,4 +3204,8 @@ width: 40px;
 /* Profile Hover */ 
 .listRow-hutiT_:hover {
 	background: var(--hoverlight);
+}
+/* Widget Hover */ 
+.css-rzbxvl-option {
+background-color: var(--hoverlight);
 }
