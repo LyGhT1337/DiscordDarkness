@@ -997,7 +997,7 @@ padding-right: 0px;
 .cardPrimary-1Hv-to,.cardPrimaryEditable-3KtE4g,.cardPrimaryOutline-29Ujqw {
 	border: none;
 	border-radius: 0;
-	background-color: var(--dark)!important
+	background-color: var(--medium)!important
 }
 
 .input-cIJ7To,.message-2qRu38,.option-n0icdO,.wrapper-3jrx9n {
@@ -3208,4 +3208,24 @@ width: 40px;
 /* Widget Hover */ 
 .css-rzbxvl-option {
 background-color: var(--hoverlight);
+}
+
+
+/* Create Channel */ 
+.theme-dark .modal-yWgWj- {
+	background-color: var(--medium);
+	border: 1px solid var(--primary);
+	box-shadow:none!important;
+}
+
+.inner-1ilYF7 {
+	background-color: var(--medium);
+}
+
+.header-1TKi98 {
+	background-color: var(--medium);
+}
+
+.content-1LAB8Z {
+	background-color: var(--light);
 }
