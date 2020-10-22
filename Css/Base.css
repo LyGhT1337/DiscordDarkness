@@ -997,7 +997,7 @@ padding-right: 0px;
 .cardPrimary-1Hv-to,.cardPrimaryEditable-3KtE4g,.cardPrimaryOutline-29Ujqw {
 	border: none;
 	border-radius: 0;
-	background-color: var(--medium)!important
+	background-color: var(--dark)!important
 }
 
 .input-cIJ7To,.message-2qRu38,.option-n0icdO,.wrapper-3jrx9n {
@@ -3224,8 +3224,9 @@ background-color: var(--hoverlight);
 
 .header-1TKi98 {
 	background-color: var(--medium);
+	border-bottom: 2px solid var(--light);
 }
 
 .content-1LAB8Z {
-	background-color: var(--light);
+	background-color: var(--medium);
 }
