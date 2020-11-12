@@ -2144,7 +2144,7 @@ svg[name=Discord] {
 
 .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6{background-color: var(--medium); box-shadow: none;}
 
-.scroller-2XE8rp{background-color: var(--medium);}
+.scroller-RmtA4e{background-color: var(--medium);}
 .theme-dark .defaultIndicator-3WqGFB{background-color: var(--light);}
 
 .side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ, .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ{background-color: var(--light);}
@@ -2242,7 +2242,7 @@ svg[name=Discord] {
 .addButton-pcyyf6>svg{width:7px;height:7px;color:rgba(255,255,255,0.5);transition:inherit}
 
 /* Unread Channel color */
-.modeUnread-1zpFdA .name-3_Dsmg { 
+.modeUnread-1qO3K1 .name-23GUGE { 
     color: var(--unreadcolor)
 }
 
@@ -3231,4 +3231,18 @@ background-color: var(--hoverlight);
 
 .content-1LAB8Z {
 	background-color: var(--medium);
+}
+
+/* Update Channel Card fix */ 
+
+.wrapper-2jXpOf:hover .content-1x5b-n{
+	background-color: var(--light);
+}
+
+.modeSelected-346R90 .content-1x5b-n, .modeSelected-346R90:hover .content-1x5b-n{
+	background-color: rgba(0,0,0,.5);
+}
+
+.container-3w7J-x{
+    background:none;
 }
