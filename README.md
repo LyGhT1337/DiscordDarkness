@@ -27,3 +27,5 @@ If you wish to use this Theme for Powercord, please follow the steps below:
 Devs - LyGhT and Cruxie
 
 Code snippets - tropix126, ClearVision and Spectra.
+
+test
