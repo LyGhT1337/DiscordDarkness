@@ -22,9 +22,15 @@ If you wish to use this Theme for Powercord, please follow the steps below:
 
 *You can locate the Themes folder by going to your Discord Settings -> Themes -> Open Themes Folder.*
 
+## Official Theme Support Server:
+
+https://discord.gg/SxeFQN6PCh
+
+
 ## Credits:
 
 Devs - LyGhT and Cruxie
 
 Code snippets - tropix126, ClearVision and Spectra.
+
 
