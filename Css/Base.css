@@ -3245,6 +3245,45 @@ background-color: var(--hoverlight);
 .container-3w7J-x{
     background:none;
 }
+
+.clickable-25tGDB .header-2V-4Sw:hover {
+	background-color: var(--light);
+}
 .scroller-RmtA4e{
     background:none;
+}
+
+/* Server Settings Noti Settings */ 
+
+.item-26Dhrx[aria-checked=true] {
+	background-color: var(--hoverlight)
+}
+
+.item-26Dhrx {
+	background-color: var(--light)
+}
+
+.radioIconForeground-XwlXQN {
+	color: var(--primary)
+}
+
+.radioBar-bMNUI-:hover {
+    background-color: var(--hoverlight);
+}
+
+/* Reply function */
+
+.container-2fRDfG {
+	background-color: var(--dark);
+}
+
+.colorBrand-2tjs5J {
+	color: var(--primary);
+}
+.repliedMessage-VokQwo:before {
+border-left: var(--spine-width) solid var(--light);
+border-bottom: 0 solid var(--light);
+border-right: 0 solid var(--light);
+border-top: var(--spine-width) solid var(--light);
+
 }
