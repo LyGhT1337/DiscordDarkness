@@ -3287,3 +3287,30 @@ border-right: 0 solid var(--light);
 border-top: var(--spine-width) solid var(--light);
 
 }
+/* Nitro Payment Method dropdown */
+
+.popout-VcNcHB {
+	background-color: var(--light);
+}
+
+.lookFilled-22uAsw.select-2fjwPw {
+	background-color: var(--light);
+}
+
+.option-3KoAJB:focus, .option-3KoAJB:hover {
+	background-color: var(--hoverlight);
+}
+
+.option-3KoAJB[aria-selected=true] {
+	background-color: var(--hoverlight);
+}
+/* Library */
+
+.theme-dark .installSize-1eXbBX {
+	background-color: var(--light);
+}
+
+.scroller-2XE8rp {
+	background-color: var(--light);
+}
+
