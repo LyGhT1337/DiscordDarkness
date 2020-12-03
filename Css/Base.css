@@ -3314,3 +3314,12 @@ border-top: var(--spine-width) solid var(--light);
 	background-color: var(--light);
 }
 
+
+/* Give Role + */
+.container-3XJ8ns {
+	background-color: var(--light);
+}
+
+.focused-dKLoQt, .item-2J2GlB:hover {
+	background-color: var(--medium);
+}
