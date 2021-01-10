@@ -3323,3 +3323,22 @@ border-top: var(--spine-width) solid var(--light);
 .focused-dKLoQt, .item-2J2GlB:hover {
 	background-color: var(--medium);
 }
+
+/* Discord update fix */
+
+.message-1Ng5AR {
+background: var(--medium);
+}
+
+.searchHeader-2XoQg7 {
+	background: var(--light);
+	}
+
+.button-11zvza {
+	background: var(--light);
+	}
+
+.bar-AokMp3 {
+	background: var(--light);
+	}
+	
