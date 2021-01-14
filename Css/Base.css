@@ -2216,12 +2216,14 @@ svg[name=Discord] {
 }
 
 .unreadPill-2HyYtt {
-    background-color: var(--yellow);
+	background-color: var(--primary);
+	color: var(--primary2);
+
 }
 
 .unreadPillCapStroke-7rkHbg {
-    color: var(--yellow);
-    fill: var(--yellow);
+    color: var(--primary);
+    fill: var(--primary);
 }
   
 /* Roles in User Card */
@@ -3342,3 +3344,6 @@ background: var(--medium);
 	background: var(--light);
 	}
 	
+.group-spacing-16 .divider-3_HH5L.beforeGroup-1rH1F0 {
+	color: var(--primary);
+	}
