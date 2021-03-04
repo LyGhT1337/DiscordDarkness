@@ -2,6 +2,8 @@
 
 Compact, squared and dark for nightowls!
 
+Currently on hold development with only bug fixes. Will resume soon-ish.
+
 ![DiscordDarkness](https://b.catgirlsare.sexy/bOJKiO-q.png)
 
 
