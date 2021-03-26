@@ -10,8 +10,8 @@
 :root{
 	--hoverlight:#33333e;
 }
-
-
+/* Server List */
+.scroller-1Bvpku {background-color: var(--dark);}
 /* Empty Channel Icon */
 .emptyChannelIcon-3IXV5M { background-color: var(--medium);}
 /* Scroll Bar Member List */
