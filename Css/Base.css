@@ -3366,3 +3366,14 @@ background: var(--medium);
 	color: var(--primary);
 	}
 	
+.theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV	{
+	background-color: var(--light)
+}
+
+.theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV:hover	{
+	background-color: var(--hoverlight)
+}
+
+.guildSubscriptionSlots-JPXXvN	{
+	background-color: var(--dark)
+}
