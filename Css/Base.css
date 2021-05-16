@@ -3397,7 +3397,7 @@ background: var(--medium);
 }
 
 .folder-1hbNCn	{
-	background-color:none
+	background-color:none!important;
 }
 
 .expandedFolderBackground-1cujaW	{
@@ -3408,3 +3408,7 @@ background: var(--medium);
 	background-color: transparent;
 }
 
+.expandedFolderBackground-1cujaW {
+	width: 50px;
+	left: 9px;
+}
