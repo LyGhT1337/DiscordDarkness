@@ -3367,21 +3367,31 @@ background: var(--medium);
 	}
 	
 .theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV	{
-	background-color: var(--light)
+	background-color: var(--light);
 }
 
 .theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV:hover	{
-	background-color: var(--hoverlight)
+	background-color: var(--hoverlight);
 }
 
 .guildSubscriptionSlots-JPXXvN	{
-	background-color: var(--dark)
+	background-color: var(--dark);
 }
 
 .header-2mZ9Ov	{
-	background-color: var(--medium)
+	background-color: var(--medium);
 }
 
 .titleContainer-2CXtJo	{
-	background-color: var(--medium)
+	background-color: var(--medium);
+}
+
+.reaction-1hd86g	{
+	background: var(--light)!important;
+	border: 1px solid var(--dark);
+}
+
+.reaction-1hd86g:hover	{
+	background: var(--hoverlight)!important;
+	border: 1px solid var(--dark)!important;
 }
