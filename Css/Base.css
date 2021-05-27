@@ -3416,3 +3416,30 @@ background: var(--medium);
 .scroller-2ZPeAD {
     background-color: var(--light)!important;
 }
+
+/* Profile fixes */
+
+.profileBanner-33-uE1 {
+    background-color: var(--dark)!important;
+}
+
+.headerTop-2y3V6H {
+    background-color: var(--dark)!important;
+}
+
+.activity-fViXj7  {
+    background-color: var(--primary)!important;
+}
+
+.avatar-22FtUu {
+    border: none!important;
+}
+
+.activity-fViXj7 {
+    border-bottom: 20px solid transparent;
+}
+
+.avatarHint-1E3LMl {
+    top: 0px!important;
+    left: 0px!important;
+}
