@@ -3454,3 +3454,16 @@ background: var(--medium);
     padding-left: 10px!important;
 }
 
+/* BD Public Server list */
+
+.theme-dark .bd-server-card {
+	background-color: var(--light);
+}
+
+.bd-button {
+	background-color: var(--primary);
+}
+
+.bd-button:hover {
+	background-color: var(--primary2);
+}
