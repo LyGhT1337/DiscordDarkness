@@ -379,7 +379,7 @@ padding-right: 0px;
 #bd-pub-button {
 	line-height: 20px;
 	font-size: 12px;
-	background-color: rgba(79,84,92,.6);
+	background-color: var(--light);
 	transition: all .2s ease
 }
 
@@ -2751,7 +2751,7 @@ width: 40px;
 }
 
 .bd-switch-checked {
-	background-color: var(--primary);
+	background-color: transparent;
 }
 /*Profile Bar*/
 .tabBarContainer-1s1u-z {
@@ -3417,14 +3417,10 @@ background: var(--medium);
     background-color: var(--light)!important;
 }
 
-/* Profile fixes */
-
-.profileBanner-33-uE1 {
-    background-color: var(--dark)!important;
-}
+/* Discord theme redo - Profile Fixes*/
 
 .headerTop-2y3V6H {
-    background-color: var(--dark)!important;
+    background-color: var(--medium)!important;
 }
 
 .activity-fViXj7  {
@@ -3442,4 +3438,12 @@ background: var(--medium);
 .avatarHint-1E3LMl {
     top: 0px!important;
     left: 0px!important;
+}
+
+.username-3gJmXY {
+	font-size: 20px!important;
+}
+
+.headerInfo-30uryT {
+    padding-left: 10px!important;
 }
