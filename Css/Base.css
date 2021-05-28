@@ -3396,6 +3396,8 @@ background: var(--medium);
 	border: 1px solid var(--dark)!important;
 }
 
+/* Discord theme redo - Folder fixes*/
+
 .folder-1hbNCn	{
 	background-color: transparent;
 }
@@ -3411,6 +3413,10 @@ background: var(--medium);
 .expandedFolderBackground-1cujaW {
 	width: 50px;
 	left: 9px;
+}
+
+.folderIconWrapper-1_bOZe {
+	border-radius: 1px!important;
 }
 
 .scroller-2ZPeAD {
@@ -3447,3 +3453,4 @@ background: var(--medium);
 .headerInfo-30uryT {
     padding-left: 10px!important;
 }
+
