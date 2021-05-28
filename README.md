@@ -24,9 +24,9 @@ If you wish to use this Theme for Powercord, please follow the steps below:
 
 *You can locate the Themes folder by going to your Discord Settings -> Themes -> Open Themes Folder.*
 
-## Official Theme Support Server:
+## How to get Theme Support:
 
-https://discord.gg/SxeFQN6PCh
+Create an Issue on this Git or Direct Message me on Discord. My Tag is: LyGhT#1337
 
 
 ## Credits:
