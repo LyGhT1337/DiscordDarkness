@@ -3475,3 +3475,12 @@ background: var(--medium);
 	background-color: var(--light)!important;
 }
     
+/* Reply Bar */
+
+.replyBar-1YLQ2F {
+    background-color: var(--dark)!important;
+}
+
+.colorLink-2vG20E {
+    color: var(--primary)!important;
+}
