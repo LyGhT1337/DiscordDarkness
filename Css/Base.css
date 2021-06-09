@@ -3494,3 +3494,87 @@ background: var(--medium);
 .subscription-3aLGnG {
     background-color: var(--medium)!important;
 }
+
+
+/* Discord Update Fixes */
+
+.container-24CyRY {
+    background-color: var(--dark)!important;
+}
+
+.contentContainer-1fklqj {
+    background-color: var(--medium)!important;
+}
+
+.container-3yC5sj {
+    background-color: var(--hoverlight)!important;
+}
+
+ .rowContainer-2tYerQ {
+    background-color: var(--dark)!important;
+}
+
+.tileContainer-BaRAZF {
+    background-color: var(--medium)!important;
+}
+
+.container-2t1JyW {
+    background-color: var(--dark)!important;
+}
+
+.scroller-1SuHJo {
+    background-color: var(--dark)!important;
+}
+
+.participants-soO0aD {
+    background-color: var(--medium)!important;
+}
+
+.colorable-1bkp8v.primaryDark-3mSFDl {
+    background-color: var(--medium)!important;
+}
+
+.lookFilled-1Gx00P.colorRed-1TFJan {
+    background-color: var(--primary)!important;
+}
+
+.body-3HBlXn {
+    background-color: var(--medium)!important;
+}
+
+.footer-1N3bR3 {
+    background-color: var(--medium)!important;
+}
+
+.avatar-37jOim {
+    border: transparent 6px solid!important;
+    background-color: transparent!important;
+}
+
+.infoScroller-1Qu30O {
+    background-color: var(--medium)!important;
+}
+
+.header-4zuFdR {
+    background-color: var(--medium)!important;
+}
+
+.activity-2M3PRB {
+    background-color: var(--medium)!important;
+}
+
+.theme-dark .root-1gCeng {
+    border: transparent!important;
+}
+
+.tabBarContainer-37hZsr {
+    background-color: var(--dark)!important;
+}
+
+.listScroller-3GmIYj {
+    background-color: var(--medium)!important;
+}
+
+.activity-3v9l4T {
+    padding: 16px 16px!important;
+}
