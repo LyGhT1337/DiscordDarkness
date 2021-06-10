@@ -3551,6 +3551,11 @@ background: var(--medium);
     background-color: transparent!important;
 }
 
+.avatar-2PN2-j {
+    border: transparent 6px solid!important;
+    background-color: transparent!important;
+}
+
 .infoScroller-1Qu30O {
     background-color: var(--medium)!important;
 }
@@ -3579,3 +3584,4 @@ background: var(--medium);
     padding: 16px 16px!important;
 	background-color: var(--light)!important;
 }
+
