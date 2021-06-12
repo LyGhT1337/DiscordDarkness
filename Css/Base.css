@@ -3588,3 +3588,10 @@ background: var(--medium);
 .topSection-y3p-_D {
     background-color: var(--medium)!important;
 }
+
+.bodyTitle-3FWCs2 {
+    margin-left: 0px;
+    border-bottom: 1px solid var(--primary);
+    padding-left: 110px;
+}
+
