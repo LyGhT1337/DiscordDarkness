@@ -3149,7 +3149,18 @@ width: 40px;
 /* User Settings */ 
 .fieldList-21DyL8 {
 	background: var(--medium);
-	border: 1px solid var(--dark);
+}
+
+.userInfo-iCloHO {
+    background-color: var(--light);
+}
+
+.background-1QDuV2 {
+    background-color: var(--medium);
+}
+
+.accountProfileCard-1XCH88 {
+    background-color: var(--light);
 }
 
 .background-1QDuV2 {
