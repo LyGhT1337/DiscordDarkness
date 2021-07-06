@@ -3649,3 +3649,28 @@ background: var(--medium);
 .popoutInfo-pKbpvG {
     background-color: var(--medium);
 }
+
+/* Hide nitro icon on banners */
+.bannerPremium-2hSAwz .premiumIconWrapper-1A-UH5 {
+	display: none;
+  }
+
+/* Removes Tooltip from Server Name Selection */
+.setIdentityLink-1t8Ahd {display: none}
+
+/* Old Mentions */
+
+#app-mount .wrapper-3WhCwL {
+    color: #687dc6;
+    background: rgba(114,137,218,0.1);
+}
+#app-mount .wrapper-3WhCwL:hover {
+    background: rgb(114,137,218);
+    color: white;
+}
+#app-mount .mentioned-xhSam7 .mention {
+    background: transparent !important
+}
+#app-mount .mentioned-xhSam7 .mention:hover {
+    color: #687dc6;
+}
