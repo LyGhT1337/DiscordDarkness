@@ -3164,7 +3164,6 @@ width: 40px;
 }
 
 .background-1QDuV2 {
-	background: var(--light);
 	border: 1px solid var(--dark);
 }
 
@@ -3510,7 +3509,7 @@ background: var(--medium);
 /* Discord Update Fixes */
 
 .container-24CyRY {
-    background-color: var(--dark)!important;
+    background-color: var(--jmedium)!important;
 }
 
 .contentContainer-1fklqj {
@@ -3680,5 +3679,92 @@ background: var(--medium);
 }
 
 .form-3eU9kJ {
+	background-color: var(--medium)!important;
+}
+
+/* Role Icons */
+
+.previewContainer-sli91T {
+	background-color: var(--light)!important;
+}
+
+.navUploadSelected-23vx55 {
+	background-color: var(--light)!important;
+}
+
+.navButtonActive-3bfmF8 {
+	background-color: var(--hoverlight)!important;
+}
+
+.contentWrapper-seqLgq {
+	background-color: var(--medium)!important;
+}
+
+.checkboxWrapper-SkhIWG.row-3QHy4I {
+	background-color: var(--hoverlight)!important;
+}
+
+/* Server Boost Statuses */
+
+.theme-dark .tierBody-3aUxuc {
+	background-color: var(--dark)!important;
+}
+
+.tierHeaderContent-3t3DoO {
+	background-color: var(--light)!important;
+}
+
+/* Role setting */
+
+.container-_phMUq {
+	background-color: var(--light)!important;
+}
+
+/* Sticker Upload */
+
+.wrapper-18yWki {
+	background-color: var(--light)!important;
+}
+
+/* Nitro New Feature notice */
+
+.premiumInlineNotice-159eYs {
+	background-color: var(--light)!important;
+}
+
+.subscriptionsRedirectContainer-21LuI0 {
+	background-color: var(--light)!important;
+}
+
+/* Upload Banner / Avatar upload Box */
+
+.optionBox-1b4n4P {
+	background-color: var(--light)!important;
+	border: 1px solid var(--dark)!important;
+}
+
+/* Subscription Credit cardbox */
+
+.noItemsCard-3TSAgO {
+	background-color: var(--light)!important;
+}
+
+/* Your Gifts Card */
+
+.promotionCard-2IP574 {
+	background-color: var(--light)!important;
+}
+
+/* Settings: Message Preview */
+
+.previewMessage-1ZN7YG {
+	background-color: var(--light)!important;
+}
+
+.contentContainer-r2-Vlj, .headerContainer-5fBDkh {
+    background-color: var(--light);
+}
+	
+.theme-dark .container-S9SaVf {
 	background-color: var(--medium)!important;
 }
