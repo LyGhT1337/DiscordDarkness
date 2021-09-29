@@ -28,11 +28,6 @@ If you wish to use this Theme for Powercord, please follow the steps below:
 
 Create an Issue on this Git or Direct Message me on Discord. My Tag is: LyGhT#1337
 
-
-## Support:
-
-For Support create an Issue here on Github or add me on Discord: LyGhT#1337
-
 ## Credits:
 
 Devs - LyGhT and Cruxie
