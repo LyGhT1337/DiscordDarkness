@@ -3761,10 +3761,26 @@ background: var(--medium);
 	background-color: var(--light)!important;
 }
 
+/* Stage View */
+
 .contentContainer-r2-Vlj, .headerContainer-5fBDkh {
     background-color: var(--light);
 }
 	
 .theme-dark .container-S9SaVf {
 	background-color: var(--medium)!important;
+}
+
+/* Guild Rule Card */
+
+.guildSidebar-2OCzWB {
+    background-color: var(--light);
+}
+
+.formFieldWrapper-malor5 {
+    background-color: var(--light);
+}
+
+.formFieldWrapper-malor5, .settingsFormFieldWrapper-3Y77Pr {
+    border: 1px solid var(--dark);
 }
