@@ -3784,3 +3784,7 @@ background: var(--medium);
 .formFieldWrapper-malor5, .settingsFormFieldWrapper-3Y77Pr {
     border: 1px solid var(--dark);
 }
+
+.avatar-1uQSZT {
+    border: 1px solid var(--dark)!important;
+}
