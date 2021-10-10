@@ -3788,3 +3788,10 @@ background: var(--medium);
 .avatar-1uQSZT {
     border: 1px solid var(--dark)!important;
 }
+
+.base-1x0h_U.muted-3-7c5L {
+    padding-left: 100px;
+    color: var(--header-secondary);
+    border-bottom: 1px solid var(--primary);
+}
+}
