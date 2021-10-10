@@ -3790,7 +3790,14 @@ background: var(--medium);
 }
 
 .base-1x0h_U.muted-3-7c5L {
-    padding-left: 100px;
     color: var(--header-secondary);
     border-bottom: 1px solid var(--primary);
+}
+
+.aboutMeTitle-1IYtPE {
+    text-align: center!important;
+    padding-left: 100px;
+}	
+
+#app-mount .nickname-3M3Jfa, .headerTagWithNickname-3l_x6x, .customStatus-oN4ZZY, .aboutMeSection-1Fw5Ia, .bodyTitle-1ySSKn, .headerTopWithCustomStatus-1DHAjX{text-align: center!important;
 }
