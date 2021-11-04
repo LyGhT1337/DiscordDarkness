@@ -3802,3 +3802,9 @@ background: var(--medium);
 
 #app-mount .nickname-3M3Jfa, .headerTagWithNickname-3l_x6x, .headerTagNoNickname-3qrd77, .customStatus-oN4ZZY, .aboutMeSection-1Fw5Ia, .bodyTitle-1ySSKn, .headerTopWithCustomStatus-1DHAjX{text-align: center!important;
 }
+
+/* Online Status next to pfp */
+
+.status-1eOIMS, .svg-2V3M55 {
+    left: 1px!important;
+}	
