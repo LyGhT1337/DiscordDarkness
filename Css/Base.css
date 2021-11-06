@@ -3808,3 +3808,9 @@ background: var(--medium);
 .status-1eOIMS, .svg-2V3M55 {
     left: 1px!important;
 }	
+
+/* Discord Update fix */
+
+.container-2wlB3z{
+	background: var(--medium);
+}
