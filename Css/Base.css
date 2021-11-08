@@ -3816,5 +3816,9 @@ background: var(--medium);
 }
 
 .folder-2w6LX1{
-	background-color: none;
+	background-color: none!important;
+}
+
+.expandedFolderBackground-3ZDF05{
+	background-color: var(--light)!important;
 }
