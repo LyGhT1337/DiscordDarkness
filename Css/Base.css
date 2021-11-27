@@ -3787,7 +3787,16 @@ background: var(--medium);
 }
 
 .avatar-1uQSZT {
-    border: 1px solid var(--dark)!important;
+    border: none!important;
+	background-color: none!important;
+}
+
+.avatarUploaderInner-mAGe3e {
+    border: none!important;
+}
+
+.popoutInfo-1A9dyK {
+    background: var(--medium)!important;
 }
 
 .base-1x0h_U.muted-3-7c5L {
@@ -3820,5 +3829,9 @@ background: var(--medium);
 }
 
 .expandedFolderBackground-3ZDF05{
+	background-color: var(--light)!important;
+}
+
+.upload-3Dkqd6 {
 	background-color: var(--light)!important;
 }
