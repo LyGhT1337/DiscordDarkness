@@ -3835,3 +3835,10 @@ background: var(--medium);
 .upload-3Dkqd6 {
 	background-color: var(--light)!important;
 }
+
+.circleIconButton-hZmpE8 {
+	background-color: var(--medium)!important;
+	height: 45px!important;
+	width: 45px!important;
+	color: var(--primary)!important;
+}
