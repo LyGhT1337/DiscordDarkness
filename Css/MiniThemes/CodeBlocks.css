@@ -66,7 +66,7 @@
 .hljs[class~=ini i]::before {content: "Initialization File";--codeblockcolor: #5d91ff;}
 .hljs[class~=autohotkey i]::before {content: "AutoHotkey";--codeblockcolor: #dc5159;}
 .hljs[class~=asciidoc i]::before {content: "Ascii";--codeblockcolor: #5c87e2;}
-.hljs[class~=TOML i]::before {content: "TOML";--codeblockcolor: #30.88f;}
+.hljs[class~=TOML i]::before {content: "TOML";--codeblockcolor: #3088f;}
 .hljs[class~=nginx i]::before {content: "NGINX";--codeblockcolor: #4bd1a9;}
 .hljs[class~=perl i]::before {content: "Perl";--codeblockcolor: #a462d0;}
 .hljs[class~=d i]::before {content: "d";--codeblockcolor: #B03931;}
@@ -111,7 +111,7 @@
 .hljs[class~=llvm i]::before {content: "LLVM IR";--codeblockcolor: #0014a5;}
 .hljs[class~=mipsasm i]::before {content: "MIPS Assembly";--codeblockcolor: #fc6675;}
 .hljs[class~=x86asm i]::before {content: "Intel x86 Assembly";--codeblockcolor: #0071c5;}
-.hljs[class~=crmsh i]::before {content: "crmsh";--codeblockcolor: #be00.8;}
+.hljs[class~=crmsh i]::before {content: "crmsh";--codeblockcolor: #be008;}
 .hljs[class~=dns i]::before {content: "DNS Zone File";--codeblockcolor: #00c704;}
 .hljs[class~=dockerfile i]::before {content: "Dockerfile";--codeblockcolor: #c70000;}
 .hljs[class~=dsconfig i]::before {content: "dsconfig";--codeblockcolor: #2cb0cc;}
