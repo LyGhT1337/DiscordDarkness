@@ -26,7 +26,7 @@ If you wish to use this Theme for Powercord, please follow the steps below:
 
 ## How to get Theme Support:
 
-Create an Issue on this Git or Direct Message me on Discord. My Tag is: LyGhT#1337
+Create an Issue on this Git or Direct Message me on Discord. My old Tag was -> LyGhT#1337 (please don't add that one) my New Discord Account is -> LyGhT#1159
 
 ## Credits:
 
