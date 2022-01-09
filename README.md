@@ -2,7 +2,6 @@
 
 Compact, squared and dark for nightowls!
 
-Currently on hold development with only bug fixes. Will resume soon-ish.
 
 ![DiscordDarkness](https://b.catgirlsare.sexy/bOJKiO-q.png)
 
@@ -26,12 +25,12 @@ If you wish to use this Theme for Powercord, please follow the steps below:
 
 ## How to get Theme Support:
 
-Create an Issue on this Git or Direct Message me on Discord. My old Tag was -> LyGhT#1337 (please don't add that one) my New Discord Account is -> LyGhT#1159
+Create an Issue on this Git or Direct Message me on Discord. New Discord Account is -> LyGhT#1159
 
 ## Credits:
 
-Devs - LyGhT and Cruxie
+Devs - LyGhT
 
-Code snippets - tropix126, ClearVision and Spectra.
+Code snippets - tropix126, ClearVision, Cre-Arts-Community, cruxie and Spectra.
 
 

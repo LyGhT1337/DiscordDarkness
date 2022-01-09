@@ -8,14 +8,14 @@
  *//*
 + ========================= +
 + DiscordDarkness Theme for Discord +
-+ Made By LyGhT and Cruxie +
++ Made By LyGhT - Huge shoutout to cruxie and spectra for letting me develop this Theme +
 + ========================= +
 The author LyGhT retains full rights of this code.
 If you enjoy using the theme, help spread the word!
 */
 /*###################################################################################################*/
 /* Main */
-@import url('https://lyght1337.github.io/DiscordDarkness/Css/BD/Css/Base.css');
+@import url('https://lyght1337.github.io/DiscordDarkness/Css/BD/Base.css');
 /* Addons */
 @import url('https://lyght1337.github.io/DiscordDarkness/Css/BD/Css/MiniThemes/CodeBlocks.css');
 @import url('https://lyght1337.github.io/DiscordDarkness/Css/BD/Css/MiniThemes/Statusright.css');
