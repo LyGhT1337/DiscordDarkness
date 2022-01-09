@@ -1201,7 +1201,7 @@ padding-right: 0px;
 	background-color: var(--primary2)!important
 }
 
-#friends .friends-table .friends-row .friends-column-actions .friends-action,.button-2b4VEQ.buttonSize-3QlBTl,.lookFilled-1Gx00P.colorBrand-3pXr91,.lookFilled-1Gx00P.colorBrand-3pXr91:disabled,.lookFilled-1Gx00P.colorGreen-29iAKY,.lookInverted-2D7oAl.colorBrand-3pXr91,.lookOutlined-3sRXeN.colorBrand-3pXr91,.lookOutlined-3sRXeN.colorGreen-29iAKY {
+#friends .friends-table .friends-row .friends-column-actions .friends-action,.button-2b4VEQ.buttonSize-3QlBTl,.lookFilled-yCfaCM.colorGreen-3y-Z79,.lookFilled-1Gx00P.colorBrand-3pXr91,.lookFilled-1Gx00P.colorBrand-3pXr91:disabled,.lookFilled-1Gx00P.colorGreen-29iAKY,.lookInverted-2D7oAl.colorBrand-3pXr91,.lookOutlined-3sRXeN.colorBrand-3pXr91,.lookOutlined-3sRXeN.colorGreen-29iAKY {
 	-webkit-box-shadow: inset 0 -4px 0 rgba(35,39,42,.6);
 	transition: all .2s ease;
 	background-color: var(--primary)!important;
@@ -3627,6 +3627,10 @@ background: var(--medium);
 }
 
 .footer-1Dc_h6 {
+    background-color: var(--medium)!important;
+}
+
+.footer-3naVBw {
     background-color: var(--medium)!important;
 }
 
