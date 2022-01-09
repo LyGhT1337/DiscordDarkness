@@ -1,7 +1,7 @@
 {
     "name": "DiscordDarkness",
     "description": "Compact, squared and dark for nightowls!",
-    "version": "1.2.1",
+    "version": "1.2.3",
     "author": "LyGhT",
     "theme": "powercord.scss",
     "license": "unknown"
