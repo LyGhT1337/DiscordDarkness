@@ -1,0 +1,70 @@
+.avatar-1BDn8e + h2 > .username-1A8OIy::after {
+  display: inline-block;
+  height: 14px;
+  width: 14px;
+  line-height: 14px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url('');
+  position: relative;
+  top: 2px;
+  margin-left: 5px;
+}
+.avatar-1BDn8e + h2 > .username-1A8OIy:hover::after {
+  width: auto;
+  border-radius: 4px;
+  padding: 2px 5px;
+  background-image: none!important;
+  background-color: #0d0d0d;
+  color: #fff;
+  font-size: 12px;
+  top: -1px;
+  font-weight: normal;
+  animation-timing-function: linear;
+  transition: 
+    color .2s ease,
+    background-color .2s ease;
+}
+
+    @keyframes rainbow {
+      from{filter: hue-rotate(0deg)}
+      to{filter: hue-rotate(360deg);}
+    }
+    @keyframes scaleIn {
+      from{transform: scale(.1);}
+      to{transform: scale(1);}
+    }
+    @keyframes fadeIn {
+      from{opacity: 0;}
+      to{opacity: 1;}
+    }
+
+
+  /*==|CUSTOM BADGES|==*/
+    /* LyGhT */
+    
+    .avatar-1BDn8e[src*="225605638376390656"] + h2 >  .username-1A8OIy::after {content: "";
+      background-image: url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Badges/lyght.svg');}
+    .avatar-1BDn8e[src*="225605638376390656"] + h2 > .username-1A8OIy:hover::after {
+      content: "DiscordDarkness Dev";
+      background-color: #cf6802;
+      color: #fff;
+      animation: fadeIn .2s linear 1;
+      letter-spacing: 1px;
+    }
+
+
+/*cruxie*/
+    .avatar-1BDn8e[src*="332394843743584256"] + h2 > .username-1A8OIy::after {content: "";
+      background-image: url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Badges/sword.svg');}
+    .avatar-1BDn8e[src*="332394843743584256"] + h2 > .username-1A8OIy:hover::after {
+      content: "Helper";
+      animation: fadeIn .5s linear 1;
+      color: #ff8080;
+      width: 75px;
+      text-align: center;
+      background-color: transparent;
+      background-image: url('https://i.imgur.com/bzmEwnm.png') !important;
+    }
+  
