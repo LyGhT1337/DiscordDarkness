@@ -1,4 +1,4 @@
-.avatar-1BDn8e + h2 > .username-1A8OIy::after {
+.avatar-2e8lTP + h2 > .username-h_Y3Us::after {
   display: inline-block;
   height: 14px;
   width: 14px;
@@ -11,7 +11,7 @@
   top: 2px;
   margin-left: 5px;
 }
-.avatar-1BDn8e + h2 > .username-1A8OIy:hover::after {
+.avatar-2e8lTP + h2 > .username-h_Y3Us:hover::after {
   width: auto;
   border-radius: 4px;
   padding: 2px 5px;
@@ -44,9 +44,9 @@
   /*==|CUSTOM BADGES|==*/
     /* LyGhT */
     
-    .avatar-1BDn8e[src*="225605638376390656"] + h2 >  .username-1A8OIy::after {content: "";
+    .avatar-2e8lTP[src*="225605638376390656"] + h2 >  .username-h_Y3Us::after {content: "";
       background-image: url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Badges/lyght.svg');}
-    .avatar-1BDn8e[src*="225605638376390656"] + h2 > .username-1A8OIy:hover::after {
+    .avatar-2e8lTP[src*="225605638376390656"] + h2 > .username-h_Y3Us:hover::after {
       content: "DiscordDarkness Dev";
       background-color: #cf6802;
       color: #fff;
@@ -56,9 +56,9 @@
 
 
 /*cruxie*/
-    .avatar-1BDn8e[src*="332394843743584256"] + h2 > .username-1A8OIy::after {content: "";
+    .avatar-2e8lTP[src*="332394843743584256"] + h2 > .username-h_Y3Us::after {content: "";
       background-image: url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Badges/sword.svg');}
-    .avatar-1BDn8e[src*="332394843743584256"] + h2 > .username-1A8OIy:hover::after {
+    .avatar-2e8lTP[src*="332394843743584256"] + h2 > .username-h_Y3Us:hover::after {
       content: "Helper";
       animation: fadeIn .5s linear 1;
       color: #ff8080;

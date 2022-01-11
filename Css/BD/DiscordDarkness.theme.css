@@ -15,12 +15,12 @@ If you enjoy using the theme, help spread the word!
 */
 /*###################################################################################################*/
 /* Main */
-@import url('https://lyght1337.github.io/DiscordDarkness/Css/BD/Css/Base.css');
+@import url('https://lyght1337.github.io/DiscordDarkness/Css/Base.css');
 /* Addons */
-@import url('https://lyght1337.github.io/DiscordDarkness/Css/BD/Css/MiniThemes/CodeBlocks.css');
-@import url('https://lyght1337.github.io/DiscordDarkness/Css/BD/Css/MiniThemes/Statusright.css');
-@import url('https://lyght1337.github.io/DiscordDarkness/Css/BD/Css/MiniThemes/SettingIcons.css');
-@import url('https://lyght1337.github.io/DiscordDarkness/Css/BD/Css/MiniThemes/Badges.css');
+@import url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/CodeBlocks.css');
+@import url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Statusright.css');
+@import url("https://crearts-community.github.io/Settings-Icons/clients/powercord.css");
+@import url('https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Badges.css');
 /*###################################################################################################*/
 
 :root{
