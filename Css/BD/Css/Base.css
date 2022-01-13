@@ -1874,6 +1874,7 @@ svg[name=Discord] {
 }
 
 .circleIconButton-jET_ig,.icon-3AqZ2e,.wrapper-3kah-n,.wrapper-3kah-n img,.wrapper-28eC3z,.wrapper-28eC3z svg,.wrapper-28eC3z svg foreignObject {
+	color: var(--primary)!important;
 	height: 43px!important;
 	width: 43px!important;
 	border-radius: 0
@@ -3845,4 +3846,105 @@ background: var(--medium);
 	height: 45px!important;
 	width: 45px!important;
 	color: var(--primary)!important;
+}
+
+
+.folder-241Joy, .folderIconWrapper-1oRIZr {
+	background-color: transparent!important;
+}
+
+.expandedFolderBackground-1kSAf6{
+	border-radius: 0px!important;
+	left: 10px!important;
+	width: 49px!important;
+}
+
+.cozy-3hKWhq.wrapper-15CKyy {
+	background-color: var(--medium)!important;
+}
+
+.wrapper-3HVHpV {
+	background-color: var(--medium)!important;
+}
+
+.container-2RRFHK {
+	background-color: var(--medium)!important;
+}
+
+.notice-1Qe0b_ {
+	background-color: var(--light)!important;
+}
+
+.guildSubscriptionSlots-1i_C21 {
+	background-color: var(--dark)!important;
+}
+
+.guildHeader-1EPPBS {
+	background-color: var(--light)!important;
+}
+
+.detailsBlock-24pLFz {
+	background-color: var(--light)!important;
+}
+
+.lookFilled-yCfaCM.colorBrandNew-2-gGsS {
+    color: #fff;
+    background-color: var(--primary)!important;
+    border-radius: 0px;
+    border: solid 1px black;
+}
+
+.container-3NTP7o, .wrapper-UvA17F {
+    background-color: var(--medium)!important;
+}
+
+.cameraWrapper-1hB0cM {
+    background-color: var(--light)!important;
+    border: 1px solid var(--dark)!important;
+}
+
+.activeGame-3ncS55 {
+    background-color: var(--primary)!important;
+    position: relative;
+}
+
+.theme-dark .nowPlaying-zBamm2 .overlayToggleIconOff-3hGOmN .fill-MYciTJ, .theme-dark .nowPlaying-zBamm2 .overlayToggleIconOn-3_-nGm .fill-MYciTJ, .theme-light .nowPlaying-zBamm2 .overlayToggleIconOff-3hGOmN .fill-MYciTJ, .theme-light .nowPlaying-zBamm2 .overlayToggleIconOn-3_-nGm .fill-MYciTJ {
+    fill: var(--dark);
+}
+
+.overlayToggleIconOff-3hGOmN .fill-MYciTJ {
+    fill: var(--primary)!important;
+}
+
+.theme-dark .overlayToggleIconOn-3_-nGm .fill-MYciTJ {
+    fill: var(--primary)!important;
+}
+
+.powercord-entities-manage-tabs {
+    background-color: var(--light)!important;
+}
+
+.developerPortalCtaWrapper-2PniQs {
+    background-color: var(--light)!important;
+}
+
+.avatarUploaderInner-yEhTv5 {
+    background-color: transparent!important;
+}
+
+.theme-dark .bannerUpsellContainer-31E9J5 {
+    background-color: var(--light)!important;
+}
+
+.avatarUploaderInnerSquareDisabled-e_U2MZ {
+    background-color: var(--light)!important;
+    background-image: none;
+}
+
+.descriptionBox-SKGNgB {
+    background-color: var(--light)!important;
+}
+
+.featureCard-3XHbjy {
+    background-color: var(--light)!important;
 }
