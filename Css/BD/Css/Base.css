@@ -3948,3 +3948,20 @@ background: var(--medium);
 .featureCard-3XHbjy {
     background-color: var(--light)!important;
 }
+
+.threadSuggestionBar-3ExSyc {
+    border-top: 1px solid var(--light)!important;
+    box-shadow: 0 3px 0 var(--light)!important;
+}
+
+.replyBar-1oi75v, .threadSuggestionBar-3ExSyc {
+    background: var(--dark)!important;
+}
+
+.sliderContainer-2nidiS {
+    background-color: var(--light)!important;
+}
+
+.sliderContainer-2nidiS:hover {
+    background-color: var(--light)!important;
+}
