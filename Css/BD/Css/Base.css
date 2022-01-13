@@ -3909,7 +3909,7 @@ background: var(--medium);
 }
 
 .theme-dark .nowPlaying-zBamm2 .overlayToggleIconOff-3hGOmN .fill-MYciTJ, .theme-dark .nowPlaying-zBamm2 .overlayToggleIconOn-3_-nGm .fill-MYciTJ, .theme-light .nowPlaying-zBamm2 .overlayToggleIconOff-3hGOmN .fill-MYciTJ, .theme-light .nowPlaying-zBamm2 .overlayToggleIconOn-3_-nGm .fill-MYciTJ {
-    fill: var(--dark);
+    fill: var(--dark)!important;
 }
 
 .overlayToggleIconOff-3hGOmN .fill-MYciTJ {
