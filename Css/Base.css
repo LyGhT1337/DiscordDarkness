@@ -3965,3 +3965,11 @@ background: var(--medium);
 .sliderContainer-2nidiS:hover {
     background-color: var(--light)!important;
 }
+
+.theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo {
+    background-color: var(--light)!important;
+}
+
+.theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo:hover {
+    background-color: var(--hoverlight)!important;
+}
