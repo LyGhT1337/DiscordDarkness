@@ -3973,3 +3973,43 @@ background: var(--medium);
 .theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo:hover {
     background-color: var(--hoverlight)!important;
 }
+
+.scroller-oTbAWP {
+    background-color: var(--light)!important;
+}
+
+.submitContainer-1DHMA0 {
+    background-color: var(--hoverlight)!important;
+}
+
+.iconWrapper-3plkqh {
+    background-color: var(--medium)!important;
+}
+
+.avatarSpeaking-33RRJU {
+    border-radius: 0px!important;
+}
+
+.iconBadge-32fMme.participating-2Z81oO {
+    background-color: var(--medium)!important;
+}
+
+.header-JUTO-g {
+    background-color: var(--medium)!important;
+}
+
+.notice-2olXi7, .noticeContents-1dYEwP {
+    background-color: var(--light)!important;
+}
+
+.button-YGmtzG:hover {
+    background-color: var(--primary)!important;
+}
+
+.selected-22ukbQ {
+    background-color: var(--hoverlight)!important;
+}
+
+.checkbox-f1HnKB:active {
+    background-color: var(--primary)!important;
+}
