@@ -4013,3 +4013,18 @@ background: var(--medium);
 .checkbox-f1HnKB:active {
     background-color: var(--primary)!important;
 }
+
+.powercord-toast .contents {
+    background-color: var(--medium)!important;
+}
+.powercord-toast .contents .inner {
+    background-color: var(--hoverlight)!important;
+}
+
+.powercord-toast .buttons {
+    background-color: var(--light)!important;
+}
+
+.powercord-toast {
+    background-color: var(--light)!important;
+}
