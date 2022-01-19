@@ -4028,3 +4028,8 @@ background: var(--medium);
 .powercord-toast {
     background-color: var(--light)!important;
 }
+
+.listDefault-2F-w65 .avatarContainer-3FF_Km {
+    border-radius: 0px!important;
+    border: 1px solid var(--dark)!important;
+}
