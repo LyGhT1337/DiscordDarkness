@@ -2655,7 +2655,7 @@ width: 40px;
 
 /* Emoji info,Emoji Server Divider,Emoji on-click popup and Emoji picker background (right click on message)  */
 .inspector-DFKXwB {
-	background-color: var(--medium);
+	background-color: var(--dark);
 }
 
 .theme-dark .wrapper-1NNaWG {
@@ -4134,4 +4134,28 @@ background: var(--medium);
 	z-index:-1
 	}
 	}
-	
+
+.standardStickerShortcut-ObSns3 {
+	background-color: var(--primary)!important;
+}
+
+.wrapper-22rqw6 {
+	background-color: var(--dark)!important;
+}
+
+.sticker-2Yb_-L {
+	background-color: var(--medium)!important;
+}
+
+.premiumCategorySelected-2KWLhN, .premiumCategorySelected-2KWLhN:hover, .stickerCategoryGenericSelected-DnO2K8, .stickerCategoryGenericSelected-DnO2K8:hover {
+	background-color: transparent!important;
+}
+
+.stickerCategory-2f6iSo {
+	background-color: var(--primary)!important;
+}
+
+.avatarOffline-3GF27z, [role="img"][aria-label] {
+    border-radius: 0;
+    left: -1%;
+}

@@ -4,6 +4,9 @@
 /* Status Right */
 [role="img"][aria-label]:before {
   content: "";
+  border-top: 1px solid var(--dark)!important;
+  border-bottom: 1px solid var(--dark)!important;
+  border-left: 1px solid var(--dark)!important;
   position: absolute;
   top: 0;
   left: 0;
