@@ -2125,7 +2125,10 @@ svg[name=Discord] {
 .theme-dark .emptyStateImage-2eMp68{
   background-image: url('https://gistcdn.githack.com/Dries1234/1b10daaeeba58acac90bbf4d7a3dc1ad/raw/7e8acdbc2a9c6e17d2076d01781022238cbe49e9/gaming.svg') !important;
  background-size: cover;}
-.platform-win .sidebar-1tnWFu {border-radius: 0px;}
+.platform-win .sidebar-1tnWFu {
+	border-radius: 0px;
+	border: 1px solid var(--dark);
+}
 
 .guildIcon-2SUGiq{background-color: transparent;}
 .emojiPicker-6YCk8a, .contentWrapper-3vHNP2, .header-1ULbqO, .list-obNEuP, .inspector-sdLnLS, .unicodeShortcut-3N8oDe, .container-2oNtJn {background-color: var(--medium);}
@@ -4169,3 +4172,39 @@ background: var(--medium);
 	border-radius: 0px!important;
 }
 
+.unread-36eUEm {
+    position: absolute;
+    height: 20px!important;
+    width: 3px!important;
+    border-radius: 0 0px 0px 0!important;
+    top: 32%!important;
+    left: 0;
+    margin-top: -4px;
+}
+
+.unreadRelevant-2f-VSK {
+    background-color: var(--primary)!important;
+}
+
+#friends .friends-table .friends-row .friends-column-actions .friends-action, .button-2b4VEQ.buttonSize-3QlBTl, .theme-dark .lookFilled-yCfaCM.colorGrey-2iAG-B, .lookFilled-yCfaCM.colorGreen-3y-Z79, .lookFilled-yCfaCM.colorBrand-I6CyqQ, .lookFilled-1Gx00P.colorBrand-3pXr91, .lookFilled-1Gx00P.colorBrand-3pXr91:disabled, .lookFilled-1Gx00P.colorGreen-29iAKY, .lookInverted-2D7oAl.colorBrand-3pXr91, .lookOutlined-3sRXeN.colorBrand-3pXr91, .lookOutlined-3sRXeN.colorGreen-29iAKY {
+    -webkit-box-shadow: inset 0 -4px 0 rgba(35,39,42,.6);
+    transition: all .2s ease;
+    background-color: var(--primary)!important;
+    border: 1px solid var(--dark)!important;
+    box-shadow: inset 0 0px 0 var(--dark)!important;
+    color: #f6f6f7;
+    border-radius: 0;
+}
+
+.newMessagesBar-1hF-9G {
+border: 1px solid var(--dark);
+border-radius: 0 0 0px 0px;
+}
+
+.icon-3AqZ2e {
+border: 1px solid var(--light);
+}
+
+.pictureInPictureVideo-2puO2Q {
+border: 1px solid var(--dark);
+}
