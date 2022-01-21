@@ -4157,5 +4157,15 @@ background: var(--medium);
 
 .avatarOffline-3GF27z, [role="img"][aria-label] {
     border-radius: 0;
-    left: -1%;
 }
+
+.userPopout-2j1gM4 {
+	border: 1px solid var(--dark)!important;
+	border-radius: 0px!important;
+}
+
+.root-8LYsGj {
+	border: 1px solid var(--dark)!important;
+	border-radius: 0px!important;
+}
+
