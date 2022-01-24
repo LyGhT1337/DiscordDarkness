@@ -4071,13 +4071,13 @@ background: var(--medium);
     margin-right: 2px;
     margin-left: 0;
     margin-right: 0;
-    color: var(--text-normal);
+    color: var(--dark);
     transition: margin .6s;
 }
 [class*="jumpToPresentBar"]:hover > button {
     padding: 8px 18px !important;
     font-size: 14px;
-    color: var(--text-normal);
+    color: var(--dark);
     transition: font-size .2s, color .2s .1s, padding .4s;
 }
 [class*="jumpToPresentBar"]:hover > button svg {
