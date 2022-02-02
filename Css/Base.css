@@ -4159,3 +4159,17 @@ border: 1px solid var(--dark);
 .avatarSpeaking-2pCGrZ {
 	box-shadow: inset 0 0 0 2px hsl(139,calc(var(--saturation-factor, 1)*47.3%),43.9%)!important;
 }
+
+.lookFilled-yCfaCM.colorRed-rQXKgM {
+    color: #fff;
+    background-color: var(--primary);
+    border: 1px solid var(--dark);
+    border-radius: 0px;
+}
+
+.lookFilled-yCfaCM.colorRed-rQXKgM:hover {
+    color: #fff;
+    background-color: var(--primary);
+    border: 1px solid var(--dark);
+    border-radius: 0px;
+}
