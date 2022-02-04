@@ -4195,3 +4195,8 @@ border: 1px solid var(--dark);
 	margin-left: 8px;
 	padding: 0;
   }
+
+  .iconContainer-21RCa3:before{
+	border: 1px solid var(--dark)!important;
+  }
+  
