@@ -4038,7 +4038,7 @@ background: var(--medium);
 }
 
 .bar-2MWHzg {
-    background-color: var(--light)!important;
+    background-color: var(--dark)!important;
 }
 
 [class*="jumpToPresentBar"] {
@@ -4200,3 +4200,11 @@ border: 1px solid var(--dark);
 	border: 1px solid var(--dark)!important;
   }
   
+  .clipContainer-31nYlH{
+	padding-top: 0px;
+  }
+
+  .theme-dark .autocomplete-3NRXG8{
+  background-color: var(--dark);
+  border-radius: 0px;
+  }
