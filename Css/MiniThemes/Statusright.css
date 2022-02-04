@@ -4,9 +4,6 @@
 /* Status Right */
 [role="img"][aria-label]:before {
   content: "";
-  border-top: 1px solid var(--dark)!important;
-  border-bottom: 1px solid var(--dark)!important;
-  border-left: 1px solid var(--dark)!important;
   position: absolute;
   top: 0;
   left: 0;
@@ -14,7 +11,7 @@
   height: 100%;
   z-index: 20;
   border-radius: 0;
-  border-right: 3px solid grey;
+  border-right: 2px solid grey;
 }
 .friendsTable-133bsv .friendsRow-2yicud .friendsColumnName-1zBOKm {padding-left: 15px;}
 .avatarOffline-3GF27z {filter: grayscale(100%);}
@@ -49,7 +46,7 @@
 [role="img"][aria-label*="オンライン" i]:before,
 [role="img"][aria-label*="線上" i]:before,
 [role="img"][aria-label*="온라인" i]:before {
-border-right: 3px solid #43b581;}
+border-right: 2px solid #43b581;}
 [role="img"][aria-label*="Do Not Disturb" i]:before,
 [role="img"][aria-label*="Vil ikke forstyrres" i]:before,
 [role="img"][aria-label*="Bitte nicht stören" i]:before,
@@ -78,7 +75,7 @@ border-right: 3px solid #43b581;}
 [role="img"][aria-label*="取り込み中" i]:before,
 [role="img"][aria-label*="請勿打擾" i]:before,
 [role="img"][aria-label*="다른 용무 중" i]:before {
-border-right: 3px solid #f04747;}
+border-right: 2px solid #f04747;}
 [role="img"][aria-label*="Idle" i]:before,
 [role="img"][aria-label*="Inaktiv" i]:before,
 [role="img"][aria-label*="Abwesend" i]:before,
@@ -104,7 +101,7 @@ border-right: 3px solid #f04747;}
 [role="img"][aria-label*="退席中" i]:before,
 [role="img"][aria-label*="閒置" i]:before,
 [role="img"][aria-label*="자리비움"]:before {
-border-right: 3px solid #faa61a;}
+border-right: 2px solid #faa61a;}
 [role="img"][aria-label*="Streaming" i]:before,
 [role="img"][aria-label*="Streamer" i]:before,
 [role="img"][aria-label*="Transmitiendo" i]:before,
@@ -131,7 +128,7 @@ border-right: 3px solid #faa61a;}
 [role="img"][aria-label*="配信" i]:before,
 [role="img"][aria-label*="直播中" i]:before,
 [role="img"][aria-label*="配信" i]:before {
-border-right: 3px solid #6441a5;}
+border-right: 2px solid #6441a5;}
 [role="img"][aria-label*="Offline" i]:before,
 [role="img"][aria-label*="Hors ligne" i]:before,
 [role="img"][aria-label*="Nem elérhető" i]:before,
@@ -153,7 +150,7 @@ border-right: 3px solid #6441a5;}
 [role="img"][aria-label*="Frakoblet" i]:before,
 [role="img"][aria-label*="Desconectado" i]:before,
 .avatarOffline-3GF27z {
-border-right: 3px solid #747f8d;}
+border-right: 2px solid #747f8d;}
 [role="img"][aria-label*="Invisible" i]:before,
 [role="img"][aria-label*="Usynlig" i]:before,
 [role="img"][aria-label*="Unsichtbar" i]:before,
@@ -182,7 +179,7 @@ border-right: 3px solid #747f8d;}
 [role="img"][aria-label*="オンライン状態を隠す" i]:before,
 [role="img"][aria-label*="隱形" i]:before,
 [role="img"][aria-label*="오프라인 표시" i]:before {
-border-right: 2.5px solid #747f8d;}
+border-right: 2px solid #747f8d;}
 .cursorDefault--wfhy5,
 .dots-1BwzZQ {
   overflow:visible;}
