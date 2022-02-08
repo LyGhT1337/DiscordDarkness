@@ -2732,6 +2732,8 @@ width: 40px;
 .theme-dark .codeRedemptionRedirect-3SBiCp {
 	background-color: var(--dark);
 	color: var(--primary);
+	border-color: var(--light);
+	border-radius: 0px;
 }
 /*Discord Switch*/
 .theme-dark .defaultIndicator-2ndWks {
@@ -3011,7 +3013,9 @@ width: 40px;
 }
 
 .card-2gdrYL {
-	background-color: var(--light)!important;
+    border-radius: 0px;
+    border: 1px solid var(--dark);
+    background-color: var(--light)!important;
 }
 .card-2gdrYL:hover {
 	background-color: var(--dark)!important;
@@ -3743,7 +3747,9 @@ background: var(--medium);
 }
 
 .subscriptionsRedirectContainer-zD3U79 {
-	background-color: var(--light)!important;
+    border: 1px solid var(--dark);
+    border-radius: 0px;
+    background-color: var(--light)!important;
 }
 
 /* Upload Banner / Avatar upload Box */
@@ -3756,7 +3762,9 @@ background: var(--medium);
 /* Subscription Credit cardbox */
 
 .noItemsCard-5EOcCl {
-	background-color: var(--light)!important;
+    border: 1px solid var(--dark);
+    border-radius: 0px;
+    background-color: var(--light)!important;
 }
 
 /* Your Gifts Card */
@@ -3888,7 +3896,9 @@ background: var(--medium);
 }
 
 .detailsBlock-24pLFz {
-	background-color: var(--light)!important;
+    border: 1px solid var(--dark);
+    border-radius: 0px;
+    background-color: var(--light)!important;
 }
 
 .lookFilled-yCfaCM.colorBrandNew-2-gGsS {
@@ -3972,6 +3982,8 @@ background: var(--medium);
 
 .theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo {
     background-color: var(--light)!important;
+	border-radius: 0px;
+	border: 1px solid var(--dark);
 }
 
 .theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo:hover {
@@ -4246,5 +4258,51 @@ background: var(--medium);
 	}
 
 	.swatch-35F5kl {
+		border-radius: 0px;
+	}
+
+	.fakeActivityIcon-KeXVoI {
+		border-radius: 0px;
+		border: 1px solid var(--dark);
+	}
+
+	.fakeActivityIcon-KeXVoI.wumpus-otZFUO{
+		background-color: transparent;
+	}
+
+	.theme-dark .feature-2IUcBI {
+		border-radius: 0px;
+		border: 1px solid var(--dark);
+	}
+
+	.featurePremiumGuild-2uV6-N .featureImage-91H2fC{
+		width:170px;
+	}
+	.featureBadge-1FNGAH .featureImage-91H2fC{
+		width:180px;
+	}
+
+	.guild-2Fq4I5{
+		border: 1px solid var(--dark);
+		border-radius: 0px;
+	}
+
+	.tier2-2lPk-q.banner-oA34U0{
+		border: 1px solid var(--dark);
+		border-radius: 0px;
+	}
+
+	
+
+	.theme-dark .paymentPane-ut5qKZ{
+		border: 1px solid var(--light);
+		border-radius: 0px;
+	}
+
+	.pageButtonPrev-3q9rh8{
+		border-radius: 0px;
+	}
+
+	.pageButtonNext-2_bbdk{
 		border-radius: 0px;
 	}
