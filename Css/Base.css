@@ -4306,3 +4306,24 @@ background: var(--medium);
 	.pageButtonNext-2_bbdk{
 		border-radius: 0px;
 	}
+
+	.selected-3veCBZ {
+		border-top: 1px solid var(--dark);
+		border-bottom: 1px solid var(--dark);
+		border-right: 1px solid var(--dark);
+		color: var(--interactive-active);
+		background-color: var(--light);
+	}
+
+	.interactive-1vLZ_I:active{
+		background-color: var(--light);
+	}
+
+	.interactive-1vLZ_I:focus-within, .interactive-1vLZ_I:hover{
+		background-color:var(--hoverlight);
+	}
+
+	.channel-1Shao0.selected-1HYmZZ, .channel-1Shao0:hover{
+		background-color: var(--dark);
+		border-right: 1px solid var(--dark);
+	}
