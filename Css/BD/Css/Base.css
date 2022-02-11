@@ -4327,3 +4327,14 @@ background: var(--medium);
 		background-color: var(--dark);
 		border-right: 1px solid var(--dark);
 	}
+	.theme-dark .root-g14mjS{
+	border: 1px solid var(--dark);
+	background-color: #36393f;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+	}
+
+	.root-g14mjS{
+		border-radius: 0px;
+	}
+	
