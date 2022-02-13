@@ -3097,7 +3097,7 @@ width: 40px;
 }
 
 .theme-dark .item-2OyinQ {
-	border-color: var(--light);
+	border-color: var(--dark);
 }
 
 .selectorButton-3sW6Qm {
@@ -4338,3 +4338,101 @@ background: var(--medium);
 		border-radius: 0px;
 	}
 	
+	.noiseCancellationPopout-2-e5Xz {
+		background: var(--hoverlight);
+		border: 1px solid var(--dark);
+		-webkit-box-shadow: var(--elevation-high);
+		box-shadow: var(--elevation-high);
+		width: 239px;
+		border-radius: 0px;
+		padding: 16px;
+	}
+
+	.content-1gYQeQ{
+		border-radius: 0px!important;
+	}
+
+	.focusLock-2tveLW {
+		min-height: 0;
+		max-width: 100%;
+		border: 1px solid var(--dark);
+	}
+
+	.theme-dark .root-g14mjS {
+		border: 1px solid var(--dark);
+		background-color: var(--medium);
+		-webkit-box-shadow: none;
+		box-shadow: none;
+	}
+
+	.sourceThumbnail-ERDcZE {
+		width: 170px;
+		height: 96px;
+		border-radius: 0px;
+		background-repeat: none;
+		background-size: contain;
+		border: 1px solid var(--dark);
+		background-position: 50%;
+		background-color: var(--medium);
+		-webkit-box-shadow: inset 0 0 0 2px transparent;
+		box-shadow: inset 0 0 0 2px transparent;
+		-webkit-transition: -webkit-box-shadow .15s ease-in-out;
+		transition: -webkit-box-shadow .15s ease-in-out;
+		transition: box-shadow .15s ease-in-out;
+		transition: box-shadow .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+	}
+
+	.card-m7VgZ8 {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-align: center;
+		-ms-flex-align: center;
+		align-items: center;
+		padding: 8px 4px 8px 8px;
+		border-radius: 0px;
+		font-size: 16px;
+		line-height: 16px;
+		color: var(--header-primary);
+		border: 1px solid var(--dark);
+		background-color: var(--hoverlight);
+	}
+
+	.theme-dark .footer-31IekZ {
+		background-color: #2f3136;
+		-webkit-box-shadow: inset 0 1px 0 rgba(47,49,54,.6);
+		box-shadow: inset 0 1px 0 var(--dark);
+	}
+
+	.qualitySettingsContainer-2LjkfM {
+		border: 1px solid var(--dark);
+		border-radius: 0px;
+		padding: 0 8px 8px;
+	}
+
+	.select-1Ia3hD {
+		border: 1px solid var(--dark);
+		padding: 8px 8px 8px 12px;
+		cursor: pointer;
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+		display: grid;
+		grid-template-columns: 1fr auto;
+		-webkit-box-align: center;
+		-ms-flex-align: center;
+		align-items: center;
+		border-radius: 0px;
+	}
+
+	.lookFilled-1GseHa.select-1Ia3hD {
+		border-color: var(--dark);
+	}
+
+	.item-2OyinQ:last-child {
+		border-radius: 0 0px 0px 0;
+	}
+
+	.item-2OyinQ:first-child {
+		border-left-width: 1px;
+		border-radius: 0px 0 0 0px;
+	}
