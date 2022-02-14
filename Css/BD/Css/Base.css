@@ -2170,10 +2170,6 @@ svg[name=Discord] {
 .button-3bklZh:hover{background-color: var(--dark);}
 
 /* Invite Friends to Server */
-.theme-dark .root-g14mjS {
-	background-color: var(--medium);
-	border: 1px solid var(--light);
-}
 .header-3ZP1MY, .body-3AJVSA{color: rgb(175, 175, 175);}
 .theme-light .action-1lSjCi{background-color: var(--dark);}
 .theme-light .input-1mgnkM, .theme-light .input-UJ9Tr3{border-bottom-color: var(--primary);}
@@ -4323,12 +4319,6 @@ background: var(--medium);
 		background-color: var(--dark);
 		border-right: 1px solid var(--dark);
 	}
-	.theme-dark .root-g14mjS{
-	border: 1px solid var(--dark);
-	background-color: #36393f;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-	}
 
 	.root-g14mjS{
 		border-radius: 0px;
@@ -4348,14 +4338,7 @@ background: var(--medium);
 		border-radius: 0px!important;
 	}
 
-	.focusLock-2tveLW {
-		min-height: 0;
-		max-width: 100%;
-		border: 1px solid var(--dark);
-	}
-
 	.theme-dark .root-g14mjS {
-		border: 1px solid var(--dark);
 		background-color: var(--medium);
 		-webkit-box-shadow: none;
 		box-shadow: none;
@@ -4395,7 +4378,7 @@ background: var(--medium);
 	}
 
 	.theme-dark .footer-31IekZ {
-		background-color: #2f3136;
+		background-color: var(--medium);
 		-webkit-box-shadow: inset 0 1px 0 rgba(47,49,54,.6);
 		box-shadow: inset 0 1px 0 var(--dark);
 	}
