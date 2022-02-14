@@ -3631,10 +3631,6 @@ background: var(--medium);
     border-radius: 0% !important;
 }
 
-.headerTop-3GPUSF {
-    background-color: var(--medium)!important;
-}
-
 .footer-1Dc_h6 {
     background-color: var(--medium)!important;
 }
@@ -4446,3 +4442,80 @@ background: var(--medium);
 		-webkit-transform: translateZ(0);
 		transform: translateZ(0);
 	}
+
+/* Better user profile popup */
+/* General popout changes */
+#app-mount .userPopout-2j1gM4 { padding-bottom: 16px; }
+#app-mount .userPopout-2j1gM4 .body-2wLx-E { padding: 16px 16px 0px; }
+#app-mount .userPopout-2j1gM4 .body-2wLx-E > div { margin-bottom: 8px; }
+/* Banner + avatar */
+#app-mount .userPopout-2j1gM4 .banner-1YaD3N { height: 124px; }
+#app-mount .userPopout-2j1gM4 .banner-1YaD3N div { display: none; }
+#app-mount .userPopout-2j1gM4 [class*="avatarPosition"] { top: 16px; }
+/* Name and badges */
+#app-mount .userPopout-2j1gM4 .headerTop-3GPUSF {
+    padding: 8px 16px;
+  background-image: 
+  linear-gradient(to left, var(--background-floating), rgb(0,0,0,0.5));
+  border-top-right-radius: inherit;
+  position: absolute;
+  display: flex;
+  flex-direction: column-reverse;
+  right: 0;
+  width: 144px;
+  height: 108px;
+}
+#app-mount .userPopout-2j1gM4 .headerTop-3GPUSF .headerText-1-WmDq {
+  margin: auto 0;
+}
+#app-mount .userPopout-2j1gM4 .avatar-2Vndt_ {
+  filter: drop-shadow(0px 0px 5px black);
+  border: 6px solid transparent;
+  background-color: rgb(0,0,0,0.25);
+}
+#app-mount .userPopout-2j1gM4 .headerTop-3GPUSF .profileBadges-2pItdR {
+  justify-content: flex-start;
+  position: initial;
+}
+/* Profile info (Rolenames, activity, notes etc) */
+#app-mount .userPopout-2j1gM4 
+:is(.aboutMeTitle-3pjiS7, .divider-1wtgZ3) { display: none; }
+/* Stylized titles, divider style */
+#app-mount .userPopout-2j1gM4 
+:is(.bodyTitle-2Az3VQ, .headerContainer-1wJjOa) {
+  height: 1px;
+  background-color: var(--background-modifier-accent);
+  margin-bottom: 8px;
+  font-size: 0px;
+}
+/* Roles */
+#app-mount .userPopout-2j1gM4 .body-2wLx-E .rolesList-3uZoaa { 
+  margin: 0 0 4px;
+}
+/* Activity, Spotify */
+#app-mount .userPopout-2j1gM4 .activity-1gTu-L { padding: 0; }
+#app-mount .userPopout-2j1gM4 .activity-1gTu-L .headerContainer-1wJjOa ~ div {
+    padding-bottom: 8px;
+    margin: 0;
+}
+#app-mount .userPopout-2j1gM4 .activity-1gTu-L .platformIcon-k3yytQ { display: none; }
+/* User notes */
+#app-mount .userPopout-2j1gM4 .note-Go5ZP2 { margin: 0; }
+/* User DM */
+#app-mount .userPopout-2j1gM4 .footer-3naVBw { padding: 8px 16px 0; }
+/* PronounDB support - move pronouns up */
+#app-mount .userPopout-2j1gM4 .bodyInnerWrapper-2bQs1k {
+    margin-bottom: 0 !important;
+  display: flex;
+  flex-direction: column;
+}
+#app-mount .userPopout-2j1gM4 .note-Go5ZP2 + .bodyTitle-2Az3VQ { display: none; }
+#app-mount .userPopout-2j1gM4 .bodyTitle-2Az3VQ + .size14-3fJ-ot {
+  order: -1;
+  margin-bottom: 8px;
+  color: var(--text-normal);
+}
+
+.userPopout-2j1gM4{
+	background: var(--medium);
+}
