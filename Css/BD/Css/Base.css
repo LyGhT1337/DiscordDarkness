@@ -2233,13 +2233,13 @@ svg[name=Discord] {
 }
   
 /* Roles in User Card */
-.role-2TIOKu{position:relative;display:flex;flex-direction:row-reverse;border-radius:0px;transition:all .1s ease-in-out;cursor:default}
+.role-2TIOKu{position:relative;display:flex;flex-direction:row-reverse;border-radius:3px;transition:all .1s ease-in-out;cursor:default}
 .role-2TIOKu[style]:not(:hover){border-color:transparent !important}
 .role-2TIOKu:not([style]){background:rgba(255,255,255,0.1);border-color:transparent}
 .role-2TIOKu{background: var(--medium)!important;}
 .role-2TIOKu>.roleCircle-1EgnFN{width:0;height:0}
 .role-2TIOKu>.roleCircle-1EgnFN:not(:empty){margin-left:6px}
-.role-2TIOKu>.roleCircle-1EgnFN:after{content:"";position:absolute;top:-1px;right:-1px;bottom:-1px;left:-1px;border-radius:0px;background:inherit;opacity:.15;transition:all .1s ease-in-out;pointer-events:none}
+.role-2TIOKu>.roleCircle-1EgnFN:after{content:"";position:absolute;top:-1px;right:-1px;bottom:-1px;left:-1px;border-radius:3px;background:inherit;opacity:.15;transition:all .1s ease-in-out;pointer-events:none}
 .role-2TIOKu>.roleCircle-1EgnFN>.roleRemoveIcon-387wKV{position:absolute;display:block;opacity:0;transition:all .1s ease-in-out}
 .role-2TIOKu>.roleCircle-1EgnFN>.roleRemoveIcon-387wKV .fill{fill:#fff}
 .role-2TIOKu>.roleName-2ZJJYR{margin-right:0;margin-left:4px;color:rgba(255,255,255,0.7);transition:all .1s ease-in-out}
