@@ -2290,6 +2290,7 @@ svg[name=Discord] {
 }
 .scrollableContainer-15eg7h:focus-within {
 	border: 1px solid var(--primary);
+	border-left: none;
 	transition: border 0.25s ease-in-out;
 }
 
@@ -4515,7 +4516,7 @@ background: var(--medium);
 }
 
 .activityPanel-9icbyU {
-    border-bottom: 1px solid var(--dark);
+    border-bottom: none
 }
 
 .container-YkUktl {
@@ -4551,4 +4552,8 @@ background: var(--medium);
     right: 0;
     bottom: 0;
     left: 0;
+}
+
+.panels-3wFtMD {
+    border-top: 1px solid var(--dark);
 }
