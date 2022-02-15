@@ -2233,13 +2233,13 @@ svg[name=Discord] {
 }
   
 /* Roles in User Card */
-.role-2TIOKu{position:relative;display:flex;flex-direction:row-reverse;border-radius:3px;transition:all .1s ease-in-out;cursor:default}
+.role-2TIOKu{position:relative;display:flex;flex-direction:row-reverse;border-radius:0px;transition:all .1s ease-in-out;cursor:default}
 .role-2TIOKu[style]:not(:hover){border-color:transparent !important}
 .role-2TIOKu:not([style]){background:rgba(255,255,255,0.1);border-color:transparent}
-.role-2TIOKu{background: var(--light)!important;}
+.role-2TIOKu{background: var(--medium)!important;}
 .role-2TIOKu>.roleCircle-1EgnFN{width:0;height:0}
 .role-2TIOKu>.roleCircle-1EgnFN:not(:empty){margin-left:6px}
-.role-2TIOKu>.roleCircle-1EgnFN:after{content:"";position:absolute;top:-1px;right:-1px;bottom:-1px;left:-1px;border-radius:3px;background:inherit;opacity:.15;transition:all .1s ease-in-out;pointer-events:none}
+.role-2TIOKu>.roleCircle-1EgnFN:after{content:"";position:absolute;top:-1px;right:-1px;bottom:-1px;left:-1px;border-radius:0px;background:inherit;opacity:.15;transition:all .1s ease-in-out;pointer-events:none}
 .role-2TIOKu>.roleCircle-1EgnFN>.roleRemoveIcon-387wKV{position:absolute;display:block;opacity:0;transition:all .1s ease-in-out}
 .role-2TIOKu>.roleCircle-1EgnFN>.roleRemoveIcon-387wKV .fill{fill:#fff}
 .role-2TIOKu>.roleName-2ZJJYR{margin-right:0;margin-left:4px;color:rgba(255,255,255,0.7);transition:all .1s ease-in-out}
@@ -2282,6 +2282,7 @@ svg[name=Discord] {
 .scrollableContainer-15eg7h {
   	background-color: var(--light)!important;
   	border: 1px solid var(--dark);
+	border-left: none!important;
   	border-radius: 2px!important;}
 .channelTextArea-1FufC0 {
   	background-color:transparent;}
@@ -2289,8 +2290,7 @@ svg[name=Discord] {
   	display:none;
 }
 .scrollableContainer-15eg7h:focus-within {
-	border: 1px solid var(--primary);
-	border-left: none;
+	border: 1px solid var(--primary)!important;
 	transition: border 0.25s ease-in-out;
 }
 
@@ -3596,7 +3596,7 @@ background: var(--medium);
 }
 
 .tabBarContainer-sCZC4w {
-    background-color: var(--dark)!important;
+    background-color: var(--light)!important;
 }
 
 .listScroller-entkMk {
@@ -4556,4 +4556,36 @@ background: var(--medium);
 
 .panels-3wFtMD {
     border-top: 1px solid var(--dark);
+}
+.connectedAccount-1xKpli {
+	background: var(--light);
+    -ms-flex-negative: 1;
+    flex-shrink: 1;
+    -webkit-box-flex: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-radius: 0px;
+    margin-top: 20px;
+    padding: 8px 14px 8px 8px;
+    width: 240px;
+    border: 1px solid;
+    border-color: var(--dark);
+}
+
+.userInfoSection-2u2hir+.userInfoSection-2u2hir {
+    border-top: 1px solid var(--dark);
+}
+
+.note-3M15gE textarea {
+    border-radius: 0px;
+    padding: 4px;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.listRow-2nO1T6:hover {
+    background-color: var(--hoverlight);
 }
