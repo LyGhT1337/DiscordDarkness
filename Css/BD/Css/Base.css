@@ -4681,9 +4681,6 @@ background: var(--medium);
 	background-color: var(--light);
 }
 
-.input-2g-os5{
-	border:none;
-}
 
 .addFriendInputWrapper-kkoSV9:focus-within {
     border-color: var(--primary);
