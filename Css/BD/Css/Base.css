@@ -2176,6 +2176,7 @@ svg[name=Discord] {
 
 .topSectionNormal-2-vo2m{background-color: var(--dark);}
 .scroller-1bVxF5{
+	padding: 6px 8px;
 	background-color: var(--dark);
 	border: 1px solid var(--light);
 }
@@ -2932,9 +2933,6 @@ width: 40px;
 
 /* Compact Status Menu */
 
-.status-3TYC5W, .description-3Cwkxk {
-    display: none;
-}
 .separator-1So4YB {
     display: none;
 }
@@ -4024,9 +4022,12 @@ background: var(--medium);
 
 .powercord-toast .contents {
     background-color: var(--medium)!important;
+	border-radius: 0px!important;
 }
 .powercord-toast .contents .inner {
     background-color: var(--hoverlight)!important;
+	border: 2px solid var(--dark)!important;
+	border-radius: 0px!important;
 }
 
 .powercord-toast .buttons {
@@ -4716,4 +4717,8 @@ background: var(--medium);
 	background-color: var(--light);
 	border: 1px solid var(--dark);
 	border-radius: 0px;
+}
+
+.menu-1AgizY {
+	width: 220px!important;
 }
