@@ -2034,11 +2034,12 @@ svg[name=Discord] {
 /*Reactions*/
 .wrapper-2vIMkT:hover {
   background-color: var(--medium) !important;
-  border: none !important;
+  border: 1px solid var(--dark);
   box-shadow: 0 0 5px 1.87px rgba(0,0,0,.75);}
 .wrapper-2vIMkT {
   background-color: var(--medium) !important;
-  border: none !important;
+  border: 1px solid var(--dark);
+  border-radius: 0px;
   box-shadow: 0 0 5px 1.5px rgba(0,0,0,.75);}
 .separator-PzTEkx {
   background-color: transparent!important;
@@ -2085,7 +2086,8 @@ svg[name=Discord] {
 }
 /* Embeds */
 .grid-1aWVsE {
-  background-color: var(--dark) !important;
+    background-color: var(--dark) !important;
+    border: 1px solid var(--light);
 }
 /* Date Stamps */
 .content-3spvdd {
@@ -2410,6 +2412,26 @@ width: 40px;
 
 .messageContainer-3VTXBC {
     background-color: var(--dark)!important;
+	border-radius: 0px;
+	border: 1px solid var(--light);
+	}
+
+
+.button-1_oXub {
+	border-radius: 0px;
+	border: 1px solid var(--dark);
+	}
+
+.closeButton-3CiW2j {
+	border: 1px solid var(--dark);
+	}
+
+.markReadButton-28SmPf {
+	border: 1px solid var(--dark);
+	}
+
+.guildIcon-IklRcj{
+	background-color: transparent;
 }
 
 .channelHeader-DFRX8q {
@@ -2422,10 +2444,14 @@ width: 40px;
 
 .secondary-2bzKEX {
     background-color: var(--medium)!important;
+	border: 1px solid var(--light);
+	color: var(--primary);
 }
 /*Inbox Unread*/	
 .messages-23can0 {
     background-color: var(--dark)!important;
+	border: 1px solid var(--light);
+	border-radius: 0px;
 }
 
 .header-1w9Q93 {
@@ -2807,12 +2833,18 @@ width: 40px;
 }
 /*View your ... Header Buttons*/
 .closeButton-PCZcma, .lookFilled-1Gx00P.colorPrimary-3b3xI6, .lookLink-9FtZy-.colorPrimary-3b3xI6, .lookOutlined-3sRXeN.colorTransparent-1ewNp9, .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
-	background: var(--medium);
+	background: var(--light);
+	-webkit-box-shadow: none;
+	box-shadow: none;
 	padding: 3px;
 }
 
+.theme-dark .closeButton-PCZcma:hover{
+	background-color: var(--hoverlight);
+}
+
 .closeButton-PCZcma:hover, .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover, .lookLink-9FtZy-.colorPrimary-3b3xI6:hover, .lookOutlined-3sRXeN.colorTransparent-1ewNp9:hover, .lookOutlined-3sRXeN.colorWhite-rEQuAQ:hover {
-	background: var(--light);
+	background: var(--hoverlight);
 }
 
 
@@ -2936,11 +2968,16 @@ width: 40px;
 .separator-1So4YB {
     display: none;
 }
+
+.status-3TYC5W{
+    margin-left: -2%;
+}
+
 .mask-2Me5HY.icon-Lz4Y-_ {
     --status-icon-size: 50%;
     height: var(--status-icon-size); 
     width: var(--status-icon-size);
-    margin-left: 40%;
+    margin-left: 0%;
 }
 .animatorTop-3ltI52.scale-3UGUBw.didRender-2SiRlm > .menu-1QACrS.styleFixed-2_NfVL > .scroller-1bVxF5.thin-31rlnD.scrollerBase-_bVAAt {
     display: grid;
@@ -4435,6 +4472,10 @@ background: var(--medium);
 #app-mount .userPopout-2j1gM4 .banner-1YaD3N div { display: none; }
 #app-mount .userPopout-2j1gM4 [class*="avatarPosition"] { top: 16px; }
 /* Name and badges */
+.headerTop-3GPUSF{
+	background-color: var(--medium);
+}
+
 #app-mount .userPopout-2j1gM4 .headerTop-3GPUSF {
     padding: 8px 16px;
   background-image: 
@@ -4721,4 +4762,94 @@ background: var(--medium);
 
 .menu-1AgizY {
 	width: 220px!important;
+}
+
+.containerBackground-Ang24O {
+    background-color: var(--light);
+    border: 1px solid var(--dark);
+    border-radius: 0px;
+}
+
+.keybindShortcut-3zF1P9 span {
+    background-color: var(--medium);
+    border: 1px solid var(--dark);
+    border-radius: 0px;
+}
+
+.embed-hKpSrO{
+	border-radius: 0px;
+}
+
+.upload-vLbqu-{
+	border-radius: 0px;
+	background-color: var(--dark);
+	border: 1px solid var(--medium);
+}
+
+.container-2oNtJn {
+    border-radius: 0px;
+    overflow: hidden;
+    border: 1px solid var(--dark);
+    background-color: var(--light);
+}
+
+.theme-dark .closeButton-PCZcma{
+	border-color: var(--dark);
+
+}
+
+/* Removes Discord own Icons */
+.iconContainer-1-SsTR {
+    display: none;
+}
+
+
+.notice-5OG6bf {
+    background-color: var(--light);
+    border: 1px solid var(--dark);
+    border-radius: 0px;
+}
+
+.perksModalContentWrapper-3RHugb {
+    background-color: var(--medium);
+}
+
+.ctaBar-Nhk8yY {
+    border-radius: 0px;
+    border: 1px solid var(--dark);
+    background-color: var(--light);
+}
+
+.theme-dark .tierBody-3ju-rc{
+	background-color: var(--light);
+}
+
+.tierBody-3ju-rc{
+	background-color: var(--light);
+	border-radius: 0px;
+	border: 1px solid var(--dark);
+}
+
+.tierHeader-wgo0w_ {
+    border-top: 1px solid var(--dark);
+    border-left: 1px solid var(--dark);
+    border-right: 1px solid var(--dark);
+    border-radius: 0px;
+}
+
+.theme-dark .perksModal-CLcR1c{
+	background-color: var(--dark);
+	background-image: none;
+}
+
+.closeIcon-11-ihs {
+    position: relative;
+    right: -500px;
+    top: 20px;
+}
+
+.theme-dark .perk-19D_HN {
+    background-color: var(--light);
+    border-radius: 0px;
+    border: 1px solid var(--dark);
 }
