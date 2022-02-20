@@ -4472,10 +4472,6 @@ background: var(--medium);
 #app-mount .userPopout-2j1gM4 .banner-1YaD3N div { display: none; }
 #app-mount .userPopout-2j1gM4 [class*="avatarPosition"] { top: 16px; }
 /* Name and badges */
-.headerTop-3GPUSF{
-	background-color: var(--medium);
-}
-
 #app-mount .userPopout-2j1gM4 .headerTop-3GPUSF {
     padding: 8px 16px;
   background-image: 
