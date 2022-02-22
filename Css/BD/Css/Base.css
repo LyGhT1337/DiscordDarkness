@@ -1,6 +1,6 @@
 /* CORE CSS */
 #bd-settings-sidebar::after {
-	content: "Theme Version: 1.2.1";
+	content: "Theme Version: 1.3";
 	font-size: 12px;
 	font-weight: 600;
 	color: #72767d;
@@ -2051,7 +2051,7 @@ svg[name=Discord] {
 }
 /* User List */
 .theme-dark .inset-SbsSFp{background-color: var(--medium);}
-.itemCard-3Etziu, .popout-13LQ_3{background-color: var(--dark) !important;}
+.itemCard-3Etziu, .popout-13LQ_3{background-color: var(--medium) !important;}
 .separator-2OaeRP { display: none;}
 .theme-dark .enabled-1t_Gxm:hover, .theme-dark .memberListItem-31QoHj:not(.popoutDisabled-2RK7MF):hover, .peopleListItem-u6dGxF:hover {
   background-color: rgba(0,0,0,.25);}
@@ -2136,7 +2136,7 @@ svg[name=Discord] {
 .diversitySelectorPopout-3FiGaM, .button-3bklZh.selected-69H4ua{background-color: var(--dark); border-color: var(--dark);}
 .diversityEmojiItem-2bgZKv:hover, .guildIcon-2SUGiq:hover {background-color: var(--medium);}
 
-.searchResultsWrap-5RVOkx,.channelName-wvgELL, .theme-dark .searchAnswer-23w-CH, .theme-dark .searchFilter-2UfsDk, .theme-dark .focused-2FU0YH, .theme-dark .option-ayUoaq.selected-rZcOL- {background-color: var(--dark);}
+.searchResultsWrap-5RVOkx,.channelName-wvgELL, .theme-dark .searchAnswer-23w-CH, .theme-dark .searchFilter-2UfsDk, .theme-dark .focused-2FU0YH, .theme-dark .option-ayUoaq.selected-rZcOL- {background-color: var(--medium);}
 .searchResult-2N9RV4:before, .searchResult-2N9RV4:after{background-image: none;}
 .searchResultMessage-30QnSN.hit-1CXhXT {box-shadow: none; background-color: var(--light); border: 0px solid var(--primaryT);}
 .jumpButton-1ol35X {box-shadow: none; background-color: var(--medium);}
@@ -3383,7 +3383,7 @@ border-top: var(--spine-width) solid var(--light);
 /* Discord update fix */
 
 .message-24k8JL {
-background: var(--medium);
+background: var(-light);
 }
 
 .searchHeader-1r_ZSh {
@@ -4723,13 +4723,13 @@ background: var(--medium);
 
 .section-3G9aLW:only-child {
     border-radius: 0px;
-    border: 1px solid var(--medium);
+    border: 1px solid var(--dark);
 }
 
 .itemCard-3Etziu {
     margin-top: 8px;
     border-radius: 0px;
-    border: 1px solid var(--medium);
+    border: 1px solid var(--dark);
 }
 
 .container-1ILvLB {
@@ -4776,10 +4776,10 @@ background: var(--medium);
 	border-radius: 0px;
 }
 
-.upload-vLbqu-{
-	border-radius: 0px;
-	background-color: var(--dark);
-	border: 1px solid var(--medium);
+.upload-vLbqu- {
+    border-radius: 0px;
+    background-color: var(--medium);
+    border: 1px solid var(--dark);
 }
 
 .container-2oNtJn {
@@ -4848,4 +4848,17 @@ background: var(--medium);
     background-color: var(--light);
     border-radius: 0px;
     border: 1px solid var(--dark);
+}
+
+.searchResult-O9NDji{
+	border: 1px solid var(--dark);
+	border-radius:0px;
+}
+
+.searchResultsWrap-5RVOkx{
+	border: 1px solid var(--primary);
+}
+
+.header-11eigE{
+	background: var(--light);
 }
