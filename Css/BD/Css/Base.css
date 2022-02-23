@@ -17,7 +17,7 @@
 /* Scroll Bar Member List */
 .members-3WRCEx>div {background: var(--dark);}
 /*  Member List */
-.members-3WRCEx {background: var(--medium);}
+.members-3WRCEx {background: var(--dark);}
 /*  X Not found in List Image */
 .theme-dark .sadImage-2_mw0p {display:none;}
 
@@ -2340,7 +2340,7 @@ width: 40px;
 }
 
 /*Category Dividers*/
-.name-3BUDLf {color:var(--primary)!important;}.containerDefault-3TQ5YN,.containerDragBefore-ei4h1m,.containerDragAfter-1J_-1V,.containerUserOver-3woq86{padding-top:20px}.wrapper-1S43wv{padding-left:10px;padding-right:0;transition:all .3s ease-in-out}.icon-3zI3d2{display:none}.name-3BUDLf{display:flex;align-items:center;justify-content:center;color:var(--main-color);font-weight:700;text-align:center;transition:all .3s ease-in-out;opacity:.7}.name-3BUDLf:before{content:"";height:2px;flex-grow:1;transition:all .3s ease-in-out;background:linear-gradient(to left, var(--primary) 50%, transparent);margin-right:5px}.name-3BUDLf:after{content:"";color:var(--primary);height:2px;flex-grow:1;transition:all .3s ease-in-out;background:linear-gradient(to right, var(--primary) 50%, transparent);margin-left:5px;}
+.name-3BUDLf {color:var(--primary)!important;}.containerDefault-3TQ5YN,.containerDragBefore-ei4h1m,.containerDragAfter-1J_-1V,.containerUserOver-3woq86{padding-top:0}.wrapper-1S43wv{padding-left:10px;padding-right:0;transition:all .3s ease-in-out}.icon-3zI3d2{display:none}.name-3BUDLf{display:flex;align-items:center;justify-content:center;color:var(--main-color);font-weight:700;text-align:center;transition:all .3s ease-in-out;opacity:.7}.name-3BUDLf:before{content:"";height:2px;flex-grow:1;transition:all .3s ease-in-out;background:linear-gradient(to left, var(--primary) 50%, transparent);margin-right:5px}.name-3BUDLf:after{content:"";color:var(--primary);height:2px;flex-grow:1;transition:all .3s ease-in-out;background:linear-gradient(to right, var(--primary) 50%, transparent);margin-left:5px;}
 
 /*New Message Popup*/
 .newMessagesBar-1hF-9G {
@@ -2943,7 +2943,7 @@ width: 40px;
 	}
 .blockquoteContainer-3VtvI1 blockquote {
 		border: 1px solid;
-		border-radius: 0px 4px 4px 0px;
+		border-radius: 0px;
 		padding: 6px 10px 7px;
 	}
 .blockquoteContainer-3VtvI1 .blockquoteDivider-363utW {
@@ -3383,7 +3383,7 @@ border-top: var(--spine-width) solid var(--light);
 /* Discord update fix */
 
 .message-24k8JL {
-background: var(-light);
+    background-color: var(--light);
 }
 
 .searchHeader-1r_ZSh {
@@ -4951,4 +4951,9 @@ background: var(-light);
   to {
       margin-bottom: 0px;
   }
+}
+
+.iconActiveMedium-27_R5B {
+    border-radius: 0px;
+    border: 1px solid var(--dark);
 }
