@@ -2347,6 +2347,14 @@ width: 40px;
     background-color:var(--primary);
 }
 
+.wrapper-1S43wv {
+    padding-left: 10px;
+    padding-right: 0;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    transition: all .3s ease-in-out;
+}
+
 /*Voice Activity Color*/
 .avatarSpeaking-3MqCHL {
     box-shadow: inset 0 0 0 2px var(--primary),inset 0 0 0 3px var(--medium);
