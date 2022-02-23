@@ -4862,3 +4862,93 @@ background: var(-light);
 .header-11eigE{
 	background: var(--light);
 }
+
+.pencilContainer-18TrEJ {
+	border-radius: 0px;
+}
+
+.outer-2JOHae {
+    background-color: var(--medium);
+    border-radius: 0px;
+    border: 1px solid var(--dark);
+}
+
+.clickable-vvKY2q .header-3OsQeK:hover {
+    background-color: var(--dark);
+    height: 40px;
+}
+
+.header-3OsQeK {
+    height: 40px;
+	background-color: var(--dark);
+}
+
+
+/* A CSS Snippet by Obscure.#4719 slightly modified to the theme to combine all 3 emote/gif/sticker buttons */
+
+[aria-label="Send a gift"] {
+    position: absolute;
+    top: 5px;
+    right: 90px;
+    z-index: 1;
+}
+
+.expression-picker-chat-input-button.buttonContainer-2lnNiN:nth-child(3) button {
+  padding: 0px 2px;
+  padding-top: 5px;
+}
+
+
+.expression-picker-chat-input-button.buttonContainer-2lnNiN:nth-child(3){
+  border-top: 1px solid var(--dark);
+}
+
+/* GIF button //(2)// and Stickers Button //(3)// */
+.expression-picker-chat-input-button.buttonContainer-2lnNiN:nth-child(2),
+.expression-picker-chat-input-button.buttonContainer-2lnNiN:nth-child(3) {
+    border-right: 1px solid var(--dark);
+  	border-left:  1px solid var(--dark);
+    position: fixed;
+    bottom: 20px;
+  	left: 1633px;
+    margin-bottom: 0px;
+    background-color: var(--light);
+    border-radius: 0px;
+    animation: slideDown .4s;
+    opacity: 0;
+    z-index: -1;
+}
+/* GIF button //(2)// and Stickers Button //(3)// */
+.expression-picker-chat-input-button.buttonContainer-2lnNiN:nth-child(2) button,
+.expression-picker-chat-input-button.buttonContainer-2lnNiN:nth-child(3) button {
+    z-index: 101;
+}
+.buttons-uaqb-5:hover .expression-picker-chat-input-button.buttonContainer-2lnNiN:nth-child(2) {
+     animation: slideUp .4s forwards;
+     opacity: 1;
+}
+.buttons-uaqb-5:hover .expression-picker-chat-input-button.buttonContainer-2lnNiN:nth-child(3) {
+     z-index: -101;
+     animation: slideUp2 .4s forwards;
+     opacity: 1;
+}
+@keyframes slideUp {
+  to {
+      margin-bottom: 30px;
+      padding-bottom: 5px;
+  }
+}
+@keyframes slideUp2 {
+  to {
+      margin-bottom: 60px;
+      padding-bottom: 10px;
+  }
+}
+@keyframes slideDown {
+  from {
+      margin-bottom: 37px;
+}
+  to {
+      margin-bottom: 0px;
+  }
+}
