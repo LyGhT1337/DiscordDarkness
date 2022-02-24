@@ -4896,3 +4896,37 @@ border-top: var(--spine-width) solid var(--light);
     border-radius: 0px;
     border: 1px solid var(--dark);
 }
+
+/* QoL for Emotes Stickers and Gifs */
+
+.executedCommandAvatar-3oOnb1, .replyAvatar-sHd2sU, .replyBadge-LMm_Ic, .threadMessageAccessoryAvatar-17qE_g{
+	border-radius: 0px;
+	border: 1px solid var(--dark);
+}
+
+[aria-label="Open sticker picker"] {
+	animation: slideOut 0.6s forwards;
+ }
+  [aria-label="Open GIF picker"] {
+	animation: slideOut2 0.6s forwards;
+ }
+ .buttons-uaqb-5:hover [aria-label="Open GIF picker"] {
+	animation: slideIn .4s forwards;
+	display: flex;
+ }
+ .buttons-uaqb-5:hover [aria-label="Open sticker picker"] {
+	animation: slideIn .4s forwards;
+	display: flex;
+ }
+ @keyframes slideIn {
+	from {right: -40px; display: none;}
+	to {right: 0px; display: block;}
+ }
+ @keyframes slideOut {
+	from {right: 0px; display: block;}
+	to {right: -80px; position: fixed;}
+ }
+ @keyframes slideOut2 {
+	from {right: 0px; display: block;}
+	to {right: -160px; position: fixed;}
+ }
