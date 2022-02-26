@@ -1721,10 +1721,6 @@ padding-right: 0px;
 }
 
 /*Search, Filter Bar colors */
-.search-2Mwzzq .searchBar-jGtisZ {
-	background-color: var(--medium)!important
-}
-
 .container-2McqkF {
 	background-color: var(--medium)!important
 }
@@ -1900,13 +1896,6 @@ svg[name=Discord] {
 .container-YkUktl,.container-1zzFcN {
 	border: none!important;
 	background-color: transparent!important
-}
-
-.searchBar-jGtisZ {
-	border-radius: 0;
-	border: 1px solid #0c0c0e;
-	box-sizing: border-box;
-	height: 26px
 }
 
 .theme-dark .expandedFolderBackground-2sPsd-,.theme-dark .folder-21wGz3,.theme-light .expandedFolderBackground-2sPsd-,.theme-light .folder-21wGz3 {
@@ -4914,4 +4903,15 @@ border-top: var(--spine-width) solid var(--light);
 	right: 0;
 	width: 40px;
 	opacity: 1;
- }
+ } 
+
+ .searchBar-jGtisZ{
+	width: 28px;
+	background-color:transparent;
+	box-sizing: border-box;
+  }
+  
+  .focused-1xh-wG .searchBar-jGtisZ,.searchBar-jGtisZ:hover, .open-1F8u2c .searchBar-jGtisZ {
+	width: 240px;
+	background-color: var(--hoverlight);
+  }
