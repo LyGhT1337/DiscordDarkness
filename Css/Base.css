@@ -4910,6 +4910,10 @@ border-top: var(--spine-width) solid var(--light);
 	background-color:transparent;
 	box-sizing: border-box;
   }
+
+  .search-39IXmY{
+	  margin: 0;
+  }
   
   .focused-1xh-wG .searchBar-jGtisZ,.searchBar-jGtisZ:hover, .open-1F8u2c .searchBar-jGtisZ {
 	width: 240px;
