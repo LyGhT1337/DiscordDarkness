@@ -31,6 +31,8 @@ Create an Issue on this Git or Direct Message me on Discord. New Discord Account
 
 Devs - LyGhT
 
-Code snippets - tropix126, ClearVision, CreArts-Community, cruxie and Spectra.
+Base Theme - Spectra, cruxie, LyGhT
+
+Code snippets - tropix126, ClearVision, CreArts-Community
 
 
