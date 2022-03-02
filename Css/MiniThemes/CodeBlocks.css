@@ -14,10 +14,10 @@
 	padding-top: 30px !important;
 	border-radius: 0;
 	border: none!important;
-	background: transparent !important;
 	font-size: var(--size3) !important;}
 .container-206Blv {position: relative;}
 .hljs::before {
+	border-bottom: 2px solid var(--dark);
 	content: 'Unknown Language';
 	width: 100%;
 	height: 26px;
@@ -154,3 +154,20 @@
 .hljs-bullet,.hljs-subst,.hljs-symbol,.hljs-template-variable,.hljs-type,.hljs-variable {color: #f07178!important}
 .hljs-link,.hljs-string {color: #c3e88d!important}
 .hljs-built_in,.hljs-name, .hljs-section, .hljs-title {color: #82aaff!important;}
+
+.textContainer-36wgKK {
+	background-color: var(--light);
+	border: 1px solid var(--dark);
+	border-radius: 0;
+}
+
+.footer-GXWBBp {
+	background-color: var(--hoverlight);
+	border: 1px solid var(--dark);
+	border-radius: 0;
+}
+
+.markup-eYLPri code, .markup-eYLPri code.inline {
+    background: var(--light)!important;
+    border: 1px solid var(--dark)!important;
+}
