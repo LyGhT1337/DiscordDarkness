@@ -985,9 +985,25 @@ padding-right: 0px;
 }
 
 .cardPrimary-3qRT__,.cardPrimaryEditable-2mz_3i,.cardPrimaryOutline-1ofwVz {
-	border: none;
+	border: 1px solid var(--dark);
 	border-radius: 0;
-	background-color: var(--dark)!important
+	background-color: var(--light)!important
+}
+
+.cameraWrapper-3a7Ngv{
+	background-color: var(--light);
+	border: 1px solid var(--dark);
+	border-radius: 0;
+}
+
+.notDetected-M3Ghh2, .nowPlaying-3UpuKc{
+	border: 1px solid var(--dark);
+	border-radius: 0;
+}
+
+.backgroundOptionInner-SSz19O{
+	border: 1px solid var(--dark);
+	border-radius: 0;
 }
 
 .input-2g-os5,.message-G6O-Wv,.option-1QI4c9,.wrapper-SdcMKg {
@@ -1125,10 +1141,14 @@ padding-right: 0px;
 	background-color: var(--dark)!important
 }
 
-.accountBtnInner-3XK70s,.expandedInfo-1W31i3 {
-	background-color: rgba(0,0,0,.5)!important;
-	border-radius: 0!important;
-	border: none
+.previewMessage-2g_aBv{
+	background-color: var(--medium)!important;
+	border: 1px solid var(--dark);
+}
+
+.accountBtnInner-3XK70s, .expandedInfo-1W31i3{
+	background-color: var(--medium)!important;
+	border: 1px solid var(--dark);
 }
 
 .accountBtnInner-3XK70s:hover {
@@ -2124,7 +2144,11 @@ svg[name=Discord] {
 
 .theme-dark .defaultIndicator-1AxErs{background-color: var(--light);}
 
-.side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG{background-color: var(--light);}
+.side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG{background-color: var(--light)!important;}
+
+.side-2ur1Qk .themed-2-lozF.item-3XjbnG:hover, .wrapper-1ucjTd:hover .content-3at_AU
+
+.selectedBackground-1t6xXq {background-color: var(--hoverlight)!important;}
 
 .theme-dark .friendSelected-3cwmD7{background-color: var(--dark);}
 
@@ -4200,10 +4224,56 @@ border-top: var(--spine-width) solid var(--light);
 	}
 
 	.profileBannerPreview-3mLIdO{
+		background-color: var(--dark);
 		border-radius: 0px;
 		border: 1px solid var(--dark);
 		-webkit-box-shadow: none;
 		box-shadow: none;
+	}
+
+	.theme-dark .codeRedemptionRedirect-2hYMSQ{
+		background-color: var(--light);
+		border-color: var(--dark);
+	}
+	
+	.paginator-1eqD2g, .payment-2bOh4k, .paymentPane-ut5qKZ {
+		background-color: var(--hoverlight)!important;
+	}
+	
+
+
+/* Connections IN SETTINGS */
+
+	.connection-YOVI9j {
+		background-color: var(--light);
+		border: 1px solid var(--dark);
+		border-radius: 0;
+	}
+
+	.integration-1qC-fv {
+		border-radius: 0;
+		border: 1px solid var(--dark);
+		background: var(--medium);
+	}
+
+	.accountList-Wii_T5 {
+		background-color: var(--light);
+		border: 1px solid var(--dark);
+		border-radius: 0;
+	}
+
+	.accountBtn-3pgcgr .accountBtnInner-3ttD-i{
+		background-color: transparent;
+	}
+
+	.accountBtn-3pgcgr .accountBtnInner-3ttD-i:hover {
+		background-color: transparent;
+	}
+
+	.connectionHeader-Ixbb1s {
+		background: var(--hoverlight);
+		border-bottom: 1px solid var(--dark);
+		border-radius: 0;
 	}
 
 	.banner-3D8GgT{
@@ -4322,7 +4392,12 @@ border-top: var(--spine-width) solid var(--light);
 		padding: 0 8px 8px;
 	}
 
+	.standardSidebarView-E9Pc3j, .standardSidebarView-E9Pc3j *{
+		border-radius: 0;
+	}
+
 	.select-1Ia3hD {
+		background-color: var(--medium)!important;
 		border: 1px solid var(--dark);
 		border-radius: 0px;
 	}
