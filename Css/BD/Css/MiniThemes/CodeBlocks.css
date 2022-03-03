@@ -60,7 +60,7 @@
 .hljs[class$="hljs"]::before {content: 'Plain Text';--codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/code.svg);}
 .hljs[class~=diff i]::before {content: "Diff";--codeblockcolor: #81c529; --codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/diff.svg);}
 .hljs[class~=cs i]::before,.hljs[class~=csharp i]::before {content: "C#";--codeblockcolor: #f4b41c; --codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/csharp.svg);}
-.hljs[class~=ini i]::before {content: "Initialization File";--codeblockcolor: #5d91ff; --codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/ifile.svg);}
+.hljs[class~=ini i]::before {content: "Initialization File";--codeblockcolor: #5d91ff; --codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/ini.svg);}
 .hljs[class~=autohotkey i]::before {content: "AutoHotkey";--codeblockcolor: #dc5159; --codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/ahk.svg);}
 .hljs[class~=asciidoc i]::before {content: "Ascii";--codeblockcolor: #5c87e2; --codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/ascii.svg);}
 .hljs[class~=TOML i]::before {content: "TOML";--codeblockcolor: #3088f; --codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/toml.svg);}
@@ -96,11 +96,11 @@
 .hljs[class~=cpp i]::before {content: "C++";--codeblockcolor: #99182E;--codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/c++.svg);}
 .hljs[class~=hbs i]::before {content: "Handlebars";--codeblockcolor: #f0772b;--codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/handlebars.svg);}
 .hljs[class~=\1c i]::before {content: "1c";--codeblockcolor: #703B30;--codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/1c.svg);}
-.hljs[class~=abnf i]::before {content: "ABNF";--codeblockcolor: #227A70;--codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/abnf.svg);}
+.hljs[class~=abnf i]::before {content: "ABNF";--codeblockcolor: #227A70;--codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/code.svg);}
 .hljs[class~=clojure i]::before {content: "Clojure";--codeblockcolor: #5cc70c;--codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/clojure.svg);}
-.hljs[class~=objc i]::before {content: "Objective-C";--codeblockcolor: #0092db;--codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/objectivec.svg);}
+.hljs[class~=objc i]::before {content: "Objective-C";--codeblockcolor: #0092db;--codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/objc.svg);}
 .hljs[class~=yaml i]::before {content: "YAML";--codeblockcolor: #0295a5;--codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/yaml.svg);}
-.hljs[class~=shell i]::before,.hljs[class~=sh i]::before {content: "Shell";--codeblockcolor: #99b9f9;--codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/shell.svg);}
+.hljs[class~=shell i]::before,.hljs[class~=sh i]::before {content: "Shell";--codeblockcolor: #99b9f9;--codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/terminal.svg);}
 .hljs[class~=kotlin i]::before {content: "Kotlin";--codeblockcolor: #497bbc;--codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/kotlin.svg);}
 .hljs[class~=apache i]::before {content: "Apache";--codeblockcolor: #402a72;--codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/apache.svg);}
 .hljs[class~=stylus i]::before {content: "Stylus";--codeblockcolor: #8205b4;--codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/stylus.svg);}
