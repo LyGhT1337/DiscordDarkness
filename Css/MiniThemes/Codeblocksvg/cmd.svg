@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="49"><path fill-rule="evenodd" d="M21,22H3a1,1,0,0,1-1-1V3A1,1,0,0,1,3,2H21a1,1,0,0,1,1,1V21A1,1,0,0,1,21,22ZM4,20H20V4H4Z"/><path d="M7 14a1 1 0 0 1-.71-.29 1 1 0 0 1 0-1.42L8.59 10 6.29 7.71A1 1 0 0 1 7.71 6.29l3 3a1 1 0 0 1 0 1.42l-3 3A1 1 0 0 1 7 14zM17 13H13a1 1 0 0 1 0-2h4a1 1 0 0 1 0 2z"/></g></svg>
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" class="bi bi-filetype-md">
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m13.916528,4.5l0,9.5a2,2 0 0 1 -2,2l-3,0l0,-1l3,0a1,1 0 0 0 1,-1l0,-9.5l-2,0a1.5,1.5 0 0 1 -1.5,-1.5l0,-2l-5.5,0a1,1 0 0 0 -1,1l0,9l-1,0l0,-9a2,2 0 0 1 2,-2l5.5,0l4.5,4.5z" fill-rule="evenodd" id="svg_1"/>
+  <text fill="#000000" font-family="Sans-serif" font-size="5" font-weight="bold" id="svg_6" stroke="null" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="4.722038" xml:space="preserve" y="14.98915">CMD</text>
+ </g>
+
+</svg>
