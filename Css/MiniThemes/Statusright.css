@@ -45,7 +45,8 @@
 [role="img"][aria-label*="オンライン" i]:before,
 [role="img"][aria-label*="線上" i]:before,
 [role="img"][aria-label*="온라인" i]:before {
-border-right: 2px solid #43b581;}
+border-right: 4px solid ;
+border-image: linear-gradient(to left, #43b581 3px, black 3px) 4;}
 [role="img"][aria-label*="Do Not Disturb" i]:before,
 [role="img"][aria-label*="Vil ikke forstyrres" i]:before,
 [role="img"][aria-label*="Bitte nicht stören" i]:before,
@@ -74,7 +75,8 @@ border-right: 2px solid #43b581;}
 [role="img"][aria-label*="取り込み中" i]:before,
 [role="img"][aria-label*="請勿打擾" i]:before,
 [role="img"][aria-label*="다른 용무 중" i]:before {
-border-right: 2px solid #f04747;}
+border-right: 4px solid ;
+border-image: linear-gradient(to left, #f04747 3px, black 3px) 4;}
 [role="img"][aria-label*="Idle" i]:before,
 [role="img"][aria-label*="Inaktiv" i]:before,
 [role="img"][aria-label*="Abwesend" i]:before,
@@ -100,7 +102,8 @@ border-right: 2px solid #f04747;}
 [role="img"][aria-label*="退席中" i]:before,
 [role="img"][aria-label*="閒置" i]:before,
 [role="img"][aria-label*="자리비움"]:before {
-border-right: 2px solid #faa61a;}
+border-right: 4px solid ;
+border-image: linear-gradient(to left, #faa61a 3px, black 3px) 4;}
 [role="img"][aria-label*="Streaming" i]:before,
 [role="img"][aria-label*="Streamer" i]:before,
 [role="img"][aria-label*="Transmitiendo" i]:before,
@@ -127,7 +130,8 @@ border-right: 2px solid #faa61a;}
 [role="img"][aria-label*="配信" i]:before,
 [role="img"][aria-label*="直播中" i]:before,
 [role="img"][aria-label*="配信" i]:before {
-border-right: 2px solid #6441a5;}
+border-right: 4px solid ;
+border-image: linear-gradient(to left, #6441a5 3px, black 3px) 4;}
 [role="img"][aria-label*="Offline" i]:before,
 [role="img"][aria-label*="Hors ligne" i]:before,
 [role="img"][aria-label*="Nem elérhető" i]:before,
@@ -149,7 +153,8 @@ border-right: 2px solid #6441a5;}
 [role="img"][aria-label*="Frakoblet" i]:before,
 [role="img"][aria-label*="Desconectado" i]:before,
 .avatarOffline-3GF27z {
-border-right: 2px solid #747f8d;}
+border-right: 4px solid ;
+border-image: linear-gradient(to left, #747f8d 3px, black 3px) 4;}
 [role="img"][aria-label*="Invisible" i]:before,
 [role="img"][aria-label*="Usynlig" i]:before,
 [role="img"][aria-label*="Unsichtbar" i]:before,
@@ -178,7 +183,8 @@ border-right: 2px solid #747f8d;}
 [role="img"][aria-label*="オンライン状態を隠す" i]:before,
 [role="img"][aria-label*="隱形" i]:before,
 [role="img"][aria-label*="오프라인 표시" i]:before {
-border-right: 2px solid #747f8d;}
+border-right: 4px solid ;
+border-image: linear-gradient(to left, #747f8d 3px, black 3px) 4;}
 .cursorDefault--wfhy5,
 .dots-1BwzZQ {
   overflow:visible;}
