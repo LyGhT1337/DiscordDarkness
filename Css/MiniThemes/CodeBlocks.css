@@ -2,7 +2,8 @@
 .powercord-codeblock-lang,
 .hljs .powercord-lines {display:none;}
 .hljs {
-	--codeblockcolor: #747f8d;
+	--codeblockcolor: #15151a;
+	--codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/code.svg);
 	position: relative;
 	box-sizing: border-box;
 	padding-left: 32px !important;
@@ -15,7 +16,7 @@
 .container-206Blv {position: relative;}
 .hljs::before {
 	border-bottom: 2px solid var(--dark);
-	content: 'Unknown Language';
+	content: 'Code';
 	width: 100%;
 	height: 26px;
 	top: 0;
