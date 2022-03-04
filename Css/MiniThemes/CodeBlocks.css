@@ -169,7 +169,7 @@
     border: 1px solid var(--dark)!important;
 }
 
-.CodeMirror-scroll, .CodeMirror pre.CodeMirror-line, .powercord-entities-manage-tabs, .powercord-quickcss:not(.popped-out), .CodeMirror pre.CodeMirror-line-like, .powercord-quickcss-footer, .powercord-quickcss-header, .CodeMirror-sizer, .CodeMirror-gutter, .CodeMirror-gutters, .CodeMirror-linenumber {
+.CodeMirror-scroll, .powercord-quickcss-editor-settings, .CodeMirror pre.CodeMirror-line, .powercord-entities-manage-tabs, .powercord-quickcss:not(.popped-out), .CodeMirror pre.CodeMirror-line-like, .powercord-quickcss-footer, .powercord-quickcss-header, .CodeMirror-sizer, .CodeMirror-gutter, .CodeMirror-gutters, .CodeMirror-linenumber {
     background: var(--light)!important;
 }
 

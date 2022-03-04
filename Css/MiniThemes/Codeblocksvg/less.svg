@@ -1,8 +1,54 @@
-<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" class="bi bi-filetype-md">
- <g class="layer">
-  <title>Layer 1</title>
-  <path d="m13.916528,4.5l0,9.5a2,2 0 0 1 -2,2l-3,0l0,-1l3,0a1,1 0 0 0 1,-1l0,-9.5l-2,0a1.5,1.5 0 0 1 -1.5,-1.5l0,-2l-5.5,0a1,1 0 0 0 -1,1l0,9l-1,0l0,-9a2,2 0 0 1 2,-2l5.5,0l4.5,4.5z" fill-rule="evenodd" id="svg_1"/>
-  <text fill="#000000" font-family="Sans-serif" font-size="5" font-weight="bold" id="svg_12" stroke="null" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="5.36895" xml:space="preserve" y="14.509184">less</text>
- </g>
-
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   class="bi bi-filetype-md"
+   version="1.1"
+   id="svg25"
+   sodipodi:docname="less.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs29" />
+  <sodipodi:namedview
+     id="namedview27"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="32"
+     inkscape:cx="11.921875"
+     inkscape:cy="6.15625"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg25" />
+  <g
+     class="layer"
+     id="g23">
+    <title
+       id="title20">Layer 1</title>
+    <path
+       d="m13.916528,4.5l0,9.5a2,2 0 0 1 -2,2l-3,0l0,-1l3,0a1,1 0 0 0 1,-1l0,-9.5l-2,0a1.5,1.5 0 0 1 -1.5,-1.5l0,-2l-5.5,0a1,1 0 0 0 -1,1l0,9l-1,0l0,-9a2,2 0 0 1 2,-2l5.5,0l4.5,4.5z"
+       fill-rule="evenodd"
+       id="svg_1" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.33333px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';text-align:start;letter-spacing:-0.48px;word-spacing:4.95px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     x="0.59858483"
+     y="14.994143"
+     id="text6537"><tspan
+       id="tspan6535"
+       x="0.59858483"
+       y="14.994143"
+       sodipodi:role="line">less</tspan></text>
 </svg>
