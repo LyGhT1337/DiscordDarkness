@@ -57,7 +57,7 @@
 	color: rgba(255, 255, 255, 0.75);
 	box-shadow: 0 0 5px var(--normal-shade);
 	background: rgba(255, 255, 255, 0.05);}
-.hljs[class$="hljs"]::before {content: 'Plain Text';--codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/code.svg);}
+.hljs[class$="hljs"]::before {content: 'Code';--codeblockcolor: #15151a;--codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/code.svg);}
 .hljs[class~=diff i]::before {content: "Diff";--codeblockcolor: #81c529; --codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/diff.svg);}
 .hljs[class~=cs i]::before,.hljs[class~=csharp i]::before {content: "C#";--codeblockcolor: #f4b41c; --codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/csharp.svg);}
 .hljs[class~=ini i]::before {content: "Initialization File";--codeblockcolor: #5d91ff; --codeblockbackground: url(https://lyght1337.github.io/DiscordDarkness/Css/MiniThemes/Codeblocksvg/ini.svg);}
