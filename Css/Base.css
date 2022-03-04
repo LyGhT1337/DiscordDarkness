@@ -2845,26 +2845,13 @@ svg[name=Discord] {
 	background-color: var(--medium);
 }
 
-
 /*Powercord Settings*/
-.powercord-entities-manage-tabs {
-	background-color: var(--light);
-}
-
 .powercord-toast .header {
 	background-color: var(--light)!important;
   }
 
-.powercord-quickcss-header {
-	background-color: var(--light);
-}
-
 .CodeMirror-scroll, .CodeMirror-sizer, .CodeMirror-gutter, .CodeMirror-gutters, .CodeMirror-linenumber {
 	background: var(--activity-card-background);
-}
-
-.powercord-quickcss-footer {
-	background: var(--light);
 }
 
 /*Spotify on User click buttons*/
@@ -3922,10 +3909,6 @@ border-top: var(--spine-width) solid var(--light);
 
 .theme-dark .overlayToggleIconOn-3_-nGm .fill-MYciTJ {
     fill: var(--primary)!important;
-}
-
-.powercord-entities-manage-tabs {
-    background-color: var(--light)!important;
 }
 
 .developerPortalCtaWrapper-2PniQs {

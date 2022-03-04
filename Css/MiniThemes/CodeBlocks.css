@@ -168,3 +168,33 @@
     background: var(--light)!important;
     border: 1px solid var(--dark)!important;
 }
+
+.CodeMirror-scroll, .CodeMirror pre.CodeMirror-line, .powercord-entities-manage-tabs, .powercord-quickcss:not(.popped-out), .CodeMirror pre.CodeMirror-line-like, .powercord-quickcss-footer, .powercord-quickcss-header, .CodeMirror-sizer, .CodeMirror-gutter, .CodeMirror-gutters, .CodeMirror-linenumber {
+    background: var(--light)!important;
+}
+
+.powercord-quickcss-header, .powercord-quickcss-footer{
+	border-radius:0px;
+}
+
+.powercord-quickcss-footer{
+	border-top: 1px solid var(--dark);
+}
+
+.powercord-quickcss-header{
+	border-bottom: 1px solid var(--dark);
+}
+
+.powercord-quickcss-editor-settings .close {
+    border: 1px solid var(--activity-card-background);
+    border-radius: 0;
+}
+
+.powercord-quickcss:not(.popped-out){
+	border: 1px solid var(--dark);
+}
+
+.powercord-entities-manage-tabs{
+	border-radius: 0;
+	border: 1px solid var(--dark);
+}
