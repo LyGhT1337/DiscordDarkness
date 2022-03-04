@@ -7,7 +7,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg53599"
-   sodipodi:docname="d.svg"
+   sodipodi:docname="ahk.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -42,11 +42,11 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66667px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';letter-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="5.5959702"
-     y="15.737258"
+     x="1.3619211"
+     y="15.957209"
      id="text58399"><tspan
        sodipodi:role="line"
        id="tspan58397"
-       x="5.5959702"
-       y="15.737258">D</tspan></text>
+       x="1.3619211"
+       y="15.957209">AHK</tspan></text>
 </svg>
