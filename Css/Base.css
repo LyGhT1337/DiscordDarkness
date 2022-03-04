@@ -1865,7 +1865,6 @@ svg[name=Discord] {
 
 .side-2ur1Qk .themed-2-lozF.item-3XjbnG:hover,.wrapper-1ucjTd:hover .content-3at_AU {
 	border-radius: 0;
-	background-color: rgba(0,0,0,.35)!important
 }
 
 .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG,.wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU {
@@ -2146,7 +2145,7 @@ svg[name=Discord] {
 
 .side-2ur1Qk .themed-2-lozF.selected-g-kMVV.item-3XjbnG, .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.item-3XjbnG{background-color: var(--light)!important;}
 
-.side-2ur1Qk .themed-2-lozF.item-3XjbnG:hover, .wrapper-1ucjTd:hover .content-3at_AU
+.side-2ur1Qk .themed-2-lozF.item-3XjbnG:hover, .wrapper-1ucjTd:hover .content-3at_AU{background-color: var(--light)!important;}
 
 .selectedBackground-1t6xXq {background-color: var(--hoverlight)!important;}
 
@@ -4849,7 +4848,7 @@ border-top: var(--spine-width) solid var(--light);
   
   .focused-1xh-wG .searchBar-jGtisZ,.searchBar-jGtisZ:hover, .open-1F8u2c .searchBar-jGtisZ {
 	width: 240px;
-	background-color: var(--hoverlight);
+	background-color: var(--light);
   }
 
   .container-3i3IzO {
