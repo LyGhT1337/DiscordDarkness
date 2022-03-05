@@ -4009,7 +4009,7 @@ border-top: var(--spine-width) solid var(--light);
 	border-radius: 0px!important;
 }
 .powercord-toast .contents .inner {
-    background-color: var(--hoverlight)!important;
+    background-color: var(--light)!important;
 	border: 2px solid var(--dark)!important;
 	border-radius: 0px!important;
 }
