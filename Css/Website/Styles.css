@@ -122,11 +122,21 @@ img:hover {
 /* Image */
 .Preview {
     transition: 250ms ease all, 250ms ease background-color;
-    width: 1000px;
+    width: 500px;
     box-shadow: 0px 0 15px #e9460063;
 }
 
 .Preview:hover{
+    transform: scale(1.05);
+}
+
+.Preview2 {
+    transition: 250ms ease all, 250ms ease background-color;
+    width: 500px;
+    box-shadow: 0px 0 15px #e9460063;
+}
+
+.Preview2:hover{
     transform: scale(1.05);
 }
 

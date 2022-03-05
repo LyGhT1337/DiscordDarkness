@@ -4880,3 +4880,13 @@ border-top: var(--spine-width) solid var(--light);
 .tier-R8h9Y_ {
 	border: 1px solid var(--brand-experiment-460)!important;
 }
+
+.upsellTooltipWrapper-1wqikQ {
+    background-color: var(--light);
+    border-radius: 0px;
+    border: 1px solid var(--dark);
+}
+
+.lookInverted-2mDUMi.colorBrand-I6CyqQ {
+    background-color: var(--brand-experiment-130);
+}
