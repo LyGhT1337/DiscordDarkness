@@ -11,9 +11,9 @@ If you enjoy using the theme, help spread the word!
 /* Main */
 @use 'Css/Base.css';
 /* Addons */
-@use 'Css/MiniThemes/CodeBlocks.css';
 @use 'Css/MiniThemes/Statusright.css';
 @use 'Css/MiniThemes/Badges.css';
+@import url("https://lyght1337.github.io/DarknessCodeBlocks/css/CodeBlocks.css");
 @import url("https://crearts-community.github.io/Settings-Icons/clients/powercord.css");
 @import url("https://crearts-community.github.io/Context-Icons/clients/powercord.css");
 /*###################################################################################################*/
