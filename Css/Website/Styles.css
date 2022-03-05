@@ -115,10 +115,25 @@ img:hover {
     margin-top: 6%;
     width:1000px;
 }
+
+.DarknessCodeBlocks {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6%;
+    width:1000px;
+}
+
 .Main-Header {
-    text-align: center;
+    text-align: left;
     color: #a83200;
 }
+
+.Main-Header2 {
+    text-align: right;
+    color: #a83200;
+}
+
 /* Image */
 .Preview {
     transition: 250ms ease all, 250ms ease background-color;
