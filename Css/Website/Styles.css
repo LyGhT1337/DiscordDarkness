@@ -131,7 +131,7 @@ img:hover {
 }
 
 .Main-Header2 {
-    text-align: right;
+    text-align: left;
     color: #a83200;
 }
 
@@ -149,7 +149,6 @@ img:hover {
 .Preview2 {
     transition: 250ms ease all, 250ms ease background-color;
     width: 500px;
-    margin-left:60%;
     box-shadow: 0px 0 15px #e9460063;
 }
 
