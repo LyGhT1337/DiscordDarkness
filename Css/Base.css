@@ -4941,3 +4941,15 @@ border-top: var(--spine-width) solid var(--light);
 .protip-1jXzAl{
 	border-top:none;
 }
+
+.selectorButton-1EQtQx{
+	background-color: var(--light);
+}
+
+.selectorButtonSelected-1VZ6hz{
+	background-color: var(--primary);
+}
+
+.selectorButton-1EQtQx:hover{
+	background-color: var(--medium);
+}
