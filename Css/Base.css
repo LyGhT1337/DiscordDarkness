@@ -2180,11 +2180,11 @@ svg[name=Discord] {
 .topSectionNormal-2-vo2m{background-color: var(--dark);}
 .scroller-1bVxF5{
 	padding: 6px 8px;
-	background-color: var(--dark);
-	border: 1px solid var(--light);
+	background-color: var(--light);
+	border: 1px solid var(--dark);
 }
 .colorDefault-CDqZdO.focused-3qFvc8, .colorDefault-CDqZdO:active:not(.hideInteraction-2jPGL_) {
-    background-color: var(--hoverlight);
+    background-color: var(--medium);
     border-radius: 0px!important;
     border: 1px solid var(--dark)!important;
 }
@@ -2691,7 +2691,8 @@ svg[name=Discord] {
 .popoutContainer-2wbmiM {display:none;}
 
 .button-1zW0-r {
-	background-color: var(--medium);
+	background-color: transparent;
+	border-radius: 0;
 }
  /* no cursor change on emoji hover */
 .emoji { 
@@ -4952,4 +4953,12 @@ border-top: var(--spine-width) solid var(--light);
 
 .selectorButton-1EQtQx:hover{
 	background-color: var(--medium);
+}
+
+.wrapper--nA0oy{
+	border-bottom: 1px solid var(--primary);
+}
+
+.item-1OdjEX {
+	margin-top: 7px;
 }
