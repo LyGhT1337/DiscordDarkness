@@ -4962,3 +4962,18 @@ border-top: var(--spine-width) solid var(--light);
 .item-1OdjEX {
 	margin-top: 7px;
 }
+
+/* Fix Porkord Icon */
+.header-3OsQeK {
+	display: flex !important;
+  }
+  .headerContent-2SNbie {
+	width: 100% !important;
+  }
+  .header-3OsQeK .powercord-badge.powercord-badge-cutie, .header-3OsQeK .powercord-badge.powercord-badge-cutie img {
+	width: 16px;
+	height: 16px;
+  }
+  .header-3OsQeK .powercord-badge {
+	top: 5px;
+  }
