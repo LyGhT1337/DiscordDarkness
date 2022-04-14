@@ -3804,7 +3804,7 @@ border-top: var(--spine-width) solid var(--light);
 }
 
 .base-21yXnu.muted-eZM05q {
-    color: var(--header-secondary);
+    color: transparent;
     border-bottom: 1px solid var(--primary);
 }
 
@@ -3813,7 +3813,7 @@ border-top: var(--spine-width) solid var(--light);
     padding-left: 100px;
 }	
 
-#app-mount .nickname-t08Mck, .headerTagWithNickname-1U8zZH, .headerTagNoNickname-3tGHj6, .customStatus-3XAoF9, .aboutMeSection-PUghFQ, .bodyTitle-2Az3VQ, .headerTopWithCustomStatus-1aNSNd{text-align: center!important;
+#app-mount .nickname-t08Mck,.userInfoSection-3her-v .userInfoBody-1zgAd0, .headerTagWithNickname-1U8zZH, .headerTagNoNickname-3tGHj6, .customStatus-3XAoF9, .aboutMeSection-PUghFQ, .bodyTitle-2Az3VQ, .headerTopWithCustomStatus-1aNSNd{text-align: center!important;
 }
 
 /* Online Status next to pfp */
@@ -4977,3 +4977,21 @@ border-top: var(--spine-width) solid var(--light);
   .header-3OsQeK .powercord-badge {
 	top: 5px;
   }
+
+  .theme-dark.authBox-1HR6Ha{
+	background-color: var(--medium);
+	border-radius: 0px;
+}
+
+.accountCard-2lki2x {
+    border: 1px solid var(--light);
+    background-color: var(--dark);
+}
+
+.theme-dark.navRow-dG-XX8{
+	background-color: var(--dark);
+}
+
+.animatedNode-zo4rIT{
+	background-color: var(--dark);
+}
