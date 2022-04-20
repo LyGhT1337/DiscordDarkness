@@ -4841,7 +4841,7 @@ border-top: var(--spine-width) solid var(--light);
 	opacity: 0;
 	transition: all .25s ease-out;
  }
- .buttons-uaqb-5:hover :is([aria-label="Open GIF picker"], [aria-label="Open sticker picker"]) {
+ .buttons-uaqb-5:hover :is([aria-label="Open GIF picker"], [aria-label="Open sticker picker"], [aria-label="Boost this server"]) {
 	right: 0;
 	width: 40px;
 	opacity: 1;
