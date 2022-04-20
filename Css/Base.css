@@ -4835,7 +4835,7 @@ border-top: var(--spine-width) solid var(--light);
 
 /* QoL for Emotes Stickers and Gifs */
 
-[aria-label="Open sticker picker"], [aria-label="Open GIF picker"] {
+[aria-label="Open sticker picker"], [aria-label="Open GIF picker"], [aria-label="Boost this server"] {
 	right: -40px;
 	width: 0;
 	opacity: 0;
