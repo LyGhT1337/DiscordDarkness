@@ -3588,7 +3588,6 @@ border-top: var(--spine-width) solid var(--light);
 
 .tabBarContainer-sCZC4w {
     background-color: var(--dark)!important;
-	border-bottom: 2px solid var(--hoverlight);
 }
 
 .listScroller-entkMk {
@@ -4994,4 +4993,16 @@ border-top: var(--spine-width) solid var(--light);
 
 .animatedNode-zo4rIT{
 	background-color: var(--dark);
+}
+
+.eyebrow-Ejf06y{
+	display: none;
+}
+
+#app-mount .userPopout-2j1gM4 :is(.bodyTitle-2Az3VQ, .headerContainer-1wJjOa){
+	background-color: var(--primary);
+}
+
+.divider-2rZFJK{
+	border-top: thin solid var(--primary);
 }
