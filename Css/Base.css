@@ -5016,7 +5016,8 @@ border-top: var(--spine-width) solid var(--light);
 }
 
 .tooltipPointer-3L49xb {
-    border: 5px solid transparent
+    border: 5px solid transparent;
+}
 
 .theme-dark .tooltipGreen-oouJdx, .theme-light .tooltipGreen-oouJdx {
     border-radius: 0px;
