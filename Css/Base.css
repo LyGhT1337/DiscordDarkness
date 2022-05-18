@@ -5006,3 +5006,34 @@ border-top: var(--spine-width) solid var(--light);
 .divider-2rZFJK{
 	border-top: thin solid var(--primary);
 }
+
+.clickable-2V8YKY[aria-disabled=false]>.base-2v-uc0:hover, .clickable-2V8YKY[aria-selected=true]>.base-2v-uc0{
+	background-color: var(--light);
+}
+
+.menu-1QACrS{
+	border-radius: 0px;
+}
+
+.tooltipPointer-3L49xb {
+    background-color: var(--primary);
+    border: 5px solid var(--light);
+}
+
+.theme-dark .tooltipGreen-oouJdx, .theme-light .tooltipGreen-oouJdx {
+    border-radius: 0px;
+    border: 1px solid var(--dark);
+    background-color: var(--primary);
+}
+
+.theme-dark .tooltipGreen-oouJdx .tooltipPointer-3L49xb, .theme-light .tooltipGreen-oouJdx .tooltipPointer-3L49xb {
+    border-top-color: var(--primary);
+}
+
+.headerTop-3GPUSF{
+	padding: 10px;
+}
+
+.emptyGuildUpsell-2s9mrR{
+	display:none;
+}
