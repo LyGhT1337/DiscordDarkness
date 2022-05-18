@@ -5016,9 +5016,7 @@ border-top: var(--spine-width) solid var(--light);
 }
 
 .tooltipPointer-3L49xb {
-    background-color: var(--primary);
-    border: 5px solid var(--light);
-}
+    border: 5px solid transparent
 
 .theme-dark .tooltipGreen-oouJdx, .theme-light .tooltipGreen-oouJdx {
     border-radius: 0px;
