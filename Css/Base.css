@@ -3342,6 +3342,13 @@ border-top: var(--spine-width) solid var(--light);
 /* Give Role + */
 .container-2O1UgZ {
 	background-color: var(--light);
+	border-radius: 0px;
+	border:1px solid var(--medium);
+}
+
+.theme-dark .elevationBorderLow-3_3rXL {
+-webkit-box-shadow: none!important;
+box-shadow: none!important;
 }
 
 .focused-qp-W9B, .item-1BCeuB:hover {
@@ -5035,4 +5042,60 @@ border-top: var(--spine-width) solid var(--light);
 
 .emptyGuildUpsell-2s9mrR{
 	display:none;
+}
+
+.perks-2IIbWQ {
+    background-color: var(--light);
+    border-radius: 0px;
+    border: 1px solid var(--medium);
+}
+
+.avatarUploaderInnerSquareDisabled-3M9eJS {
+    background-color: var(--light);
+}
+
+.copyInput-3AbKWB {
+    background-color: var(--light);
+}
+
+
+.selectorButton-3fWZ0_{
+	background: var(--light);
+}
+
+.selectorButtonSelected-3cQUnj {
+    background-color: var(--primary);
+}
+
+.selectorButton-3fWZ0_:not(.selectorButtonPremiumRequired-IZXhgV):hover {
+    background-color: var(--primaryT);
+}
+
+.option-2eIyOn[aria-selected=true]:not(.option-2eIyOn.multi-1HXDiv) {
+    background-color: var(--dark);
+}
+
+.option-2eIyOn:focus, .option-2eIyOn:hover {
+    background-color: var(--medium);
+}
+
+.container-2nx-BQ, .input-2XRLou{
+	border-radius: 0px;
+}
+
+.defaultColor-HXu-5n {
+    color: var(--text-normal);
+}
+
+.container-x8Y1ix{
+	border-radius: 0px;
+}
+
+.defaultColor-24IHKz {
+    color: var(--text-normal);
+}
+
+.card-2TuZPZ{
+	border-radius: 0px;
+	border: 1px solid var(--light);
 }
