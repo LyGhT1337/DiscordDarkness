@@ -2295,7 +2295,7 @@ svg[name=Discord] {
 
 /* Instant-no delay - Reactions */
 
-.reaction-2A2y9y {
+.reaction-3vwAF2 {
     opacity: 1!important;
     transform: none!important;
 }
@@ -2841,7 +2841,7 @@ svg[name=Discord] {
 
 
 /*In-Chat Menu Hover*/
-.theme-dark .selected-3H3-RC {
+.theme-dark .selected-2Uns2B {
 	background-color: var(--medium);
 }
 
@@ -3305,7 +3305,7 @@ background-color: var(--hoverlight);
 	background-color: var(--dark);
 }
 
-.colorBrand-21Le_q {
+.colorBrand-3Xb6JG {
 	color: var(--primary);
 }
 .repliedMessage-3Z6XBG:before {
@@ -3378,7 +3378,7 @@ box-shadow: none!important;
 	}
 
 
-.colorStandard-21JIj7 {
+.colorStandard-1Xxp1s {
 	color: white;
 	}
 	
@@ -3415,12 +3415,12 @@ box-shadow: none!important;
 	background-color: var(--medium);
 }
 
-.reaction-2A2y9y	{
+.reaction-3vwAF2	{
 	background: var(--light)!important;
 	border: 1px solid var(--dark);
 }
 
-.reaction-2A2y9y:hover	{
+.reaction-3vwAF2:hover	{
 	background: var(--hoverlight)!important;
 	border: 1px solid var(--dark)!important;
 }
@@ -3506,7 +3506,7 @@ box-shadow: none!important;
     
 /* Reply Bar */
 
-.colorLink-2apWfY {
+.colorLink-12GX9V {
     color: var(--primary)!important;
 }
 
@@ -3809,7 +3809,7 @@ box-shadow: none!important;
     background: var(--medium)!important;
 }
 
-.base-21yXnu.muted-eZM05q {
+.base-ZDDK0g.muted-3SrRJ5 {
     color: transparent;
     border-bottom: 1px solid var(--primary);
 }
@@ -4492,7 +4492,7 @@ box-shadow: none!important;
   flex-direction: column;
 }
 #app-mount .userPopout-2j1gM4 .note-Go5ZP2 + .bodyTitle-2Az3VQ { display: none; }
-#app-mount .userPopout-2j1gM4 .bodyTitle-2Az3VQ + .size14-3fJ-ot {
+#app-mount .userPopout-2j1gM4 .bodyTitle-2Az3VQ + .size14-k_3Hy4 {
   order: -1;
   margin-bottom: 8px;
   color: var(--text-normal);
