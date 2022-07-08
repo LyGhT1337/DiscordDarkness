@@ -5035,10 +5035,12 @@ box-shadow: none!important;
 }
 
 .userInfoSection-3her-v .userInfoBody-1zgAd0{
-	border-bottom: 1px solid var(--dark);
 	margin-bottom: 10px;
 }
 
+.userInfoSection-3her-v{
+	border-bottom: 1px solid var(--dark);
+}
 .eyebrow-Ejf06y {
 	display:none;
 }
