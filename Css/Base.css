@@ -2253,6 +2253,10 @@ svg[name=Discord] {
     color: var(--unreadcolor)
 }
 
+.noTabBar-2Q-iE_{
+	border-top: 1px solid var(--dark);
+}
+
 
 /* Remove send a gift */
 [aria-label="Send a gift"] {
@@ -3565,6 +3569,7 @@ box-shadow: none!important;
 
 .body-2wLx-E {
     background-color: var(--medium)!important;
+	border-top: 1px solid var(--dark);
 }
 
 .footer-1N3bR3 {
@@ -4436,10 +4441,11 @@ box-shadow: none!important;
 #app-mount .userPopout-2j1gM4 [class*="avatarPosition"] { top: 16px; }
 /* Name and badges */
 #app-mount .userPopout-2j1gM4 .headerTop-3GPUSF {
-    padding: 8px 16px;
+  padding: 8px 16px;
   background-image: 
-  linear-gradient(to left, var(--background-floating), rgb(0,0,0,0.5));
+  linear-gradient(to left, var(--dark), rgb(0,0,0,0.5));
   border-top-right-radius: inherit;
+  border-right: 1px solid var(--dark);
   position: absolute;
   display: flex;
   flex-direction: column-reverse;
@@ -4545,14 +4551,10 @@ box-shadow: none!important;
     border-top: 1px solid var(--dark);
 }
 
-.connectedAccount-1xKpli {
+.connectedAccountContainer-SlCC-S {
 	background: var(--light);
     border-radius: 0px;
-    margin-top: 20px;
-    padding: 8px 14px 8px 8px;
-    width: 240px;
-    border: 1px solid;
-    border-color: var(--dark);
+    border: 1px solid var(--dark);
 }
 
 .userInfoSection-2u2hir+.userInfoSection-2u2hir {
@@ -5002,10 +5004,6 @@ box-shadow: none!important;
 	background-color: var(--dark);
 }
 
-.eyebrow-Ejf06y{
-	display: none;
-}
-
 #app-mount .userPopout-2j1gM4 :is(.bodyTitle-2Az3VQ, .headerContainer-1wJjOa){
 	background-color: var(--primary);
 }
@@ -5034,6 +5032,15 @@ box-shadow: none!important;
 
 .theme-dark .tooltipGreen-oouJdx .tooltipPointer-3L49xb, .theme-light .tooltipGreen-oouJdx .tooltipPointer-3L49xb {
     border-top-color: var(--primary);
+}
+
+.userInfoSection-3her-v .userInfoBody-1zgAd0{
+	border-bottom: 1px solid var(--dark);
+	margin-bottom: 10px;
+}
+
+.eyebrow-Ejf06y {
+	display:none;
 }
 
 .headerTop-3GPUSF{
