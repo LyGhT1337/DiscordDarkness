@@ -4657,10 +4657,28 @@ box-shadow: none!important;
 
 .theme-dark .root-g14mjS {
 	border-radius: 0;
-    background-color: var(--medium);
     -webkit-box-shadow: none;
     border: 2px solid var(--dark);
     box-shadow: none;
+}
+
+.theme-dark .scroller-2GkvCq {
+    background-color: var(--medium);
+}
+
+.theme-dark .reactionSelected-1aMb2K {
+    background-color: var(--light);
+	border-radius: 0px;
+}
+
+.theme-dark .container-KM8BU6, .theme-dark .reactors-1VXca7 {
+    background-color: var(--light);
+}
+
+.theme-dark .reactorDefault-3GSyaV{
+	border-bottom: 1px solid var(--medium);
+	box-shadow: none;
+	-webkit-box-shadow: none;
 }
 
 .tag-15zcD_{
