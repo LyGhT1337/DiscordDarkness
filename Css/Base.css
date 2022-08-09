@@ -2182,6 +2182,14 @@ svg[name=Discord] {
 	background-color: var(--light);
 	border: 1px solid var(--dark);
 }
+.messageCountIcon-2CvKyY{
+	color: var(--light);
+}
+
+.bullet-3kDmK0{
+	color: var(--light);
+}
+
 .colorDefault-CDqZdO.focused-3qFvc8, .colorDefault-CDqZdO:active:not(.hideInteraction-2jPGL_) {
     background-color: var(--medium);
     border-radius: 0px!important;
@@ -5250,4 +5258,9 @@ box-shadow: none!important;
     background-color: var(--hoverlight);
     border: 1px solid var(--medium);
     border-radius: 0px;
+}
+
+.bodyMedia-3ij3KY {
+    border-radius: 0;
+    border: 1px solid var(--light);
 }
