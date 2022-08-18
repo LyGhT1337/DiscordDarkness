@@ -2370,20 +2370,19 @@ svg[name=Discord] {
 /* Loading Cache Channel fix */
 .wrapper-22ayhK, .wrapper-15CKyy {background-color: transparent;} 
 
-/* Home Button */
 #app-mount .guilds-2JjMmN .tutorialContainer-1pL9QS .listItem-3SmSlK:first-child .wrapper-3kah-n:before {
-	content: "";
-	border-radius: 50%;
-	position: absolute;
-	background: var(--home-button-image, var(--HomeButtonImg));
-	background-size: var(--home-button-size, cover);
-	background-position: var(--home-button-position, center);
-	height: 100%;
-	width: 100%;
-	transition: 0.2s ease;
+    content: "";
+    border-radius: 50%;
+    position: absolute;
+    background: var(--home-button-image, var(--HomeButtonImg));
+    background-size: 40px;
+    background-position: var(--home-button-position, center);
+    height: 100%;
+    width: 100%;
+    transition: 0.2s ease;
   }
   .homeIcon-r0w4ny {
-	  display: none;
+      display: none;
   }
 
 /* Home Search Bar color */
@@ -2572,7 +2571,7 @@ svg[name=Discord] {
 	  background: linear-gradient(45deg, var(--primaryT), var(--primary));
 	}
 
-	/*Upload Fieltestd*/
+	/*Upload Field*/
 .attachment-1PZZB2 {
     background-color: var(--medium);
     border-color: none;
