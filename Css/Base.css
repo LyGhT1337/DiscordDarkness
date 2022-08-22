@@ -2179,9 +2179,19 @@ svg[name=Discord] {
 .topSectionNormal-2-vo2m{background-color: var(--dark);}
 .scroller-1bVxF5{
 	padding: 6px 8px;
-	background-color: var(--light);
-	border: 1px solid var(--dark);
+	background-color: var(--medium);
+	border: 1px solid var(--hoverlight);
 }
+
+.item-1OdjEX::before{
+	background: var(--hoverlight);
+	display:none;
+}
+
+.hintContainer-2UwhLP, .imageContainer-1wSPgI{
+	background: var(--hoverlight);
+}
+
 .messageCountIcon-2CvKyY{
 	color: var(--light);
 }
@@ -4491,6 +4501,18 @@ box-shadow: none!important;
   justify-content: flex-start;
   position: initial;
 }
+
+.divider-1wtgZ3{
+	background-color: var(--dark);
+}
+
+.withTagAsButton-OsgQ9L:hover, .withTagless-10ooWt:hover {
+    background-color: var(--light);
+    border-radius: 0px;
+    border: 1px solid var(--dark);
+    color: var(--interactive-hover);
+}
+
 /* Profile info (Rolenames, activity, notes etc) */
 #app-mount .userPopout-2j1gM4 
 :is(.aboutMeTitle-3pjiS7, .divider-1wtgZ3) { display: none; }
