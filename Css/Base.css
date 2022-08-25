@@ -2188,10 +2188,6 @@ svg[name=Discord] {
 	display:none;
 }
 
-.hintContainer-2UwhLP, .imageContainer-1wSPgI{
-	background: var(--hoverlight);
-}
-
 .messageCountIcon-2CvKyY{
 	color: var(--light);
 }
