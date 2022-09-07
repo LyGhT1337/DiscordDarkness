@@ -5289,3 +5289,16 @@ box-shadow: none!important;
     border-radius: 0;
     border: 1px solid var(--light);
 }
+
+.userPopout-3fydSP {
+    border-radius: 0px;
+    border: 1px solid var(--hoverlight);
+}
+
+.userPopoutInner-PA9zkU {
+    border-radius: 0px;
+}
+
+.banner-2boKnS {
+    border-radius: 0px;
+}
