@@ -49,15 +49,15 @@
 
 
 .profileColors-3Y0XaR {
-    --profile-gradient-primary-color: var(--medium)!important;
-    --profile-gradient-secondary-color: var(--dark)!important;
-    --profile-body-background-color: transparent!important;
-    --profile-gradient-button-color: var(--button-secondary-background)!important;
-    --profile-avatar-border-color: var(--background-secondary-alt)!important;
-    --profile-message-input-border-color: var(--light)!important;
-    --profile-body-background-color: var(--light)!important;
-    --profile-body-divider-color: var(--light)!important;
-    --profile-role-pill-background-color: var(--hoverlight)!important;
+    --profile-gradient-primary-color: var(--medium);
+    --profile-gradient-secondary-color: var(--dark);
+    --profile-body-background-color: transparent;
+    --profile-gradient-button-color: var(--button-secondary-background);
+    --profile-avatar-border-color: var(--background-secondary-alt);
+    --profile-message-input-border-color: var(--light);
+    --profile-body-background-color: var(--light);
+    --profile-body-divider-color: var(--light);
+    --profile-role-pill-background-color: var(--hoverlight);
 }
 
 
@@ -1036,7 +1036,6 @@ padding-right: 0px;
 }
 
 .input-2g-os5 {
-	background-color: var(--light)!important;
 	border: 1px solid rgba(0,0,0,.5)
 }
 
