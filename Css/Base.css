@@ -2255,6 +2255,10 @@ svg[name=Discord] {
     color: var(--primary);
     fill: var(--primary);
 }
+
+.role-2TIOKu > .roleName-2ZJJYR {
+    color: var(--search-popout-option-non-text-color);
+}
   
 /* Roles in User Card */
 .role-2TIOKu{position:relative;display:flex;flex-direction:row-reverse;border-radius:0px;transition:all .1s ease-in-out;cursor:default}
