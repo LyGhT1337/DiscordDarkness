@@ -5302,3 +5302,33 @@ box-shadow: none!important;
 .banner-2boKnS {
     border-radius: 0px;
 }
+.overlayBackground-arbZMT {
+    border-radius: 0;
+    border: 1px solid var(--light);
+}
+
+.buttonColor-XIRMbp {
+    background-color: #1DB954;
+    border-radius: 0px;
+    border: 1px solid var(--light);
+}
+
+.avatar-2OC07D{
+	border:none;
+	background-color:transparent;
+}
+
+.profileBadges-31rDHI {
+    border-radius: 0px;
+    border: 1px solid var(--light);
+}
+
+.messageInputContainer-2rGDH8 {
+    border:none;
+    border-radius: 0px;
+}
+
+.baseShapeRound-3epLEv {
+    border-radius: 0px;
+    border: 1px solid var(--light);
+}
