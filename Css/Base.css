@@ -1036,7 +1036,7 @@ padding-right: 0px;
 }
 
 .input-2g-os5 {
-	border: 1px solid rgba(0,0,0,.5)
+	border: 1px solid var(--profile-avatar-border-color);
 }
 
 
@@ -2260,7 +2260,7 @@ svg[name=Discord] {
 .role-2TIOKu{position:relative;display:flex;flex-direction:row-reverse;border-radius:0px;transition:all .1s ease-in-out;cursor:default}
 .role-2TIOKu[style]:not(:hover){border-color:transparent !important}
 .role-2TIOKu:not([style]){background:rgba(255,255,255,0.1);border-color:transparent}
-.role-2TIOKu{background: var(--hoverlight)!important;}
+.role-2TIOKu{background: var(--profile-role-pill-background-color)!important;}
 .role-2TIOKu>.roleCircle-1EgnFN{width:0;height:0}
 .role-2TIOKu>.roleCircle-1EgnFN:not(:empty){margin-left:6px}
 .role-2TIOKu>.roleCircle-1EgnFN:after{content:"";position:absolute;top:-1px;right:-1px;bottom:-1px;left:-1px;border-radius:3px;background:inherit;opacity:.15;transition:all .1s ease-in-out;pointer-events:none}
@@ -5331,7 +5331,7 @@ box-shadow: none!important;
 
 .profileBadges-31rDHI {
     border-radius: 0px;
-    border: 1px solid var(--light);
+    border: 1px solid var(--profile-body-background-color);
 }
 
 .messageInputContainer-2rGDH8 {
