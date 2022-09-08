@@ -48,6 +48,19 @@
 }
 
 
+.profileColors-3Y0XaR {
+    --profile-gradient-primary-color: var(--medium)!important;
+    --profile-gradient-secondary-color: var(--dark!important;
+    --profile-body-background-color: transparent!important;
+    --profile-gradient-button-color: var(--button-secondary-background)!important;
+    --profile-avatar-border-color: var(--background-secondary-alt)!important;
+    --profile-message-input-border-color: var(--light)!important;
+    --profile-body-background-color: var(--light)!important;
+    --profile-body-divider-color: var(--light)!important;
+    --profile-role-pill-background-color: var(--hoverlight)!important;
+}
+
+
 /* Large Profile Picture in Popout */
 .userPopout-3XzG_A::before{
 	top: 250px; }
@@ -2248,7 +2261,7 @@ svg[name=Discord] {
 .role-2TIOKu{position:relative;display:flex;flex-direction:row-reverse;border-radius:0px;transition:all .1s ease-in-out;cursor:default}
 .role-2TIOKu[style]:not(:hover){border-color:transparent !important}
 .role-2TIOKu:not([style]){background:rgba(255,255,255,0.1);border-color:transparent}
-.role-2TIOKu{background: var(--light)!important;}
+.role-2TIOKu{background: var(--hoverlight)!important;}
 .role-2TIOKu>.roleCircle-1EgnFN{width:0;height:0}
 .role-2TIOKu>.roleCircle-1EgnFN:not(:empty){margin-left:6px}
 .role-2TIOKu>.roleCircle-1EgnFN:after{content:"";position:absolute;top:-1px;right:-1px;bottom:-1px;left:-1px;border-radius:3px;background:inherit;opacity:.15;transition:all .1s ease-in-out;pointer-events:none}
@@ -5304,7 +5317,6 @@ box-shadow: none!important;
 }
 .overlayBackground-arbZMT {
     border-radius: 0;
-    border: 1px solid var(--light);
 }
 
 .buttonColor-XIRMbp {
