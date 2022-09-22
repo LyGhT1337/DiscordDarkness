@@ -5375,3 +5375,11 @@ box-shadow: none!important;
 .focusLock-2tveLW .bannerSVGWrapper-qc0szY {
     height: 240px !important;
 }
+
+.connectedAccountContainer-3aLMHJ{
+	background-color: var(--light);
+}
+
+.discordMemberCreatedAt-31OkT7 {
+    display: none;
+}
