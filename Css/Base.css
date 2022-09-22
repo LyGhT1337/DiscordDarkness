@@ -5351,3 +5351,7 @@ box-shadow: none!important;
     border-radius: 0px;
     border: 1px solid var(--light);
 }
+
+.bannerSVGWrapper-qc0szY mask {
+    display: none;
+}
