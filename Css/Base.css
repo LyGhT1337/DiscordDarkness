@@ -5355,3 +5355,23 @@ box-shadow: none!important;
 .bannerSVGWrapper-qc0szY mask {
     display: none;
 }
+
+.avatarHoverTarget-1zzfRL{
+	border-radius:0px;
+}
+
+.avatarWrapper-eenWra{
+	border-radius:0px;
+}
+
+.bannerSVGWrapper-qc0szY:not(.bannerSVGWrapper-qc0szY [class*="Premium"]) {
+    height: 120px;
+}
+
+.avatarWrapperNormal-ahVUaC {
+    top: 76px;
+}
+
+.focusLock-2tveLW .bannerSVGWrapper-qc0szY {
+    height: 240px !important;
+}
