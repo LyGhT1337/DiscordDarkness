@@ -1,6 +1,9 @@
 # DiscordDarkness - A WiP Theme based on DiscordElectro
 
-Compact, squared and dark for nightowls!
+Compact, squared and dark for nightowls!#
+
+
+##  --------------- DELEVOPMENT HALTED UNTIL REPLUGGED RELAUNCH ---------------------
 
 
 ![DiscordDarkness](https://b.catgirlsare.sexy/bOJKiO-q.png)
