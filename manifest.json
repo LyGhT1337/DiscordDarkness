@@ -1,0 +1,18 @@
+{
+    "id": "dev.replugged.DiscordDarkness",
+    "name": "DiscordDarkness",
+    "description": "Compact, squared and dark for nightowls!",
+    "author": {
+      "name": "LyGhT",
+      "discordID": "301082610438897664",
+      "github": "LyGhT1337"
+    },
+    "version": "3.0.0",
+    "updater": {
+      "type": "github",
+      "id": "LyGhT1337/DiscordDarkness"
+    },
+    "license": "MIT",
+    "type": "replugged-theme",
+    "main": "Css/Base.css"
+  }
