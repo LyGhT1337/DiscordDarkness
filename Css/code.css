@@ -4736,7 +4736,7 @@ box-shadow: none!important;
 }
 
 .userProfileModalOuter-1FYL8T{
-	width: 0
+	width: unset;
 }
 
 .userProfileModalInner-3fh3QA{
@@ -5450,12 +5450,7 @@ box-shadow: none!important;
 	border-radius: 0px;
 }
 
-.topSection-1Khgkv{
-	margin-left: 70px;
-}
-
 .userPanelOverlayBackground-3xwDMp, .userProfileModalOverlayBackground-8p3-eU{
-	margin-left: 80px;
 	border-radius: 0px;
 	border: 1px solid var(--light);
 }
