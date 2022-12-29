@@ -6,7 +6,7 @@ import { join } from "path";
 
 const manifest: Theme = _manifest;
 
-const main = manifest.main || "src/main.css";
+const main = manifest.main || "src/Base.css";
 const splash = manifest.splash || (existsSync("src/splash.css") ? "src/splash.css" : undefined);
 
 const mainBundler = new Parcel({
@@ -15,7 +15,7 @@ const mainBundler = new Parcel({
   targets: {
     main: {
       distDir: "dist",
-      distEntry: "main.css",
+      distEntry: "Base.css",
     },
   },
 });
@@ -93,7 +93,7 @@ const shouldWatch = process.argv.includes("--watch");
 const fn = shouldWatch ? watch : build;
 [mainBundler, splashBundler].filter(Boolean).forEach((bundler) => fn(bundler!));
 
-manifest.main = "main.css";
+manifest.main = "Base.css";
 manifest.splash = splash ? "splash.css" : undefined;
 
 if (!existsSync("dist")) {
