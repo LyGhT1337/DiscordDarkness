@@ -1033,7 +1033,8 @@ padding-right: 0px;
 }
 
 .input-2g-os5 {
-	border: 1px solid var(--profile-avatar-border-color);
+	border: 1px solid var(--dark);
+	background-color: var(--light);
 }
 
 
@@ -1883,7 +1884,6 @@ svg[name=Discord] {
 }
 
 .circleIconButton-jET_ig,.icon-3AqZ2e,.wrapper-3kah-n,.wrapper-3kah-n img,.wrapper-28eC3z,.wrapper-28eC3z svg,.wrapper-28eC3z svg foreignObject {
-	color: var(--primary)!important;
 	height: 43px!important;
 	width: 43px!important;
 	border-radius: 0
@@ -1910,6 +1910,7 @@ svg[name=Discord] {
 .circleIconButton-jET_ig:hover {
 	background-color: rgba(0,0,0,.45)
 }
+
 
 .container-YkUktl,.container-1zzFcN {
 	border: none!important;
@@ -2519,7 +2520,19 @@ svg[name=Discord] {
 
 /*Server Icon Background*/ 
 .childWrapper-1j_1ub {
-    background-color: var(--dark)!important;
+    display:none;
+}
+
+.container-1Lk8p7{
+	background: var(--medium);
+}
+
+.defaultColor-1EVLSt{
+	color: white;
+}
+
+.defaultColor-1GKx81{
+	color: white;
 }
 /*Bot Tag*/
 .botTagRegular-kpctgU {
@@ -3303,7 +3316,7 @@ background-color: var(--hoverlight);
 }
 
 .content-2hZxGK {
-	background-color: var(--medium);
+	background-color: var(--light);
 }
 
 /* Update Channel Card fix */ 
@@ -3421,10 +3434,7 @@ box-shadow: none!important;
 .colorStandard-1Xxp1s {
 	color: white;
 	}
-	
-.container-x8Y1ix {
-	background-color: var(--light);
-	}
+
 
 .card-PQEqCK	 {
 	background-color: var(--light);
@@ -4717,10 +4727,19 @@ box-shadow: none!important;
 }
 
 .theme-dark .root-g14mjS {
-	border-radius: 0;
+	border-radius: 0px;
     -webkit-box-shadow: none;
+	background: transparent;
     border: 2px solid var(--dark);
     box-shadow: none;
+}
+
+.userProfileModalOuter-1FYL8T{
+	width: 0
+}
+
+.userProfileModalInner-3fh3QA{
+	width: 680px;
 }
 
 .theme-dark .scroller-2GkvCq {
@@ -5178,6 +5197,19 @@ box-shadow: none!important;
 
 .container-x8Y1ix{
 	border-radius: 0px;
+	background-color: var(--light);
+	border: var(--dark);
+}
+
+.peopleListItem-u6dGxF.active-2UF8Zh, .peopleListItem-u6dGxF:hover{
+	background: var(--light);
+	border: 1px solid;
+	border-radius: 0px;
+	border-color: var(--dark);
+}
+
+.peopleListItem-u6dGxF{
+	border-top: 1px solid var(--light);
 }
 
 .defaultColor-24IHKz {
@@ -5290,6 +5322,24 @@ box-shadow: none!important;
 	background: var(--light);
 }
 
+.accountBtnInner-1DCgBm{
+	background-color: var(--medium);
+	border-radius: 0px;
+
+}
+
+.container-2nx-BQ:checked{
+	background: var(--primary);
+}
+
+.connectContainer-1hylYM{
+	background-color: var(--light);
+}
+
+.accountButtonInner-33vCDY{
+	background-color: var(--medium);
+}
+
 .container-2IhveL {
     background-color: var(--hoverlight);
     border: 1px solid var(--medium);
@@ -5379,4 +5429,32 @@ box-shadow: none!important;
 
 .discordMemberCreatedAt-31OkT7 {
     display: none;
+}
+.textBadge-1fdDPJ{
+	margin-left: 5px;
+	padding: 0 3px;
+}
+
+.body-16rSsp{
+	margin-top: 12px;
+	border-radius: 0px;
+	border: 1px solid var(--dark);
+}
+
+.section-3G9aLW:last-child{
+	border-radius: 0px;
+}
+
+.section-3G9aLW:first-child{
+	border-radius: 0px;
+}
+
+.topSection-1Khgkv{
+	margin-left: 70px;
+}
+
+.userPanelOverlayBackground-3xwDMp, .userProfileModalOverlayBackground-8p3-eU{
+	margin-left: 80px;
+	border-radius: 0px;
+	border: 1px solid var(--light);
 }
