@@ -4734,6 +4734,40 @@ box-shadow: none!important;
     border: 2px solid var(--dark);
     box-shadow: none;
 }
+.member-48YF_l, .members-3WRCEx{
+    background-color: var(--dark);
+}
+
+.bannerSVGWrapper-qc0szY:not(.bannerSVGWrapper-qc0szY [class*="Premium"]){
+	height: auto;
+}
+
+#app-mount > div.appDevToolsWrapper-1QxdQf > div > div:nth-child(3) > div.layer-1Ixpg3 > div > div > div > div > div.topSection-1Khgkv > header > div > div:nth-child(1) > div > svg.mask-1FEkla.svg-2azL_l > circle{
+	display:none;
+}
+
+.overlayBackground-1KgwVi {
+	border-radius: 0px;
+	background-color: var(--light);
+}
+
+.connectedAccountContainer-2TWiXT {
+	border-radius: 0px;
+	border: 1px solid var(--dark);
+	background-color: var(--medium);
+}
+
+.note-3TX9O7 textarea {
+	border-radius: 0px;
+}
+
+.badgeList-2pMvZX {
+	border-radius: 0px;
+}
+
+.userPopoutOuter-3AVBmJ .userProfileModalOuter-1FYL8T .userProfileOuter-1K_BYU .userProfileOuterUnthemed-2b2rsv .profileColors-3Y0XaR .theme-dark .default-colors {
+	border-radius: 0px;
+}
 
 .userProfileModalOuter-1FYL8T{
 	width: auto!important;
@@ -5452,5 +5486,5 @@ box-shadow: none!important;
 
 .userPanelOverlayBackground-3xwDMp, .userProfileModalOverlayBackground-8p3-eU{
 	border-radius: 0px;
-	border: 1px solid var(--light);
+	border: 1px solid var(--dark);
 }
