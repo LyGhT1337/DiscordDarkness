@@ -502,7 +502,7 @@ padding-right: 0px;
 
 ::-webkit-scrollbar {
 	border: none!important;
-	width: 3px!important
+	width: 2px!important
 }
 
 ::-webkit-scrollbar-track {
@@ -521,6 +521,13 @@ padding-right: 0px;
 	border-radius: 0!important;
 	border: 1px solid var(--dark);
 }
+
+.scroller-3X7KbA ::-webkit-scrollbar-thumb {
+	background: var(--dark)!important;
+	border-radius: 0!important;
+	border: 1px solid var(--dark);
+}
+
 
 .scrollerWrap-2lJEkd ::-webkit-scrollbar {
 	width: 0!important
