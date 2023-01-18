@@ -502,7 +502,7 @@ padding-right: 0px;
 
 ::-webkit-scrollbar {
 	border: none!important;
-	width: 6px!important
+	width: 3px!important
 }
 
 ::-webkit-scrollbar-track {
@@ -519,7 +519,7 @@ padding-right: 0px;
 ::-webkit-scrollbar-thumb {
 	background: var(--primary)!important;
 	border-radius: 0!important;
-	border: none!important
+	border: 1px solid var(--dark);
 }
 
 .scrollerWrap-2lJEkd ::-webkit-scrollbar {
