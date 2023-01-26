@@ -8,7 +8,7 @@
 }
 
 /* Server List */
-.scroller-3X7KbA {background-color: var(--dark);}
+.scroller-3X7KbA {background-color: var(--dark)!important;}
 /* Empty Channel Icon */
 .emptyChannelIcon-3IXV5M { background-color: var(--medium);}
 /* Scroll Bar Member List */
@@ -3331,11 +3331,11 @@ background-color: var(--hoverlight);
 }
 
 .container-1NXEtd{
-    background:none;
+    background:none!important;
 }
 
 .scroller-1ox3I2{
-    background:none;
+    background:none!important;
 }
 
 /* Server Settings Noti Settings */ 
