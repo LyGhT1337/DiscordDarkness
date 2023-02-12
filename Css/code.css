@@ -5488,3 +5488,41 @@ box-shadow: none!important;
 	border-radius: 0px;
 	border: 1px solid var(--dark);
 }
+
+.theme-dark .panel-2ZFCRb{
+	background: var(--primary);
+}
+
+.theme-dark .selected-26oxtA{
+	background: var(--light);
+}
+
+.theme-dark .interactive-26HRN_:focus-within, .theme-dark .interactive-26HRN_:hover{
+	background: var(--hoverlight);
+}
+
+.lookFilled-1H2Jvj.colorBrand-2M3O3N{
+	background-color: var(--primary);
+}
+
+#popout_771 > div > div > div > div > div.clickable-3iBWTO.avatarWrapperNormal-1tQ3Je.avatarWrapper-3y0KZ1.avatarPositionPremiumBanner-2nq2Fy > div > div > svg > circle{
+	display: none;
+}
+
+.overlayBackground-1KgwVi{
+	border: 1px solid var(--dark);
+}
+
+.textarea-_59yqs{
+	border-radius: 0;
+	background-color: var(--medium)!important;
+}
+
+.messageInput-1KI8l8{
+	border-radius: 0;
+	background-color: var(--medium)!important;
+}
+
+.input-3O04eu.focused-16iuXg, .input-3O04eu:focus{
+	background: var(--dark);
+}
