@@ -5526,3 +5526,12 @@ box-shadow: none!important;
 .input-3O04eu.focused-16iuXg, .input-3O04eu:focus{
 	background: var(--dark);
 }
+
+.wrapperSimple-2SFl9K{
+	border-radius: 0px!important;
+	overflow:none;
+}
+
+.wrapper-2PSQCG{
+	border-radius: 0px!important;
+}
