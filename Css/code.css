@@ -5567,3 +5567,25 @@ foreignObject {
 circle {
     display: none;
 }
+
+
+/* Light Profile Fixes */
+.theme-light .userTagUsernameNoNickname-2e_xaO{
+	color: var(--context-icon-focused);
+}
+
+.theme-light .customStatus-3Bvsdb{
+	color: var(--context-text-focused);
+}
+
+.theme-light .activityUserPopoutV2-3eKqzY .headerText-3g1XK9{
+	color: var(--context-text-focused);
+}
+
+.theme-light .activityUserPopoutV2-3eKqzY .nameNormal-2fPMD2{
+	color: var(--context-text-focused);
+}
+
+.theme-light .role-2TIOKu{
+	background: var(--medium)!important;
+}
