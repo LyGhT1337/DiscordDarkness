@@ -4205,10 +4205,6 @@ box-shadow: none!important;
 	border-radius: 0 0 0px 0px;
 }
 
-.icon-3AqZ2e {
-	border: 1px solid var(--light);
-}
-
 .avatarSpeaking-2pCGrZ {
 	box-shadow: inset 0 0 0 2px hsl(139,calc(var(--saturation-factor, 1)*47.3%),43.9%)!important;
 }
@@ -5534,4 +5530,8 @@ box-shadow: none!important;
 
 .wrapper-2PSQCG{
 	border-radius: 0px!important;
+}
+
+foreignObject {
+    mask: none;
 }
