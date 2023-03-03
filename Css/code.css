@@ -1923,6 +1923,34 @@ svg[name=Discord] {
 	border-radius: 0
 }
 
+.userProfileInner-3F03PX{
+	border-radius:0px;
+}
+
+.side-1lrxIh .item-2GWPIy{
+	border-radius:0px;
+}
+
+.button-1EGGcP.buttonColor-3bP3fX, .button-1EGGcP .buttonColor-3bP3fX{
+	border-radius:0px;
+}
+
+.userProfileModalInner-3fh3QA:before{
+	border-radius:0px;
+}
+
+.root-2uUafN{
+	border-radius:0px;
+}
+
+.userPopoutInner-1hXSeY:before{
+	border-radius:0px;
+}
+
+.userProfileOuter-1K_BYU{
+	border-radius:0px;
+}
+
 .theme-dark .expandedFolderBackground-2sPsd-.hover-2ji_A7,.theme-dark .folder-21wGz3.hover-2ji_A7,.theme-light .expandedFolderBackground-2sPsd-.hover-2ji_A7,.theme-light .folder-21wGz3.hover-2ji_A7 {
 	background-color: #07070a;
 	border-radius: 0
@@ -5534,4 +5562,8 @@ box-shadow: none!important;
 
 foreignObject {
     mask: none;
+}
+
+circle {
+    display: none;
 }
