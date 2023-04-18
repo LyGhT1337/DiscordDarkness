@@ -1,4 +1,4 @@
-# DiscordDarkness - A WiP Theme based on DiscordElectro
+# DiscordDarkness - A WiP Theme based on Discord Electro - CURRENTLY ON HOLD 2 MONTHS
 
 Compact, squared and dark for nightowls!
 
